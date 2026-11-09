@@ -1,0 +1,1001 @@
+event_id,player_id,event_date,heroes_used,kills,deaths,assists,match_result
+a958abed-01b1-43de-8916-c0515163c52a,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2022-01-29T18:15,"Jan Calveit;Pharah;Roadhog",4,13,16,Lose
+1c04500c-8685-4ac6-8a3a-4171fd8ceb1c,09b11048-d0ad-4064-9e3c-24867f2caf29,2020-03-19T19:15,"Doomfist;Ana;Moira;Sweers;Donar an Hindar",13,7,7,Win
+912fc785-f897-4449-92c6-f6331bdb495e,0aa495a3-3b46-447e-b1ca-8ab04f693594,2018-03-15T14:30,"Nautilus;Sion;Dudu Biberveldt;Avallach",9,7,0,Win
+dc75272e-88a7-4a91-a480-7009dad48854,66084187-cb2d-498c-8f76-2648ea1e4a8b,2023-05-03T19:00,"Quinn;Dethmold;Milton de Peyrac-Peyran;Zac",11,0,4,Lose
+0c7d072d-c039-4d0f-bbb0-8e6367beeae3,79ef3b2e-d436-412e-80f2-a212859fc42b,2017-08-25T16:15,"Doomfist;Princess Zelda;Symmetra;Genji;Torbjorn",19,15,6,Win
+12c9bd36-d5e5-4f6a-be86-87b851b358ca,6a38a193-f277-48ac-8ef8-87b6f43e682d,2018-03-15T14:00,"Maku Tree",14,7,3,Lose
+98135824-3288-4019-933f-587bfe7728ce,52cc4a6d-4731-4d70-b593-5d0cb541e598,2019-05-22T21:30,"Rumble;Hjalmar an Craite;Vladimir;Emiel Regis Rohellec Terzieff-Godefroy;Twisted Fate",11,5,0,Lose
+a2b5d89f-2dcc-4bf3-bfb7-20525d414e07,81b4b875-d756-42f5-9185-45d357c3fcc1,2019-10-12T18:45,"Palmerin de Launfal;Soldier 76;Moira;Donar an Hindar",15,7,6,Draw
+18a47456-6a41-4994-889d-2352c555e9ca,81b4b875-d756-42f5-9185-45d357c3fcc1,2023-11-07T21:45,"Zarya;Master Yi;Symmetra;Tibor Eggebracht;Stefan Skellen",3,10,17,Draw
+f88185eb-5d67-41b7-9b3b-b72c927a4ba4,41cd39b3-b42e-4537-ad09-7259801e5f6c,2019-03-09T15:45,"Teba",16,16,17,Lose
+e9ab7a90-d944-473d-917a-357e82001441,25934abb-ebc7-48d1-8540-71145788e564,2019-01-26T17:00,"Vernon Roche",14,5,14,Draw
+91c7809f-0f64-4941-ae20-855550eea493,03089914-0582-4b95-af84-09996db5fd8b,2025-06-10T20:45,"Reaper",4,5,3,Lose
+78c7cde2-a60b-472d-baf7-b51e2cce438f,f1ec3853-d4f0-4419-bf88-65d495a0086b,2021-11-14T14:45,"Mipha;Viktor;Twisted Fate;Braum;Aatrox",7,4,17,Draw
+53ddfa85-aa49-4c61-a147-fef942f0be47,eeb36c45-0408-4c18-9781-59cc1d398a44,2025-01-09T12:00,"Torbjorn",18,7,13,Lose
+a58b3c9f-a06d-4396-8886-0b0d9f45b0f6,8e1b80d7-5cb8-429d-b4b8-3ebcd096db76,2025-11-03T14:00,"Alder;Maokai;Mordekaiser",1,6,4,Lose
+3f2a6aef-92bd-4bfc-ad19-ef599039008b,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2024-09-10T13:00,"Winston;Deppi;Mercy",14,0,14,Lose
+9e8512c8-2d40-4314-934b-25bb3fcb568e,25934abb-ebc7-48d1-8540-71145788e564,2020-05-27T20:15,"Sigismund Dijkstra;RekSai",12,6,5,Win
+731c0447-4f2a-45c6-a29b-75466c43abf3,6a38a193-f277-48ac-8ef8-87b6f43e682d,2020-04-07T20:00,"Wrecking Ball;Junkrat",14,2,19,Lose
+75ef9fbb-fa1d-4a8f-b93f-7c5ca4458384,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2018-08-08T18:45,"Carthia van Canten;Bastion",11,5,14,Win
+89906d18-1749-477f-b2e1-d95d7fc16d11,81b4b875-d756-42f5-9185-45d357c3fcc1,2021-09-16T13:00,"Kindred;Lakna Rokee;Ves;Reinhardt;Old Wayfarer",19,0,15,Draw
+065e6276-45df-4304-b025-c67a303bffef,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2025-02-26T14:30,"Reinhardt;Plikango",2,9,13,Draw
+5f9478c2-5ae2-46bb-9f2d-8044dc5ba286,f6f11f4b-a022-4d33-b22d-3ec8ae188fb0,2021-12-21T17:15,"Genji;Sigrdrifa",4,18,7,Lose
+1c91d386-ab29-4c29-bfe9-bab206608ed2,f6f11f4b-a022-4d33-b22d-3ec8ae188fb0,2018-06-28T19:15,"Toto;Akali;Ves;Gnar;Kassadin",19,17,10,Lose
+9513b998-cfa5-4bf4-a0de-8c7838ecaa5c,8e1b80d7-5cb8-429d-b4b8-3ebcd096db76,2024-06-23T12:45,"Sombra;Sejuani;Daqa Koth;Junkrat;Assire var Anahid",8,17,11,Draw
+76a98b1e-87d2-4847-ac26-142b08f90f1b,d5afd081-738b-4502-be88-4730d1a5a949,2017-10-14T16:45,"Philippa Eilhart;Milva;Rauru;Soh Kofi;Quill",0,6,16,Win
+49723a07-7d98-4187-8c25-f3deb93a9079,575ab297-43e9-4248-b98b-6dc3464fa9e7,2021-02-18T13:15,"Imlerith",0,17,9,Draw
+858ee837-a3ca-4ad7-a2cb-c0cd08a789f1,8e1b80d7-5cb8-429d-b4b8-3ebcd096db76,2022-09-29T15:45,"Champions;Tatl;Fado",11,5,13,Draw
+c870ecde-7296-41f9-8e1c-ed08ab1bc9c0,f1ec3853-d4f0-4419-bf88-65d495a0086b,2024-10-15T18:30,"Syndra;Soldier 76",16,8,15,Draw
+34f7437b-868d-4152-a7bf-55a5c6fd4681,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2024-08-30T14:00,"Widowmaker;Bombers;D.va;Emiel Regis Rohellec Terzieff-Godefroy;Hanzo",19,19,9,Win
+b5a1a265-23b5-40d1-98c1-85be6853d11e,0aa495a3-3b46-447e-b1ca-8ab04f693594,2022-10-30T14:15,"Jan Natalis;Whoreson Junior;Symmetra;Kassadin;Pharah",19,17,1,Draw
+40d55dce-0744-45ed-aa72-7841b3bd8c52,01027715-f54e-49f8-9167-5b364bcd298c,2021-03-02T21:30,"Mei;Jabun;Symmetra",15,17,16,Draw
+2a3c9a02-6773-4fc5-bf30-1b6735d1374d,d5afd081-738b-4502-be88-4730d1a5a949,2022-10-26T18:45,"Triss Merigold;Talon;Lucio;Yunobo;Steen",13,6,12,Win
+1bc75f65-d338-43b8-a82c-fe995f58029a,cadba9d3-7200-457e-af48-60e377bcca7e,2020-12-14T19:30,"King Foltest;Torbjorn;Vernon Roche;Ivern",14,17,1,Draw
+e5e14c7f-46a2-487b-afce-dc205dc2be0c,41cd39b3-b42e-4537-ad09-7259801e5f6c,2020-11-27T16:30,"Vilgefortz;Addario Bach;Cho-Gath",14,0,18,Lose
+d759592d-2972-4a82-82ba-105531e98434,a6d1b4aa-5be2-4b97-b333-fc9ee9a8218b,2023-06-12T19:00,"Calip;Uma;Skjall;Twisted Fate;Zenyatta",18,17,3,Win
+8ddededc-1c6a-4bf6-b510-e9336676ee58,180c0099-f5f5-4883-9977-9280ded07c56,2022-06-18T18:00,"Uma;Yuumi;Torbjorn",5,4,3,Lose
+8c743247-e865-44e8-a9a2-a563fb61548b,b2252a8b-1495-4361-b050-84a4d35ab695,2025-07-07T13:15,"Lucio;Beth",13,4,6,Draw
+eca79964-baec-4964-92f9-9c0ef774a9ec,01027715-f54e-49f8-9167-5b364bcd298c,2017-09-29T21:45,"Sion",19,10,13,Win
+9be1a0ef-8e8b-402e-a02b-f512f9c8e933,b77d2f20-4a64-4c21-8e71-f955f401d4e5,2024-01-13T14:30,"Doomfist;Yorick",2,15,14,Draw
+056db0bc-f2e6-46f4-aa53-f14b0614f107,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2022-03-21T17:45,"Torbjorn;Grandma Ulrira",17,14,13,Draw
+06bf7293-c09a-4972-bf8b-fe7ab6185752,ed872a2a-5a3e-48a4-855e-cb8d1986885a,2021-09-12T17:30,"Reaper;Roadhog",17,10,9,Lose
+084f3da3-aa55-4309-a2d7-ba7df3932133,82087c79-fcae-4fc1-875d-605e81176d18,2019-10-09T21:30,"Avallach;Roadhog;Karma;Roach",1,3,14,Lose
+90e437ad-1949-49ff-abae-f2ff85b531bb,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2019-03-04T20:15,"Winston;Yah Rin",19,1,10,Draw
+af160417-4e3b-42e1-9fb6-1ee6f290d868,641adc79-39cb-4ce3-a214-83464751fd30,2021-04-13T19:30,"Whoreson Junior",10,5,18,Lose
+02eb457d-b29b-4d6f-8d45-2a8693dc3bb8,ed872a2a-5a3e-48a4-855e-cb8d1986885a,2025-01-03T18:30,"Neeko",5,5,3,Draw
+74d73544-3b75-4f08-8cfd-1f503eb117c7,6ac6b618-69e1-4200-ab10-f16ef8461648,2019-05-26T17:30,"Saskia;Zyvik;Assire var Anahid;Gragas",19,3,0,Win
+27ad0138-81b0-432d-9c23-23327990f47d,82087c79-fcae-4fc1-875d-605e81176d18,2024-01-10T17:15,"Illaoi;Cassiopeia;Kao Makagh",15,17,3,Draw
+42640697-2fb3-48b4-8794-a5e00d47bb01,25934abb-ebc7-48d1-8540-71145788e564,2024-11-06T16:45,"Sombra;Margarita Laux-Antille",11,10,9,Lose
+33e2cad8-efa2-4370-94d4-4b30adeba80f,a24c736a-e004-401e-91cd-eb14c95f6bea,2016-07-19T18:30,"Joachim de Wett;Symmetra;McCree",17,12,13,Draw
+66d0320f-2ace-4e72-90a3-57e3a6ec9940,f1ec3853-d4f0-4419-bf88-65d495a0086b,2021-11-04T14:00,"Mei;D.va",7,1,8,Lose
+fac1835e-1069-4a4a-84d9-575fc8e2bc0b,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2022-12-20T13:15,"Zarya;Graves;Bastion;Tibor Eggebracht;Renekton",2,13,3,Draw
+b0f44ceb-027a-4a60-8e5f-cc7bf91e14e7,81b4b875-d756-42f5-9185-45d357c3fcc1,2017-12-21T18:45,"Moira;Vernon Roche",0,0,8,Lose
+f1c5c288-18a5-4d82-8c6b-868965a8ec48,d5afd081-738b-4502-be88-4730d1a5a949,2020-04-16T21:30,"Mei;Mr. Barten;Tahm Kench",17,15,15,Draw
+2c8afe36-0427-4104-ae0d-cbd426ad462c,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2018-07-10T17:00,"Ziggs;Gangplank;Ghost;Sheldon Skaggs;Xerath",3,5,8,Draw
+59edae11-ec94-4729-8d90-2e8eb32575a4,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2023-04-16T16:15,"Milton de Peyrac-Peyran",6,11,4,Win
+c192f343-10e1-49cb-be4f-19a51a2f11cc,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2021-01-25T17:30,"Olgierd von Everec;Addario Bach;Bastion;Miss Fortune",11,19,0,Lose
+ad663b56-e4ed-48b1-8f6e-b71dc60a4c62,8e1b80d7-5cb8-429d-b4b8-3ebcd096db76,2017-11-17T12:15,"Ekko;Captain",5,13,15,Win
+c8893676-baa8-4309-a275-ea020332cd3d,176742ce-bf66-4728-89df-ea3533892830,2017-05-10T13:30,"Doomfist;Sion;Winston;Potho;Oshus",2,18,19,Win
+38908636-2090-4c55-a3aa-31d24edca537,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2018-11-17T17:15,"Reaper;Daqa Koth;Neeko;Chio",6,2,0,Lose
+30a83ee5-2559-4bf5-a21f-5048379d3972,aaa6b816-a98a-438e-b7d1-46bde41fb9b5,2016-08-17T19:45,"Diana;King Henselt;Rauru;Twisted Fate;Orianna",9,16,1,Lose
+bf9f59d7-88ea-4d37-8bf4-77697ba11f24,b2252a8b-1495-4361-b050-84a4d35ab695,2022-09-07T17:00,"Zooki;Jayce;Bastion;Reinhardt;Nocturne",1,8,1,Lose
+866f0627-460d-4fb0-9684-38a974c2740c,03089914-0582-4b95-af84-09996db5fd8b,2025-12-06T21:15,"Sorelia;Ralph;Dimitri",2,10,18,Draw
+7607160e-cf96-43b1-b4e9-a66bfb9ea106,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2023-02-14T17:15,"Rem",13,8,11,Draw
+d5d97bf1-1027-4bee-8594-2e79f9a194a0,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2017-08-21T20:00,"Vi;Widowmaker;KaiSa",16,2,9,Win
+37efa7c9-794a-4eaf-8d0c-08bf7f4f368f,03089914-0582-4b95-af84-09996db5fd8b,2016-10-18T17:15,"Soldier 76;Reinhardt",5,9,17,Draw
+f47d4ad9-9319-4f66-8e33-669a690ab8d2,38be1605-e11e-4e9d-a209-421369c62024,2016-02-22T16:30,"Fairy Queen;Imlerith;Johnny;Cyclos",11,1,15,Win
+9338031f-7a14-4732-b9a5-3e3ca773f358,e5c27a51-f883-4d27-87e8-7d221018a25f,2016-03-08T21:30,"Wrecking Ball;Schirrú;Blade Brothers;Junkrat",7,3,6,Lose
+3301b389-b0ca-45a6-b6e3-1c9524a45924,0a8f62ad-4ef8-42c1-a931-c1cc38510cd8,2024-11-08T14:15,"Vattier de Rideaux;Neez Yohma;Moira;Yennefer of Vengerberg",13,1,4,Draw
+3d4e3ed2-108b-41f2-8acb-a214a65883d8,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2020-09-09T15:00,"Lucian;Yuumi;Teemo;Mercy;Doc Bandam",17,18,2,Win
+61078e4e-89ab-4c39-9d31-ad2e298c1d8c,aaa6b816-a98a-438e-b7d1-46bde41fb9b5,2016-08-14T12:00,"Aglaïs;Cassiopeia;Priscilla;Tryndamere;Roach",16,14,5,Win
+989b1be7-d171-41ee-937d-e7c3137a4aae,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2023-01-11T21:00,"KogMaw;Junkrat;Pharah;Dah Kaso",9,9,4,Draw
+2820028a-bd01-45c6-97f0-b1bd80fd5866,03089914-0582-4b95-af84-09996db5fd8b,2025-07-16T14:00,"Madam MeowMeow;Aatrox",10,3,11,Lose
+4abd72d6-a6eb-4bd0-ac7f-96c4e09e94dc,a6d1b4aa-5be2-4b97-b333-fc9ee9a8218b,2020-05-09T18:30,"Shani;Genji",8,7,11,Lose
+315e1a61-4586-4119-be09-5c03c43949ec,38be1605-e11e-4e9d-a209-421369c62024,2016-07-07T20:15,"Akali;Malo;Reaper;Orisa;Twisted Fate",11,11,1,Draw
+bad82d60-923c-4396-82cc-e0ff3d0cfd72,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2019-01-31T12:00,"Widowmaker",16,4,19,Draw
+6e6260b6-1349-40b9-832f-a7e4fb54b74e,180c0099-f5f5-4883-9977-9280ded07c56,2024-04-04T12:30,"Xayah",11,10,17,Lose
+47fdc78c-7e30-4a2e-9439-ebaf7cc6299a,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2017-01-05T18:45,"Widowmaker;Roadhog;Ermion",4,6,8,Lose
+3afd0ffd-3f3a-4af4-a1e7-288c8449c439,6ac6b618-69e1-4200-ab10-f16ef8461648,2022-01-18T19:15,"Singed;Darius;Yaevinn;Blossom",13,8,4,Lose
+396e5944-abe9-4134-b7ea-15469a4368d0,b2252a8b-1495-4361-b050-84a4d35ab695,2025-11-29T18:45,"Hjalmar an Craite;Fairies;Bastion;Mousesack;Zenyatta",1,15,15,Lose
+4343a2cb-947f-4d20-ad16-b4c950823788,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2016-12-13T21:15,"Bran an Tuirseach;Sivir",3,1,19,Draw
+58b09f55-a5bd-4d86-bb98-d9e1181d0894,b2252a8b-1495-4361-b050-84a4d35ab695,2016-12-05T19:30,"Dan Hesho;Winston;Volibear;Mrs. Marie;Renekton",7,12,16,Lose
+6db488d1-7dfc-4920-b741-2e0b2f580ff0,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2024-07-03T12:00,"Wrecking Ball;Braum",16,16,6,Lose
+33216521-dfb9-4ff0-b3cb-68491cac3ce0,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2025-02-14T16:45,"Shiro;Amumu;Zenyatta;Rosa;Sheldon Skaggs",12,16,8,Lose
+6eeb1cd1-0eb0-4dee-b49c-068e7f94f2c3,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2021-09-02T17:00,"Mei;Milton de Peyrac-Peyran;Zilean",19,15,6,Draw
+f874979a-c885-402e-ad97-894d6723525f,0aa495a3-3b46-447e-b1ca-8ab04f693594,2017-02-16T16:15,"Old Men;Anivia;Heimerdinger;Gaunter ODimm",1,14,15,Win
+70d6b2e9-3e25-49c4-bcfc-a4fcfd61231e,575ab297-43e9-4248-b98b-6dc3464fa9e7,2022-04-11T16:30,"Dampé;Pavetta;Gnar;Janna",3,5,7,Draw
+62ba4074-e866-4d0c-b13e-962c70b3cf89,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2019-05-04T19:00,"Shae Loya;Ezreal;Aurelion Sol;Borlov",4,0,3,Win
+8b4c2679-1f98-41e3-ac83-eac53dc30557,cadba9d3-7200-457e-af48-60e377bcca7e,2021-12-05T13:00,"Vilgefortz;Old Wayfarer;Manbo",13,6,4,Lose
+fd20fca9-c44e-4e45-911a-c68c4b5c1351,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2016-09-10T15:45,"Caitlyn;Kah Mael",7,13,1,Draw
+432bafa0-a4c7-4905-8e5c-762e60d3fce7,2b45e4db-da46-42d9-8db9-e7f09f5e8fa6,2025-06-11T19:30,"Lucio;Nunu & Willump;Yuumi;Shee Vaneer",1,16,2,Draw
+ac0ab912-a92e-4744-82da-5c17bf2352c1,01027715-f54e-49f8-9167-5b364bcd298c,2017-09-16T14:45,"Kalista;Lulu;Junkrat;Morvran Voorhis",4,11,0,Lose
+c2ae1042-711b-43ce-aad2-707fc63b31d3,38be1605-e11e-4e9d-a209-421369c62024,2016-05-05T13:00,"Mei;Rik;Patch;Onox;Garadon",13,2,0,Win
+718ee3f5-f26a-4ddf-99c9-ed3e6f771780,176742ce-bf66-4728-89df-ea3533892830,2022-06-14T12:00,"Malphite;Orisa;Emiel Regis Rohellec Terzieff-Godefroy;Ciri",13,10,19,Draw
+b1137f52-495e-45c7-bdb6-6984b8e70c91,d5afd081-738b-4502-be88-4730d1a5a949,2020-11-12T21:45,"Addario Bach;Aurelion Sol",7,10,14,Lose
+8893b718-de8a-42aa-a383-4fcc481732da,81b4b875-d756-42f5-9185-45d357c3fcc1,2024-01-18T19:45,"Sahasrahla;Moira;Xarthisius",6,18,11,Win
+ec8d5dc4-3ff5-4023-9519-0cd0549249ec,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2024-09-30T13:30,"Albrich;Padok;Astrid;Roadhog",1,9,5,Win
+85e9a838-f367-4d72-acd5-d172ab545c1f,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2024-01-13T14:00,"Doomfist;Pumaag Nitae;Jan Natalis;Darunia",10,19,11,Win
+af050c30-043c-4e16-88c2-f76866a0d467,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2021-08-10T20:00,"Johnny;Katah Chuki;Ivern",16,15,14,Draw
+d6cf928e-22ed-4776-94f3-483d814913e9,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2018-11-13T21:45,"Dethmold",15,3,2,Win
+75201734-8d56-481c-a7ba-52496dda3b54,f6f11f4b-a022-4d33-b22d-3ec8ae188fb0,2021-03-05T18:30,"Curiosity Shop Guy;Rengar",15,17,10,Win
+100c752f-6402-4ee7-ba1d-adb6e02072d0,f6f11f4b-a022-4d33-b22d-3ec8ae188fb0,2024-12-28T14:15,"Fringilla Vigo;Blitzcrank;Sweers;Mercy;Morvran Voorhis",10,6,16,Lose
+543febc6-b659-4bf1-b18d-bc00f5f0dbcc,01027715-f54e-49f8-9167-5b364bcd298c,2021-04-30T12:00,"Caranthir;Teba;Roadhog;Veigar",15,10,3,Lose
+86f30b57-e6dd-48ea-b24a-ade8f84ff2e9,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2017-04-28T15:00,"Widowmaker;Dudu Biberveldt;Killer Bees;Dandelion;Kennen",15,9,11,Win
+b411a85c-2d41-4f15-8c3a-9324b0959bb1,8e1b80d7-5cb8-429d-b4b8-3ebcd096db76,2024-04-29T17:45,"Great Fairies;Winston;Orca;Junkrat;Swain",13,2,9,Lose
+45c54cfd-da5c-4361-8fcc-4050d0510cea,575ab297-43e9-4248-b98b-6dc3464fa9e7,2019-02-05T17:30,"Ziggs;Skarner",1,17,16,Lose
+f6248324-7d9b-47b4-9e96-0990dcb347cf,60c94ef6-750a-41fb-886e-babe72a2cc4c,2018-06-10T17:45,"Winston;Widowmaker",2,18,17,Draw
+28dac406-374a-429e-9055-79e55bace959,575ab297-43e9-4248-b98b-6dc3464fa9e7,2017-09-27T13:15,"Mina;Mordekaiser",4,6,5,Win
+42468287-e93e-44f0-895f-0edc17cc3361,6a38a193-f277-48ac-8ef8-87b6f43e682d,2024-07-23T12:00,"Ezreal;Deku Tree Sprout",2,5,15,Draw
+644c4b7a-236d-4cb2-a5ef-0af7fc4a6203,ed872a2a-5a3e-48a4-855e-cb8d1986885a,2023-05-01T21:30,"Dimitri",0,17,19,Lose
+d5d97bf1-1027-4bee-8594-2e79f9a194a0,b77d2f20-4a64-4c21-8e71-f955f401d4e5,2017-08-21T20:00,"Daka Tuss;Captain;Urgot;Roadhog",3,1,10,Lose
+06699904-5778-412c-a6a0-66ff766a6222,82087c79-fcae-4fc1-875d-605e81176d18,2022-05-25T12:45,"Ashe;Zarya",6,0,7,Win
+addf113c-1f83-4a7f-b105-ef70b5132c1d,2b45e4db-da46-42d9-8db9-e7f09f5e8fa6,2018-01-24T14:45,"Iorveth;Yaevinn;Karthus;Aelirenn",14,6,17,Win
+0303c9a6-3493-407c-898e-f59111a74ef0,d5afd081-738b-4502-be88-4730d1a5a949,2024-08-04T20:00,"Skull Kid;Taliyah;Widowmaker;Mercy;Malzahar",2,16,14,Lose
+a25752a8-3e1a-4df7-83e8-00f3ba7e1e51,60c94ef6-750a-41fb-886e-babe72a2cc4c,2016-01-19T20:45,"Cucco Keeper",6,8,17,Draw
+d9ea158d-3e95-4e94-b515-314c3c3ade3b,25934abb-ebc7-48d1-8540-71145788e564,2018-10-04T21:15,"Yuumi;D.va;Maple",14,2,2,Draw
+2ca7f8bc-c9dd-44c6-8b4b-78fcc61279e5,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2023-03-02T21:15,"Menno Coehoorn;Flat",17,4,15,Win
+8b67bf79-19c2-4f9d-8bfe-a98a1dc91ccc,aaa6b816-a98a-438e-b7d1-46bde41fb9b5,2020-01-24T14:00,"The Bloody Baron;Corki;Kassadin;Mercy",7,14,2,Win
+68ab730b-c5fd-41e1-8608-a92939f5d6f8,b3d6baac-8141-4390-9858-654aa665284e,2018-05-30T18:45,"Corki;Skjall;Sweers;Zenyatta",8,13,4,Win
+bd7a5cc7-fe53-4ee7-ac52-bba483f88566,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2019-05-11T12:45,"Yasuo;Bagu;Calanthe;Olkin",18,12,10,Win
+43c74755-32f8-4f45-9130-f4529c0e0a28,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2024-08-30T14:15,"Bastion;Zyra;Shai Utoh;Lucio;Kao Makagh",1,5,12,Win
+a2310038-2aea-45ef-abe6-49586b513713,eeb36c45-0408-4c18-9781-59cc1d398a44,2022-08-14T21:00,"Fringilla Vigo;Wrecking Ball;Singed;Francesca Findabair;Hetsu",3,9,13,Lose
+ce02d11d-c831-41b5-b3bb-a17a3613ce8c,60c94ef6-750a-41fb-886e-babe72a2cc4c,2024-11-16T16:00,"Lucio;Tracer;Jenge Frett;King Radovid;Veigar",8,6,7,Draw
+18eed59f-8e57-47fc-a508-ec88704bb234,0a8f62ad-4ef8-42c1-a931-c1cc38510cd8,2023-06-27T14:45,"Sombra;Tarin;Twisted Fate;Kayo",14,18,8,Lose
+790f5732-89d0-4ae3-b106-31f451544fa9,d5afd081-738b-4502-be88-4730d1a5a949,2017-08-14T17:00,"Roadhog",3,11,14,Win
+fd9945ae-43ac-48fd-8ae5-541c66c6c706,641adc79-39cb-4ce3-a214-83464751fd30,2023-01-17T15:30,"Winston;Anna Strenger;Genji;Junkrat;Sigrdrifa",10,18,12,Win
+87064e09-911a-4377-aefc-e4c719d61a0f,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2018-02-01T16:30,"Hanzo",3,3,11,Draw
+fd20fca9-c44e-4e45-911a-c68c4b5c1351,38be1605-e11e-4e9d-a209-421369c62024,2016-09-10T15:45,"Zarya;Ana;Pharah",3,3,7,Draw
+543fba03-6f01-47f9-8255-76eef4ab1372,86ba556f-9400-4e1c-b406-bfe4c0545ee5,2021-09-23T16:45,"Genji;Eithné",17,9,9,Draw
+89906d18-1749-477f-b2e1-d95d7fc16d11,09b11048-d0ad-4064-9e3c-24867f2caf29,2021-09-16T13:00,"Abe;Nasus;Darunia",4,6,16,Draw
+07ba4995-faf2-43ff-8b06-2f9fb742b0d7,2b45e4db-da46-42d9-8db9-e7f09f5e8fa6,2016-02-16T12:30,"Menno Coehoorn;Muzu;Kiki",10,0,7,Lose
+3ecf2621-4465-42b5-9c0c-424fb088948c,60c94ef6-750a-41fb-886e-babe72a2cc4c,2024-09-22T21:00,"Tryndamere;Quinn;Pharah;Esterad Thyssen",6,3,18,Lose
+0e27045a-b700-4703-b78f-a374a6b06cf0,38be1605-e11e-4e9d-a209-421369c62024,2018-10-28T17:15,"D.va;Xerath",12,4,2,Draw
+f4b117c2-075f-4b2b-9ea5-b0f88c2a52c4,0a8f62ad-4ef8-42c1-a931-c1cc38510cd8,2019-10-14T16:30,"Zephos;Sale;Addario Bach;Yaevinn",13,2,12,Win
+9af2dcf6-3be0-4d48-9c33-c9e041b0d0ee,82087c79-fcae-4fc1-875d-605e81176d18,2016-08-13T13:15,"Yeta;Kled;D.va;Azir;Belari",6,10,10,Draw
+20759e96-9fbb-408f-ba61-60dff9e637e6,9caa58d7-a045-440e-b7cc-29bd1b01bf3e,2016-04-23T15:00,"Muwo Jeem;Rauru",13,1,11,Win
+10dd1cdf-09f2-4a4f-9b4b-344b3b6d71ed,176742ce-bf66-4728-89df-ea3533892830,2017-09-17T13:30,"Shani;D.va;Pharah;Misae Suma;Adam Pangratt",6,3,7,Lose
+bbfc1006-481f-4a43-b2e9-0fb9ccbe3677,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2021-05-26T16:00,"Gaunter ODimm",0,17,4,Lose
+24464a85-100d-47a5-99e9-c4b8eeaf591f,176742ce-bf66-4728-89df-ea3533892830,2023-05-25T17:45,"Shyvanna;Bastion;Padok;Tahm Kench",9,18,10,Draw
+204f5ec1-3b38-40bd-b720-d4950d8e1deb,2b45e4db-da46-42d9-8db9-e7f09f5e8fa6,2018-04-08T20:15,"Orca;Ooccoo;VelKoz;Morvran Voorhis",11,0,4,Lose
+0fc619b7-3490-4cdc-ad42-9fbce5a1393d,641adc79-39cb-4ce3-a214-83464751fd30,2020-04-09T18:15,"Richard;Steen;Vilia;Irelia",12,19,9,Win
+bb10aa79-7ea2-49a2-a57e-aa718a97a1df,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2024-02-13T13:00,"Zoltan Chivay",15,5,6,Lose
+5d8677b0-090c-4be6-a9a1-e0f8d8dc5bb8,52cc4a6d-4731-4d70-b593-5d0cb541e598,2017-10-29T21:45,"Diana;Reaper",7,6,10,Win
+6b443a08-6b80-4bb8-b6b1-0282ba5b1290,aaa6b816-a98a-438e-b7d1-46bde41fb9b5,2019-12-24T15:45,"King Demavend;Deities;Oshus;Dandelion",7,17,4,Lose
+3a7c6923-cb8e-4956-91f8-180ff5fb8ee5,60c94ef6-750a-41fb-886e-babe72a2cc4c,2019-01-26T17:00,"Hecarim;Shen",0,10,3,Lose
+9638eb5c-4a83-485a-8b7b-2186f7463981,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2021-07-04T17:15,"King Demavend;Genji;Anivia;Prince Ralis",15,2,6,Win
+5cf5df98-8027-49f5-9928-ff83179349e4,641adc79-39cb-4ce3-a214-83464751fd30,2021-12-16T12:15,"Ana;Orisa;Ciri;Zenyatta",17,0,14,Draw
+a760a956-9d16-47f1-a028-4e6c7100d99e,13e5933e-d555-42cb-985a-80198caf8393,2018-07-08T19:45,"King Henselt;Maria Louisa La Valette;Torbjorn",0,7,1,Draw
+bb477c51-fbbb-4eef-a092-72c3e35073ed,13e5933e-d555-42cb-985a-80198caf8393,2017-05-09T14:45,"Schirrú;Aurelion Sol;Subrosian Queen",5,15,0,Lose
+0db70729-6749-4dac-a9a4-321bcfa4295b,575ab297-43e9-4248-b98b-6dc3464fa9e7,2022-04-05T12:15,"Yennefer of Vengerberg",11,3,16,Lose
+0fde5085-02ee-4a7b-8d41-42c96002344a,b77d2f20-4a64-4c21-8e71-f955f401d4e5,2025-03-24T18:00,"Mei;Karthus;Ciri;Martha",5,9,14,Draw
+36eddfc7-8fad-4b9d-8f7b-79901e2a96c6,03089914-0582-4b95-af84-09996db5fd8b,2018-07-28T19:45,"Wrecking Ball;Ana;Caranthir;Carlov",8,16,10,Draw
+2a20b775-e8f4-4465-a317-0339f7631c70,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2025-10-24T14:45,"Symmetra;Marot;Vayne",0,5,19,Win
+9ed0dc62-4642-4ae6-bf3e-68fb3ab4a888,01027715-f54e-49f8-9167-5b364bcd298c,2017-09-04T16:30,"D.va;Vayne",17,15,12,Win
+74e11bb7-e7e0-468e-8cb4-35fbf11a6e0f,b2252a8b-1495-4361-b050-84a4d35ab695,2022-10-20T14:30,"Zalta Wa",3,3,14,Draw
+98c18d72-7ae9-42d3-82c0-68c749cd6d55,01027715-f54e-49f8-9167-5b364bcd298c,2017-03-22T12:15,"Pamela;Viktor;Moira;Cho-Gath",19,5,5,Lose
+7443d5a9-2bb5-4186-8bd9-096e719e2d5e,575ab297-43e9-4248-b98b-6dc3464fa9e7,2023-04-28T14:00,"Shani;Malzahar",8,2,19,Win
+56f6764e-0f08-43d8-a1e5-8623fbdd9489,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2021-09-30T19:30,"Sigismund Dijkstra;Taloh Naeg",17,2,16,Win
+a71ba300-508f-42df-8147-2cd36ef342f4,66084187-cb2d-498c-8f76-2648ea1e4a8b,2019-09-04T16:00,"Winston;Reaper;Yah Rin",9,12,5,Draw
+fcf996c9-03bd-411f-94ab-9dbe3b84f948,eeb36c45-0408-4c18-9781-59cc1d398a44,2017-01-13T20:30,"Morgana",12,7,0,Win
+df6a7396-f6dc-4972-9ab2-5bfe089d679e,6a38a193-f277-48ac-8ef8-87b6f43e682d,2017-09-21T19:30,"Anna Strenger;Sweers",0,0,4,Lose
+ad714bbe-3ebf-4ad1-ac0d-82efc257b4d6,25934abb-ebc7-48d1-8540-71145788e564,2025-04-07T14:15,"Brand;Soldier 76;Junkrat;Orianna;Adam Pangratt",4,15,8,Win
+e036bb1e-f07a-44d1-aa5f-4b6d4dc48894,52cc4a6d-4731-4d70-b593-5d0cb541e598,2020-12-11T12:15,"Sigismund Dijkstra;Bosh Kala;Bard",1,14,13,Lose
+34fe1703-f5a1-4b88-a237-f543f553f6ef,41cd39b3-b42e-4537-ad09-7259801e5f6c,2016-02-05T13:00,"Mei;Ahri;Sylas;Bastion;Kaepora Gaebora",14,9,11,Win
+5a5ccf09-8613-4d07-b7d6-cb7561122c78,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2020-07-09T17:30,"Doomfist",0,0,15,Win
+b80d318c-23bd-405c-9221-89d20666ff69,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2019-04-25T18:00,"Ana;Pharah;Esterad Thyssen;Azir;Roach",17,16,11,Lose
+ce6738c8-d9eb-4475-a5d3-dc1b70d67251,13e5933e-d555-42cb-985a-80198caf8393,2023-06-27T14:45,"Emhyr van Emreis;Fairy Queen;Whoreson Junior;Symmetra;Urgot",17,18,19,Draw
+7c1bc64a-2357-494e-8212-faddfabdec10,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2025-04-27T14:30,"Ves",19,16,19,Win
+4f6213eb-380d-4c7a-a9ae-42ad7c871508,ef5ceb2f-695b-4b12-b456-1de458e956ec,2020-07-11T15:45,"Wrecking Ball;Milva;Tristana;Avallach",15,6,4,Win
+b9c5457a-c86d-422d-a891-70af8e93264b,82087c79-fcae-4fc1-875d-605e81176d18,2020-05-04T13:00,"Zoltan Chivay;Vaati;Eredin;Reagah",9,17,2,Draw
+f771038d-739d-49f2-a88a-dd1973a73703,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2017-10-17T13:30,"Bastion;Ana;Tena Kosah",13,14,6,Lose
+fa100ec0-01f2-44dc-aa5e-2a2e543310c7,0a8f62ad-4ef8-42c1-a931-c1cc38510cd8,2016-03-09T20:45,"Wrecking Ball;Irelia",6,8,19,Draw
+bb0a0a8f-b289-4509-8512-a7fc5d340a4d,575ab297-43e9-4248-b98b-6dc3464fa9e7,2018-08-29T17:15,"Kayn",8,19,10,Win
+0d92c0a1-5a54-4770-ae40-e55d82a1ef6a,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2016-12-12T12:00,"Agahnim",15,1,6,Lose
+903031f1-aefe-4976-81cf-728a1511fd3d,575ab297-43e9-4248-b98b-6dc3464fa9e7,2022-12-24T19:15,"Lucio;Yuumi;Mayor Dotour",10,7,8,Draw
+1e070b7a-8efe-4467-86da-aa23df30f251,d5afd081-738b-4502-be88-4730d1a5a949,2017-03-01T13:00,"Hurdy Gurdy Man;Rauru;Zenyatta",3,5,1,Lose
+b562b2ec-b5e8-412e-bfe7-5765ad093985,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2022-07-07T19:15,"Hecarim;Jan Calveit;Nasus",0,16,12,Lose
+979aa16e-c565-4bbd-a460-ac83204a078f,180c0099-f5f5-4883-9977-9280ded07c56,2021-11-16T12:30,"Nanna;Elise;McCree;RekSai",10,9,1,Draw
+0910cb4e-6be4-43ca-9872-3645f00f23b4,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2020-03-31T17:15,"Yaevinn;Sona",12,16,17,Win
+283fcad7-2d57-4fe0-a770-d6ae810d779e,575ab297-43e9-4248-b98b-6dc3464fa9e7,2021-05-21T21:15,"Brouver Hoog;Widowmaker;McCree;Zac",13,11,12,Win
+8b5b95cd-f21c-4174-b398-3e8bec8a5078,ef5ceb2f-695b-4b12-b456-1de458e956ec,2024-09-12T21:45,"Ana",1,17,4,Draw
+1d4430fa-29b5-4cf6-8850-1fdd627f22da,38be1605-e11e-4e9d-a209-421369c62024,2025-08-03T16:45,"Skjall;Hanzo;Fiddlesticks;Queen Rutela;Adam Pangratt",16,17,5,Win
+e33f53fc-7f7d-473a-b20e-13a157271aa2,b3d6baac-8141-4390-9858-654aa665284e,2021-10-25T14:30,"Mei;Fizz;Addario Bach;Ryze;Annie",15,5,14,Lose
+ae8ee3dc-ba5d-48f4-862a-09e92efed2f2,f1ec3853-d4f0-4419-bf88-65d495a0086b,2024-02-12T14:30,"Christine;Aglaïs;Myahm Agana;Torbjorn;Renekton",13,14,14,Draw
+03af85fa-9605-4da8-b5fc-1a244dd1510d,eeb36c45-0408-4c18-9781-59cc1d398a44,2025-02-16T14:15,"King Demavend;Kayle;Ana",18,15,14,Draw
+fb9cd5f1-05b9-4c2f-a546-b2f69e427812,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2017-12-04T15:45,"Torfeau;Talon;Sivir",16,10,13,Win
+43a6a40f-797b-477f-ba94-a03e51a6eb74,13e5933e-d555-42cb-985a-80198caf8393,2020-04-25T12:30,"Menno Coehoorn;Midna;King Radovid",0,17,18,Win
+abbe87f8-9822-438e-a7e3-27589719f7d0,b3d6baac-8141-4390-9858-654aa665284e,2020-07-19T17:15,"Keira Metz",8,15,14,Draw
+6c408d60-86e8-4b1c-b6b7-efeecd0d01be,79ef3b2e-d436-412e-80f2-a212859fc42b,2016-01-26T13:45,"Vi;Reinhardt",12,3,9,Win
+74fbd83b-b459-4c3d-ad8a-effb0aad3599,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2021-06-16T15:15,"Mei;Miss Fortune;Daruk;Emiel Regis Rohellec Terzieff-Godefroy;Braum",6,7,18,Lose
+f840f78d-bbec-4a4b-82c1-9daf1912f1dc,a24c736a-e004-401e-91cd-eb14c95f6bea,2020-06-27T19:30,"Tracer;Emiel Regis Rohellec Terzieff-Godefroy;Ciri",11,5,17,Lose
+d5c566fa-c6c4-4914-a2a8-6fd4c74fa19b,0aa495a3-3b46-447e-b1ca-8ab04f693594,2025-10-23T15:30,"Kaam Yatak;Xayah;Zyvik;Imlerith;Symmetra",8,10,14,Lose
+1a1765d5-2a7e-4fa9-96b2-57f25c3530e2,eeb36c45-0408-4c18-9781-59cc1d398a44,2021-09-11T18:30,"Lucio;Reinhardt",2,17,19,Lose
+6bd5ace2-0eca-4bf2-838a-914092571d84,ef5ceb2f-695b-4b12-b456-1de458e956ec,2021-06-06T15:00,"Zarya;Genji;Akh Vaquot;Karma;Kiki",10,0,2,Lose
+dfe1ed8d-b65c-496b-b58c-d307aafc10bd,0aa495a3-3b46-447e-b1ca-8ab04f693594,2023-02-13T18:30,"Rabbits",9,12,8,Lose
+15e6aeb7-0466-4adf-9893-757df41e2a76,66084187-cb2d-498c-8f76-2648ea1e4a8b,2020-02-20T17:45,"Lucio;Milva;Ekko",1,11,12,Win
+0b61f48c-928b-4689-8a11-ca61ae0ab9ee,60c94ef6-750a-41fb-886e-babe72a2cc4c,2025-09-20T18:30,"Philippa Eilhart;Zed;Hanzo",11,6,3,Draw
+51f427b1-a191-48ac-bbee-e506b31de96a,2b45e4db-da46-42d9-8db9-e7f09f5e8fa6,2024-02-05T21:30,"Mei;Pharah",4,6,17,Lose
+fa4e7143-f7e1-4979-b82b-740ff9b01c12,ed872a2a-5a3e-48a4-855e-cb8d1986885a,2019-05-11T12:00,"Sombra;Hjalmar an Craite;Genji;King Foltest;Morvran Voorhis",2,2,6,Draw
+1ed2cde7-658f-4b03-8abb-0fe46df30e57,01027715-f54e-49f8-9167-5b364bcd298c,2020-03-11T17:30,"Colin;Ana;Astrid",8,10,0,Win
+d0b748d1-47c5-4d27-aa03-afbbc2bc8eed,b77d2f20-4a64-4c21-8e71-f955f401d4e5,2025-06-18T12:00,"Doomfist",14,15,13,Lose
+6ea030b9-03c2-4381-bc57-5a065f657ff8,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2024-02-10T16:30,"Shrine Maidens;Lucio;Neeko;Yarpen Zigrin",7,19,11,Win
+2c8b8517-5380-4056-aa77-cced428f8a62,01027715-f54e-49f8-9167-5b364bcd298c,2022-03-13T15:00,"Olgierd von Everec;Imlerith;Karthus;D.va",6,6,7,Draw
+98c18d72-7ae9-42d3-82c0-68c749cd6d55,b77d2f20-4a64-4c21-8e71-f955f401d4e5,2017-03-22T12:15,"Winston;Padok;Zenyatta",13,0,10,Win
+4ab98574-68c7-4b78-9906-3a2d3c4113e8,2b45e4db-da46-42d9-8db9-e7f09f5e8fa6,2017-10-29T21:30,"Emhyr van Emreis",3,9,19,Lose
+abc2b22a-7a17-4072-92d9-78698948eb98,2b45e4db-da46-42d9-8db9-e7f09f5e8fa6,2025-04-30T21:15,"Johnny;Malphite;Yennefer of Vengerberg;Kennen",12,15,6,Draw
+88ba7e0a-bab9-437a-af71-f1b5793e6b34,13e5933e-d555-42cb-985a-80198caf8393,2016-09-08T17:30,"Albrich",7,4,11,Lose
+afb9506c-d30c-411d-ba77-be2934068830,e5c27a51-f883-4d27-87e8-7d221018a25f,2016-09-14T21:00,"Rakan",3,3,7,Lose
+8b170230-7bd7-43ae-83e4-9cbac8c5249a,79ef3b2e-d436-412e-80f2-a212859fc42b,2018-11-12T12:30,"Mercy",6,8,9,Draw
+8d4c9303-9255-4205-be7f-fe2d713dd0d9,0aa495a3-3b46-447e-b1ca-8ab04f693594,2022-12-30T13:30,"King Henselt;Chaas Qeta",11,8,15,Lose
+da75b5da-99f0-4a48-a37a-9213f8826f17,641adc79-39cb-4ce3-a214-83464751fd30,2016-06-22T15:15,"Orisa",4,15,10,Draw
+44f2a265-1d04-4102-b02e-6f92b0f908b7,ef5ceb2f-695b-4b12-b456-1de458e956ec,2024-09-03T20:15,"Volibear;Owa Daim;Sabrina Glevissig;Sejuani;Ornn",9,18,8,Win
+39481e5e-f12b-451d-9960-b994d08b8477,ed872a2a-5a3e-48a4-855e-cb8d1986885a,2019-08-28T13:45,"Symmetra;Esterad Thyssen",2,12,8,Draw
+283fcad7-2d57-4fe0-a770-d6ae810d779e,41cd39b3-b42e-4537-ad09-7259801e5f6c,2021-05-21T21:15,"Moira;Torbjorn;Aelirenn",19,4,8,Win
+78e9214b-8f9c-4b33-899b-0e6e0b9f9e45,9caa58d7-a045-440e-b7cc-29bd1b01bf3e,2016-08-04T12:45,"Rabbits;Birna Bran;Amumu;Olaf;Esterad Thyssen",14,17,15,Win
+c920e7ec-6cbd-458b-858b-8759fc0fdf22,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2022-04-04T13:45,"Lucio;Milton de Peyrac-Peyran;Nami;Donar an Hindar",18,0,4,Win
+f8ed460c-2c96-41af-bac9-aa9ab4528552,eeb36c45-0408-4c18-9781-59cc1d398a44,2020-12-13T20:45,"Wahgo Katta;Saskia;Junkrat;Xarthisius",10,15,13,Draw
+0303c9a6-3493-407c-898e-f59111a74ef0,86ba556f-9400-4e1c-b406-bfe4c0545ee5,2024-08-04T20:00,"Hjalmar an Craite;LeBlanc;Junkrat;Torbjorn;Aatrox",9,10,14,Draw
+e508fc01-7493-4b85-a143-fa20d674544c,52cc4a6d-4731-4d70-b593-5d0cb541e598,2020-02-12T15:45,"King Demavend;Ana;Lasli;Mordekaiser;Jenge Frett",5,11,8,Lose
+b42ef725-6590-4a72-a1c5-8ce82ed727ee,aaa6b816-a98a-438e-b7d1-46bde41fb9b5,2019-08-27T14:30,"Nayru;King Demavend;Ralph;Azir",5,17,16,Draw
+d6a546d8-b0d2-4666-91eb-e81ea99b7cc1,79ef3b2e-d436-412e-80f2-a212859fc42b,2019-10-09T21:45,"King Daltus;Zed",2,9,18,Draw
+93844121-88f9-4b58-aa53-085953549760,b3d6baac-8141-4390-9858-654aa665284e,2022-01-08T19:30,"Ha Dahamar;Colin;Viktor",8,6,7,Win
+9d52a839-08ba-47ac-9561-5ebabcbc437a,38be1605-e11e-4e9d-a209-421369c62024,2024-06-27T18:00,"Orisa;Mina;Margarita Laux-Antille",18,7,3,Win
+3e9f0c08-c6c3-441d-8d0c-bf3985f2b78e,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2019-07-16T16:30,"Pantheon",12,0,17,Lose
+aaf195c9-af8c-4878-bf38-679f373ed01a,176742ce-bf66-4728-89df-ea3533892830,2017-12-18T21:45,"Emhyr van Emreis;Bastion;Widowmaker",1,12,10,Draw
+a1d56f1d-a6b6-4425-8714-2db8c0cfd4f0,b2252a8b-1495-4361-b050-84a4d35ab695,2022-05-09T18:30,"Bran an Tuirseach;Moosh;Genji",5,10,11,Win
+aa50da32-e288-4803-9516-5a535710c95b,09b11048-d0ad-4064-9e3c-24867f2caf29,2020-03-12T16:45,"Milva;Eithné",5,10,2,Lose
+7a2660c4-634b-4850-8d62-7599266d02ec,38be1605-e11e-4e9d-a209-421369c62024,2018-08-31T15:15,"Warwick;Sabrina Glevissig;Zunari;Veigar",3,12,3,Draw
+76ecce42-3b62-46a7-9ce0-15e291e0cc3b,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2018-06-09T18:15,"Calanthe;Uma;Hanzo",16,14,11,Draw
+8d64bd5e-cb06-47c0-af25-6755c1550291,81b4b875-d756-42f5-9185-45d357c3fcc1,2025-08-07T12:00,"Ves;Yennefer of Vengerberg;Grandma",19,2,5,Draw
+d3c44528-6bbd-4da4-b2c6-09f208652f97,b2252a8b-1495-4361-b050-84a4d35ab695,2016-12-29T15:30,"Irelia",15,10,14,Lose
+2622bd68-4bbb-4e7a-a586-53f900bbd979,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2020-03-25T13:30,"Symmetra;D.va",8,7,5,Lose
+b9dc3b13-52b1-4f7b-ad66-989c1c6a8c99,52cc4a6d-4731-4d70-b593-5d0cb541e598,2025-11-09T18:00,"Soldier 76",19,19,18,Win
+81553919-32f7-4313-8dbc-f0482a76e486,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2025-05-05T16:00,"Mayor Hagen;Milva",6,1,2,Win
+1fb149a9-4399-4f49-83d4-59a1b953051c,01027715-f54e-49f8-9167-5b364bcd298c,2016-09-29T16:15,"Champions;Hjalmar an Craite;Moira",7,6,2,Lose
+06eb5d1d-d5a4-4908-b7b7-5e7d65910cac,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2021-08-25T15:15,"Illaoi;Joachim de Wett;Priscilla",12,14,3,Lose
+c7e32f41-0c9d-4b40-a99e-5d5463912d8c,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2016-11-05T19:30,"Olaf;Zac;Eithné;Gragas",17,1,4,Draw
+0fde5085-02ee-4a7b-8d41-42c96002344a,ef5ceb2f-695b-4b12-b456-1de458e956ec,2025-03-24T18:00,"Mei;Yasuo;Pyke;Nabooru;Neeko",19,19,4,Lose
+ec05f147-ce2f-479e-abc8-96cd1e998b04,f1ec3853-d4f0-4419-bf88-65d495a0086b,2023-06-05T16:00,"Winston;Azir",0,17,15,Win
+af25eac8-0e59-4a8d-8f9e-d6f83eee98e1,b3d6baac-8141-4390-9858-654aa665284e,2020-01-06T12:00,"Torbjorn;Tahno Oah;Zunari;King Radovid",19,9,18,Win
+9948ddad-5678-43e8-b4d6-594d9a439bc6,81b4b875-d756-42f5-9185-45d357c3fcc1,2025-10-14T14:30,"Maag Halan;Orianna",7,10,13,Win
+c920e7ec-6cbd-458b-858b-8759fc0fdf22,01027715-f54e-49f8-9167-5b364bcd298c,2022-04-04T13:45,"Warwick;Mamamu Yan;Junkrat;D.va;Kalm Yuogh",5,9,11,Lose
+b853fa8f-798f-4559-967c-9763ff5f3b6d,6a38a193-f277-48ac-8ef8-87b6f43e682d,2024-02-24T12:45,"Philippa Eilhart;Dekki;Moira",8,16,0,Lose
+c89e1877-1c5f-4112-bcc6-16664db958d5,0a8f62ad-4ef8-42c1-a931-c1cc38510cd8,2022-01-06T21:00,"Ivern",14,1,16,Win
+a39e177c-10e1-430c-8ff8-e17307049893,d5afd081-738b-4502-be88-4730d1a5a949,2024-01-22T15:00,"Wrecking Ball;Vi;Linebeck;Margarita Laux-Antille;Eithné",7,18,12,Lose
+3a650037-b86f-4376-a0d0-2f612756e9a8,09b11048-d0ad-4064-9e3c-24867f2caf29,2016-02-14T14:30,"Lucio;Ciri;Hanzo",12,4,10,Draw
+674495d8-db06-47fe-9eb5-9b3d5ddb649e,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2021-04-19T13:00,"Nithral;Zenyatta",5,1,6,Draw
+12c9bd36-d5e5-4f6a-be86-87b851b358ca,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2018-03-15T14:00,"Zyra;Eddo",19,4,5,Lose
+e9b8dba8-d3b8-428e-b406-bde6209d0f18,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2020-09-10T14:00,"Tracer;Yunobo;Sweers;Dandelion",13,2,7,Draw
+75791be1-1774-4ba4-9ebe-66b8c9f00d18,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2023-03-02T21:30,"Taric;Shani;Potho;Bombers;Teller of Treasures",3,4,16,Win
+e2406c19-e5f2-41ab-9fa1-4cec697115f9,0aa495a3-3b46-447e-b1ca-8ab04f693594,2023-06-05T16:00,"Shop Keeper",10,9,0,Lose
+dddf1e11-8b38-4d20-9a64-abccd5b59bcf,575ab297-43e9-4248-b98b-6dc3464fa9e7,2019-11-19T20:00,"Hecarim;Doomfist;Sombra;Yasuo;Madam MeowMeow",9,17,7,Draw
+6e6782f8-7682-425c-8337-14a6a5dba053,180c0099-f5f5-4883-9977-9280ded07c56,2017-10-15T15:45,"Corki;Triss Merigold;Symmetra;Janna;Reinhardt",8,2,18,Lose
+82b37515-14af-4e8c-938b-90e8a7a99e3f,f6f11f4b-a022-4d33-b22d-3ec8ae188fb0,2025-04-09T12:30,"Jabun;Widowmaker;Padok",12,18,2,Lose
+caeded20-3e62-4704-bf53-3fef1097dd3d,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2018-06-24T13:15,"Joachim de Wett",5,0,7,Win
+9b4ce3a5-b21a-40dc-8c87-c2102742b4e4,eeb36c45-0408-4c18-9781-59cc1d398a44,2019-12-16T13:30,"Doomfist;Diana;Saskia;Bastion;Donar an Hindar",16,14,11,Draw
+dfd4e307-e294-4890-b8c0-aa0d9ef19711,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2021-11-30T18:15,"Bosh Kala",0,5,8,Win
+880c6b81-c61d-4b3c-a6fb-dea246c5587a,f6f11f4b-a022-4d33-b22d-3ec8ae188fb0,2017-05-31T12:15,"Sejuani;Vladimir",14,6,18,Lose
+086247be-e188-4ec9-981a-f3e2d4345598,6ac6b618-69e1-4200-ab10-f16ef8461648,2021-07-21T20:00,"Jhin;Birna Bran;Neeko;Kassadin",17,4,0,Draw
+2c2ecdd7-3895-4e78-97dd-ef3ae4881b17,52cc4a6d-4731-4d70-b593-5d0cb541e598,2019-10-26T14:45,"Sombra",1,0,5,Draw
+c96ca6af-46a9-49e3-92bb-18e27eaed537,f1ec3853-d4f0-4419-bf88-65d495a0086b,2016-03-19T20:00,"Jarvan IV;Wrecking Ball;Bosh Kala;Donar an Hindar;Bard",19,5,14,Lose
+189e0192-31a6-4c53-b14f-bd1e3238b745,0a8f62ad-4ef8-42c1-a931-c1cc38510cd8,2019-08-29T12:15,"Joachim de Wett;Eithné",5,19,4,Draw
+c0121a06-5107-4646-a4fb-70abde3b2ee5,6ac6b618-69e1-4200-ab10-f16ef8461648,2017-03-07T17:45,"Vi;Nabooru;Vladimir",16,15,0,Lose
+51610f42-4741-412e-9973-b3fb232a3d2b,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2016-08-31T15:15,"Vilgefortz;Menno Coehoorn;Ves;Gangplank;Prince of Hyrule",13,15,8,Win
+7db04b8b-42df-4cb0-a48d-d54b69d03693,a24c736a-e004-401e-91cd-eb14c95f6bea,2024-11-20T12:30,"Mei;Vattier de Rideaux;Neri;McCree;Braum",0,0,14,Lose
+67b8fa86-c5ea-46df-82ac-283d870b70a8,41cd39b3-b42e-4537-ad09-7259801e5f6c,2018-01-24T14:00,"King Henselt;Zed;Stefan Skellen",16,9,8,Draw
+5fa5a730-17bb-49d1-a803-53105553a5ac,6ac6b618-69e1-4200-ab10-f16ef8461648,2021-12-21T17:00,"Iorveth;Winston;Zenyatta",5,6,18,Lose
+32076062-bf0e-459b-bf37-28544d1d52e0,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2019-09-15T15:00,"Illaoi;Francesca Findabair",18,16,12,Lose
+6c757a49-6d93-4dd5-947e-8905a36f5a34,52cc4a6d-4731-4d70-b593-5d0cb541e598,2017-02-07T15:30,"Maggie and her father;Ciri",13,15,16,Lose
+7ef9ebef-c349-493e-a672-d65b26944225,86ba556f-9400-4e1c-b406-bfe4c0545ee5,2019-08-29T12:00,"Saskia;Lucian;Orisa;Bow-Wow",4,19,9,Lose
+9184e01c-2dbd-4cda-9724-6d910198b021,180c0099-f5f5-4883-9977-9280ded07c56,2024-10-25T18:45,"Brand;Valoo;Emiel Regis Rohellec Terzieff-Godefroy;Cho-Gath",10,11,5,Draw
+781b7253-9b24-4248-ac0d-91e19281466f,a24c736a-e004-401e-91cd-eb14c95f6bea,2016-04-24T14:15,"Triss Merigold",6,2,1,Draw
+f71b0a02-b70c-446f-be4d-e6cb8390f631,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2025-06-14T16:15,"Zarya;Percy;Dethmold;Queen Rutela",7,2,9,Draw
+c92e8b37-69da-422a-9890-95c4a02dc0bc,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2019-09-12T18:30,"Leona;Shen",0,12,10,Win
+c3974ec3-bcd2-45a3-84e9-0f8a81392c7c,2b45e4db-da46-42d9-8db9-e7f09f5e8fa6,2020-03-18T20:45,"Pharah",5,4,15,Draw
+01e32e1b-435a-4bf6-9cdc-71aae960f362,01027715-f54e-49f8-9167-5b364bcd298c,2025-04-17T14:00,"Carthia van Canten;Toh Yahsa;Potho",18,2,9,Draw
+2afc1dc8-c0dd-41a3-8781-814778eae5dd,0aa495a3-3b46-447e-b1ca-8ab04f693594,2019-08-08T13:45,"Astrid",6,5,7,Draw
+c3a4dca2-2f1c-4782-8457-5f7ef2bff07c,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2016-04-29T19:15,"Saskia",14,14,6,Lose
+44f2a265-1d04-4102-b02e-6f92b0f908b7,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2024-09-03T20:15,"Zed;D.va",1,2,15,Draw
+1bfc5d34-97be-4a7f-bbec-26e43ef889fa,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2024-05-20T16:15,"Singed",7,0,8,Draw
+34a4d2bd-0425-4744-830c-445ed5ce9e20,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2021-04-21T21:45,"Alister;Syndra;Tryndamere;Blitzcrank",11,15,9,Draw
+233247e8-48e9-4267-980a-a0f15272ef9f,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2024-12-05T17:45,"Soldier 76;Aurelion Sol;Yarpen Zigrin;Noya Neha",11,10,18,Win
+3609067e-853e-41cd-9aab-26675670d902,13e5933e-d555-42cb-985a-80198caf8393,2016-08-14T12:30,"Orianna",0,11,17,Lose
+fdd9566a-040b-47a2-83cc-849423bbcc3d,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2017-10-01T19:45,"Sigismund Dijkstra;Ermion",17,4,10,Draw
+2d225985-5120-4684-a537-92e265bfc7e2,176742ce-bf66-4728-89df-ea3533892830,2020-06-09T17:15,"Jee Noh;King Foltest;Janna",11,2,2,Draw
+b85836f9-8718-4339-8b9b-2c0c5e0ed500,25934abb-ebc7-48d1-8540-71145788e564,2020-08-08T17:45,"Reaper;Soldier 76;Quill;Riven;Roach",14,6,12,Win
+5619ca3b-39ef-4a47-974d-d6cb6592db18,9caa58d7-a045-440e-b7cc-29bd1b01bf3e,2017-08-10T21:45,"Mercy;McCree;Zenyatta",9,13,12,Win
+b487eb8e-4ef1-4098-a341-8356b85c8dbf,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2020-10-27T17:45,"Twinrova;Mercy",15,2,15,Lose
+4ab40b53-5f68-40dc-986d-7f17c6a34fb2,ed872a2a-5a3e-48a4-855e-cb8d1986885a,2019-06-30T12:15,"Papahl and family;Fado;Ilia;Lissandra;D.va",9,16,14,Win
+c11b8ee9-850b-4856-a59a-4cd619eb43de,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2023-12-24T14:45,"Zarya;Maokai;Magda;Borlov",12,15,16,Win
+2620e466-d16e-4ed3-96aa-6d2c58effdaf,180c0099-f5f5-4883-9977-9280ded07c56,2021-08-06T14:30,"Deppi;Ryze",7,6,9,Lose
+7265cd7f-67e5-46a6-8f25-f1b9f8da76ee,176742ce-bf66-4728-89df-ea3533892830,2017-04-28T15:45,"Xayah;Junkrat",11,15,9,Draw
+ce02d11d-c831-41b5-b3bb-a17a3613ce8c,09b11048-d0ad-4064-9e3c-24867f2caf29,2024-11-16T16:00,"Rik",18,18,1,Draw
+33216521-dfb9-4ff0-b3cb-68491cac3ce0,03089914-0582-4b95-af84-09996db5fd8b,2025-02-14T16:45,"Hurdy Gurdy Man;Jan Calveit;Wrecking Ball",0,13,6,Win
+6f071764-cb2f-49f9-915e-5607b1473053,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2025-10-23T15:15,"Iorveth;Aurelion Sol;Reinhardt",6,3,7,Lose
+2afc1dc8-c0dd-41a3-8781-814778eae5dd,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2019-08-08T13:45,"Old Men;Riven",13,7,6,Draw
+f5622def-a2d4-4874-941a-62eca9de1c34,575ab297-43e9-4248-b98b-6dc3464fa9e7,2016-01-12T17:15,"Saskia;LeBlanc;Beedle;Whoreson Junior;Monkey",6,4,2,Lose
+bb0a0a8f-b289-4509-8512-a7fc5d340a4d,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2018-08-29T17:15,"Malphite;Dr.Troy;Calip;Albrich",11,10,5,Win
+0bec9664-49da-4c18-8ea8-2600527ac65c,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2019-02-03T19:15,"Zarya;Nami",8,6,16,Draw
+1b435902-dd9b-4b5e-887c-e9d1d37139cf,176742ce-bf66-4728-89df-ea3533892830,2020-04-19T18:30,"Keira Metz;Ana;McCree",11,9,9,Draw
+7e03582d-3a9b-4172-af47-0c601aa83926,d5afd081-738b-4502-be88-4730d1a5a949,2020-11-06T17:45,"Xerath",4,3,8,Draw
+e660e52a-c5d7-4f57-9718-5d2f3d5a5b75,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2020-08-30T15:45,"Agahnim;Gaunter ODimm",10,8,8,Lose
+b59eed30-4af0-4ce2-a0aa-a420cc7cb3fd,180c0099-f5f5-4883-9977-9280ded07c56,2016-01-20T19:30,"Dr. Mundo;Muwo Jeem;Milton de Peyrac-Peyran",4,16,5,Lose
+0034a78d-afe8-4063-88c6-f337b936717c,eeb36c45-0408-4c18-9781-59cc1d398a44,2025-08-23T16:15,"Saskia;Sion;Winston;Brocco;Ivern",9,18,13,Draw
+da320bba-edcd-48b5-a7a4-c61656f87e7d,01027715-f54e-49f8-9167-5b364bcd298c,2024-02-05T21:00,"Comedians;Reaper;Talo;Neeko",10,4,13,Win
+db0cb072-60cf-4f56-8c46-de127fb3697c,13e5933e-d555-42cb-985a-80198caf8393,2020-01-22T16:00,"Lucio;Rensa;Mercy;Assire var Anahid",10,15,7,Lose
+a883d121-bf2e-42e0-9f02-cab95adb400d,9caa58d7-a045-440e-b7cc-29bd1b01bf3e,2021-02-27T14:45,"Udyr;Taliyah;Keaton;Nithral;Vilia",19,0,17,Win
+22a6b61d-0be6-4cd0-8d01-300ce573c954,60c94ef6-750a-41fb-886e-babe72a2cc4c,2025-06-08T12:00,"Photographer;Epona;Yarpen Zigrin",5,11,11,Lose
+105d5c47-95c8-4f8a-8905-8c9dd5866a27,f1ec3853-d4f0-4419-bf88-65d495a0086b,2025-02-06T14:45,"Sombra;Adam Pangratt;Ermion",11,7,14,Win
+7dadde7a-a18f-4724-be09-6d186431d7cd,79ef3b2e-d436-412e-80f2-a212859fc42b,2022-05-22T15:00,"Indigo-Gos;Zyvik;Moira;Kafei",10,1,17,Draw
+7fe939d3-dc7f-417a-a39d-fe45ba098049,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2024-07-16T19:00,"Great Moblin;Malphite;Nithral",9,14,13,Draw
+332db25e-caa8-4296-a4b4-bda31c09acb4,79ef3b2e-d436-412e-80f2-a212859fc42b,2022-06-16T20:15,"Simon;Reaper",7,15,11,Lose
+18983869-efeb-4456-9ac9-7bf9ef5f9366,6ac6b618-69e1-4200-ab10-f16ef8461648,2025-09-15T13:15,"King Foltest",3,5,11,Win
+1a1bd03c-312c-44e4-b85c-3e2f394dceb3,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2019-09-16T14:45,"Dento;Lulu",5,18,2,Lose
+5df48b10-fcda-4048-bb7a-6f0aa6584bca,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2021-05-23T19:00,"Rik;Kassadin",11,2,3,Win
+fa4e7143-f7e1-4979-b82b-740ff9b01c12,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2019-05-11T12:00,"Yasuo;Jan Calveit;McCree;Irelia",5,15,18,Draw
+9123e9c3-064b-462a-b973-a802b04c377a,86ba556f-9400-4e1c-b406-bfe4c0545ee5,2017-08-20T21:30,"Sigrdrifa",13,3,18,Lose
+303fd437-d5d1-4fef-a120-c54f18a895de,f1ec3853-d4f0-4419-bf88-65d495a0086b,2025-10-22T16:15,"Doomfist;Midna;Eredin;Yennefer of Vengerberg;Ciri",5,0,5,Lose
+520ab51e-8497-4774-9d60-417d1b9300fa,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2018-04-08T20:45,"Colin;Kayle;LeBlanc;Zyvik",6,19,2,Draw
+36c29eaa-9c86-463d-8cc9-ea3fc296d138,575ab297-43e9-4248-b98b-6dc3464fa9e7,2016-03-10T19:45,"Eredin;Rhoam Bosphoramus Hyrule;Orianna;RekSai;Trundle",9,2,3,Win
+683d6a2a-7bf8-49ed-a160-c682844ba28b,6ac6b618-69e1-4200-ab10-f16ef8461648,2020-10-18T16:00,"Bow-Wow;Blossom;Varus;Crach an Craite",17,5,15,Lose
+ebd70032-3252-4d50-a81b-3025728923f4,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2024-12-31T21:00,"Hanzo",13,0,1,Win
+12880dd9-bac8-47fb-9ea4-0a9f3bf01c1c,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2019-02-19T13:00,"Sombra",13,9,15,Draw
+6a5becc3-e1e1-4695-ae39-1050e300b16c,180c0099-f5f5-4883-9977-9280ded07c56,2017-01-23T20:45,"Camille;Addario Bach;Olaf;McCree",5,2,1,Lose
+f11a1410-b971-4b0b-bdfa-ff8247938119,6a38a193-f277-48ac-8ef8-87b6f43e682d,2025-09-25T13:00,"Mad Batter;Happy Mask Salesman;Sprinn;Reagah",14,5,0,Lose
+1bfc5d34-97be-4a7f-bbec-26e43ef889fa,60c94ef6-750a-41fb-886e-babe72a2cc4c,2024-05-20T16:15,"Wahgo Katta;Owl;Albrich;Zenyatta",4,12,10,Lose
+7fbfee30-6315-485d-9853-487fd6ca513e,cadba9d3-7200-457e-af48-60e377bcca7e,2024-12-02T20:15,"Tasho;Koume and Kotake;Moira;Twinrova;Pharah",5,4,16,Draw
+4f9c9a1b-7fcc-40d7-9216-6eaf872429d5,a6d1b4aa-5be2-4b97-b333-fc9ee9a8218b,2019-03-10T14:15,"Priscilla",8,5,14,Win
+af93b4d6-561d-458c-8850-f97e77901195,180c0099-f5f5-4883-9977-9280ded07c56,2023-05-24T18:45,"Pina",0,6,9,Lose
+e204f7ac-a139-4051-bcdd-be3951d2d07c,6a38a193-f277-48ac-8ef8-87b6f43e682d,2019-11-17T12:00,"Bran an Tuirseach;Albrich;Torbjorn;Nenneke;Skarner",11,8,4,Draw
+d6aa0936-7c3e-48b9-ac49-bf12974b3375,38be1605-e11e-4e9d-a209-421369c62024,2025-09-25T13:15,"Milva;Moira;Kayn;Ekko;McCree",15,11,3,Draw
+ee8deb7b-22fb-419d-8965-369d15c7a61a,eeb36c45-0408-4c18-9781-59cc1d398a44,2021-04-23T19:30,"Winston;Rik;Lucio;KhaZix",1,1,8,Draw
+a8510dcd-54f3-4cde-a80f-0840b748bae0,2b45e4db-da46-42d9-8db9-e7f09f5e8fa6,2018-06-23T14:00,"Warwick;KhaZix;Olkin",2,1,4,Draw
+67b8fa86-c5ea-46df-82ac-283d870b70a8,68ba1c80-8c7b-4056-940c-f5eb6143f977,2018-01-24T14:00,"Wahgo Katta;Sigismund Dijkstra;Leona;Symmetra;Junkrat",18,7,2,Win
+64814cc5-3aca-4b88-b68c-88257ddbb8f0,a6d1b4aa-5be2-4b97-b333-fc9ee9a8218b,2023-12-09T19:00,"Nami;Sokra",7,2,7,Lose
+0b5a99ca-24ae-41d9-8722-0524b40076e4,41cd39b3-b42e-4537-ad09-7259801e5f6c,2015-12-26T14:45,"Farore;Mercy",16,5,2,Draw
+947e1141-fa01-42b9-a66a-238a1f56ecbe,25934abb-ebc7-48d1-8540-71145788e564,2016-10-19T16:30,"Jitan Sami;Fiddlesticks",7,16,8,Lose
+1b5d7309-3d59-498e-a607-c99f5276ce67,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2025-08-17T12:00,"Doomfist;Triss Merigold;Kled;Schirrú",1,3,3,Draw
+37a5ae1c-c0e4-4c5b-b289-0e7bb7500ac0,176742ce-bf66-4728-89df-ea3533892830,2017-11-22T17:00,"Lucio;Neeko;Trundle",9,1,16,Lose
+6d8b23e9-587a-499c-a7df-8dddd8b5e30d,81b4b875-d756-42f5-9185-45d357c3fcc1,2025-04-25T16:00,"Ana;Aglaïs;Blade Brothers;Evelynn",5,15,18,Draw
+912c491e-a0eb-41a8-91c2-551cb268003c,575ab297-43e9-4248-b98b-6dc3464fa9e7,2020-05-02T15:45,"Iorveth;Aglaïs",19,19,0,Win
+239706c3-76b7-4126-b9a9-84413a3fb040,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2025-08-30T19:00,"Olgierd von Everec;Aveil;Great Fairy",11,4,2,Draw
+22e432d9-1a4c-4406-872c-42eeedd63ba0,82087c79-fcae-4fc1-875d-605e81176d18,2024-12-13T19:15,"Olgierd von Everec",6,11,13,Lose
+9548e44a-fecd-4510-b6aa-48eafa2b5fd6,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2021-07-21T20:45,"King of Red Lions",14,17,19,Lose
+ea6433c6-5446-4044-b7db-db8e0e5abffd,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2019-08-30T21:30,"Vilgefortz;Tracer;Maria Louisa La Valette;Torbjorn;D.va",10,18,4,Lose
+9cb97b0b-c71f-41ba-92bd-b705f777f001,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2016-01-19T20:30,"Mesa;Simon;Teemo;Aelirenn;Joel",17,10,13,Win
+27a4a61c-1c15-46dc-8a5c-d23637a5ab5b,6ac6b618-69e1-4200-ab10-f16ef8461648,2024-02-16T20:15,"Azir",6,16,4,Win
+55336b7d-7980-4ed5-ba32-9b51b276346f,575ab297-43e9-4248-b98b-6dc3464fa9e7,2022-05-05T12:00,"Joute",4,12,2,Win
+1a96b3c2-1f31-4be6-ae0b-c171db3006e8,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2018-06-18T19:00,"Darton;Salvatore",18,10,13,Draw
+96e3cb9a-0256-413c-974f-58d1ef2d4e9b,eeb36c45-0408-4c18-9781-59cc1d398a44,2025-12-08T19:15,"Makar;Pina;Xarthisius",14,11,12,Lose
+32a2ea76-1879-4e92-bcf8-1b1d8a187e24,cadba9d3-7200-457e-af48-60e377bcca7e,2021-08-17T13:15,"Zarya;Lucio;Milton de Peyrac-Peyran",15,17,19,Draw
+6201afba-af2f-456c-99ab-cf1c6fe5d3a9,f6f11f4b-a022-4d33-b22d-3ec8ae188fb0,2025-02-17T13:45,"Skjall",4,1,0,Lose
+9f9e258c-da70-4ed7-a7fe-e642fc4fc40d,180c0099-f5f5-4883-9977-9280ded07c56,2020-07-11T15:15,"Fado;Tibor Eggebracht;Trundle",8,9,12,Draw
+61d80f35-1a68-48ef-8cca-d8ddbf3ffc60,52cc4a6d-4731-4d70-b593-5d0cb541e598,2021-07-22T19:30,"Vattier de Rideaux;Pavetta",18,7,5,Win
+2efb4cb4-c792-4aa3-bfe0-0c5a6cc9173a,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2016-03-20T19:15,"Tryndamere;Nithral;Ermion",11,11,19,Draw
+5ac7eec2-23a3-4d34-ab2c-1e8e69b9bae7,b3d6baac-8141-4390-9858-654aa665284e,2025-11-30T17:15,"Old Men",18,19,13,Win
+8d0f4be3-e603-4139-89e7-6de2f6bd44b7,eeb36c45-0408-4c18-9781-59cc1d398a44,2019-11-11T18:45,"Moira;Morvran Voorhis",10,6,18,Draw
+f59f213c-42db-47d8-b916-f10945a73214,ed872a2a-5a3e-48a4-855e-cb8d1986885a,2025-08-10T19:15,"Doomfist;Oakif;Zarya;Taric;D.va",10,9,17,Draw
+36ba4a68-b841-435f-8da0-5d55a125de5a,09b11048-d0ad-4064-9e3c-24867f2caf29,2021-07-09T12:45,"Shai Utoh",8,16,19,Win
+f2faa065-a19f-4299-be18-9adb3b94c0ff,01027715-f54e-49f8-9167-5b364bcd298c,2015-12-23T17:15,"Nidalee;Misae Suma;Ermion",16,19,14,Draw
+9296e21c-09e8-47d8-812a-e745d7eb4b23,86ba556f-9400-4e1c-b406-bfe4c0545ee5,2022-06-06T20:45,"Xarthisius;Swain",8,14,4,Lose
+07f0563b-88c9-4b3c-b02d-13b43dce23b9,180c0099-f5f5-4883-9977-9280ded07c56,2016-12-30T14:45,"Hino;Junkrat",1,12,6,Draw
+e8406767-869d-4bec-9e34-08edf879d1de,68ba1c80-8c7b-4056-940c-f5eb6143f977,2017-08-31T20:00,"Mei",18,19,13,Draw
+da247d4c-9635-4ede-9ce7-ea7f5c828797,180c0099-f5f5-4883-9977-9280ded07c56,2016-06-19T18:30,"Bastion;Zyvik;Teemo;Roadhog;Queen Rutela",6,0,14,Win
+7566eda1-96e2-4e58-a319-3587b778a8c2,176742ce-bf66-4728-89df-ea3533892830,2019-06-20T12:45,"Shyvanna",6,18,19,Win
+229982cb-3bcd-4c79-8f20-5cefdf3ac4e8,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2022-12-30T13:45,"Udyr;Milva;Olaf",12,14,14,Lose
+6d8b23e9-587a-499c-a7df-8dddd8b5e30d,0a8f62ad-4ef8-42c1-a931-c1cc38510cd8,2025-04-25T16:00,"Mido",18,0,10,Draw
+fadc975b-da35-4452-8abf-d4f1ad849fb8,b3d6baac-8141-4390-9858-654aa665284e,2021-09-14T15:15,"Vilgefortz;Monkey;Nabooru;Orisa;Rammus",6,12,3,Win
+f091da18-7d80-4c03-b3a6-646e6f6133bc,38be1605-e11e-4e9d-a209-421369c62024,2021-08-14T16:15,"Orisa",15,19,7,Draw
+09508dd7-f65f-4fa1-9486-a89b9e611e2a,180c0099-f5f5-4883-9977-9280ded07c56,2016-11-15T19:45,"Nithral;D.va;Aelirenn",13,1,6,Lose
+18533a03-4354-453d-a279-439006d4070b,eeb36c45-0408-4c18-9781-59cc1d398a44,2017-06-18T14:15,"Birna Bran;Mad Batter;Shen;Morgana",8,9,4,Win
+2a3c9a02-6773-4fc5-bf30-1b6735d1374d,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2022-10-26T18:45,"Sombra;McCree",4,14,17,Draw
+5df48b10-fcda-4048-bb7a-6f0aa6584bca,01027715-f54e-49f8-9167-5b364bcd298c,2021-05-23T19:00,"Adam Pangratt",2,1,10,Lose
+6a867b89-b42f-49ea-bc12-46e58f96d108,d5afd081-738b-4502-be88-4730d1a5a949,2019-05-15T18:15,"Impa;Karthus",14,1,15,Draw
+6b63beda-1935-462c-b6fb-02ac08faf37f,180c0099-f5f5-4883-9977-9280ded07c56,2025-06-01T19:30,"Cucco Keeper;Owa Daim;KogMaw;Louise;Eddo",12,0,7,Win
+246d7be0-1bd3-4bdf-905c-fd5d4a15c8d4,f6f11f4b-a022-4d33-b22d-3ec8ae188fb0,2021-03-11T12:30,"Zarya;LeBlanc;Ana;Genji;Dalia",1,10,11,Win
+6c0795e7-9c3f-45b5-9167-2714005bca00,79ef3b2e-d436-412e-80f2-a212859fc42b,2020-04-28T19:45,"Jhin;Menno Coehoorn;KhaZix;Madam Aroma;Magda",11,9,9,Win
+9b8fd41d-39e9-489d-aca8-f0b80f84ea35,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2018-03-21T18:30,"Singed",18,8,6,Win
+b7ca1ec3-d462-41b2-a650-ec1b3fbd825a,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2021-07-09T12:45,"Lucian;Bastion;Reaper;Muwo Jeem",14,15,2,Win
+44806e3b-27a5-43f9-85c1-83978bb6e140,52cc4a6d-4731-4d70-b593-5d0cb541e598,2017-03-31T13:30,"Prince Sidon;McCree;Doc Bandam",15,13,19,Draw
+f8e63e8f-99ff-4098-a02e-46cc77953571,25934abb-ebc7-48d1-8540-71145788e564,2023-07-01T20:45,"Nautilus;Priscilla",14,8,8,Win
+ee464865-bf96-4050-bcc1-434f60b7dea1,03089914-0582-4b95-af84-09996db5fd8b,2020-05-14T13:30,"Triss Merigold;Widowmaker;Ana;Garen;Kohga",8,7,18,Draw
+741855e4-1ab1-4207-9be3-109b678a4139,a24c736a-e004-401e-91cd-eb14c95f6bea,2016-07-08T19:00,"Hjalmar an Craite;Ana;Moira;Xarthisius",9,3,1,Win
+805be28d-1576-45b6-af7b-4b51b032bc1d,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2019-11-24T15:00,"Moira;Rauru;Reinhardt",14,3,6,Draw
+27a21ccc-ab20-47c7-bae2-0ccb66da1de4,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2016-10-12T13:15,"Zarya;Widowmaker",1,14,9,Win
+f2e0ca98-346b-42c4-bd95-3f33807c1de5,aaa6b816-a98a-438e-b7d1-46bde41fb9b5,2020-07-08T18:00,"Joute;Mordekaiser",14,19,10,Lose
+28662739-0f22-4741-a5cd-958d009e5886,6a38a193-f277-48ac-8ef8-87b6f43e682d,2023-02-08T13:30,"Plikango",10,14,0,Lose
+8d7d6df2-78a2-4486-b8b9-62f971988f9f,68ba1c80-8c7b-4056-940c-f5eb6143f977,2025-08-02T17:45,"Yorick",2,4,19,Win
+facd2579-eeb1-43f8-9b6b-913a63ead6a8,f6f11f4b-a022-4d33-b22d-3ec8ae188fb0,2023-10-11T18:00,"Hjalmar an Craite;Madam Aroma;Veigar",0,17,4,Win
+42b20581-e669-424d-8faf-96ef67624967,13e5933e-d555-42cb-985a-80198caf8393,2018-07-27T20:30,"KogMaw;Malzahar;Zac",10,14,11,Draw
+dad900ea-85a4-4acc-87ba-cbdb736b3f6a,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2025-08-05T14:45,"Zoe;Rosa Sisters;Imlerith;Nithral;Nocturne",16,17,11,Lose
+f91fe2bc-1970-4c5d-95bb-0b69bf48d5b4,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2023-02-14T17:15,"Priscilla",7,15,6,Lose
+a2b7d47d-4215-4b47-b169-eb8b8ca676fc,b3d6baac-8141-4390-9858-654aa665284e,2024-07-22T13:15,"Torfeau;Ezreal",19,12,19,Win
+9f733310-4141-4ca5-8b9b-d4cb6d4822cb,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2018-05-06T12:15,"Fiora;Johnny;Ryze;Malena",9,12,15,Draw
+1a129a5b-f440-4071-b9ac-9cfe81d86412,f1ec3853-d4f0-4419-bf88-65d495a0086b,2021-06-07T14:00,"Xayah;Mamamu Yan;Shani",3,12,11,Lose
+416d05bd-5a80-4efa-ba24-bb495e8241ce,a24c736a-e004-401e-91cd-eb14c95f6bea,2024-05-21T15:45,"Dr. Mundo;Soraka;Shaco;McCree",14,3,18,Draw
+83d11a37-722d-405f-8cfc-e82508dcb529,82087c79-fcae-4fc1-875d-605e81176d18,2021-10-08T21:15,"Percy;Orisa",9,16,6,Lose
+56145fe3-9b7f-4257-885f-5af0b58f8204,575ab297-43e9-4248-b98b-6dc3464fa9e7,2018-03-10T19:15,"Graves;KogMaw;King Radovid",11,7,10,Draw
+a8704e01-1d50-4530-8b07-8f6bbcd6aa73,aaa6b816-a98a-438e-b7d1-46bde41fb9b5,2025-12-15T12:45,"Sejuani;Reinhardt;Irelia",18,18,3,Win
+60049a15-dc60-4651-9263-3433874a8073,52cc4a6d-4731-4d70-b593-5d0cb541e598,2019-06-18T14:30,"Sigismund Dijkstra;Addario Bach;Curiosity Shop Guy;D.va;Patch",8,13,5,Win
+3f60df57-928d-4dc3-8138-18f0b35eeb11,2b45e4db-da46-42d9-8db9-e7f09f5e8fa6,2017-10-01T19:45,"Fairies;Bombers;Teemo;Sivir",1,0,6,Lose
+b5d09286-14c5-40b7-9881-db40b582916b,b3d6baac-8141-4390-9858-654aa665284e,2023-05-27T15:15,"Carthia van Canten;Hila Rao;Darius;McCree;Adam Pangratt",8,15,15,Draw
+fadc975b-da35-4452-8abf-d4f1ad849fb8,09b11048-d0ad-4064-9e3c-24867f2caf29,2021-09-14T15:15,"Joachim de Wett;Moira;Mercy;Reinhardt",19,14,3,Draw
+3387a163-e620-453b-878f-47e28988a2fc,180c0099-f5f5-4883-9977-9280ded07c56,2018-08-03T13:45,"Zarya;Bagu;Carduin;Sona;Dandelion",6,8,0,Win
+d227efe2-3f91-4edb-ae5c-9ae39b57af11,176742ce-bf66-4728-89df-ea3533892830,2020-01-17T21:00,"Mesa;Caranthir;Kass",12,9,4,Draw
+3f47b362-774b-4ce4-b973-85e35f934ad9,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2019-01-25T18:15,"Jarvan IV;Aglaïs",11,7,14,Draw
+78103c35-ff44-48d1-bfa7-39234b642f9b,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2024-07-08T17:30,"Sheik;Moira",14,17,18,Win
+f16b64ce-8c51-4482-87c2-577598f60135,cadba9d3-7200-457e-af48-60e377bcca7e,2018-02-01T16:15,"Sion;Zyvik;Shani",0,2,4,Win
+af019424-1d94-4aef-b04f-ece71d6e262c,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2019-04-05T18:30,"Gaunter ODimm",3,14,5,Win
+751d30fb-42a5-43ba-a0d6-f63b7e9b99c5,52cc4a6d-4731-4d70-b593-5d0cb541e598,2021-03-20T13:15,"Zarya;Kalista;King Demavend;Deppi",4,7,14,Win
+dccbf09b-6bd3-439a-8d9d-5bc2f4b09e4b,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2024-12-30T12:00,"Janna",19,14,13,Win
+acad12dc-812f-449c-bb8e-c3d81b4fced1,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2016-06-04T13:15,"Vattier de Rideaux;Menno Coehoorn;RekSai;Katarina",9,17,17,Draw
+0a0ba3e3-3b68-4da7-a746-0ac416b69ca4,a24c736a-e004-401e-91cd-eb14c95f6bea,2025-06-14T16:30,"Mesa;Pamela;Medigoron;McCree",16,4,19,Draw
+a9736f80-f839-48a1-aed8-92bed833d541,68ba1c80-8c7b-4056-940c-f5eb6143f977,2019-11-07T12:45,"Vilgefortz;Talog Naeg;King Radovid;Cyclos;Assire var Anahid",1,17,18,Draw
+9d436c49-a0e2-401b-9023-5766aedec6bc,2b45e4db-da46-42d9-8db9-e7f09f5e8fa6,2017-10-20T20:00,"Saskia;Sabrina Glevissig;Nithral;Maria Louisa La Valette;Pharah",19,9,8,Lose
+edf6f10c-8ec3-4e5e-9c3c-ed5b254f3828,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2020-08-02T13:30,"Hino",7,4,4,Lose
+cc0fc7b3-b258-463f-8ef0-7a3c4e324bd7,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2022-08-22T13:45,"Saskia;Isengrim;Ilia;Pharah;Zenyatta",16,10,9,Win
+e0fc424c-5379-4c53-8875-215e235681ae,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2019-04-11T12:15,"Fizz;Junkrat;Goron Elder;Shee Vaneer",11,17,19,Win
+d80c7526-aae5-4c0d-a959-09103d0316c2,82087c79-fcae-4fc1-875d-605e81176d18,2025-05-17T14:45,"Reinhardt;Ciri;Dandelion",14,13,19,Draw
+0316d7a3-273c-49fd-be02-1c23d95a4d64,68ba1c80-8c7b-4056-940c-f5eb6143f977,2019-08-13T18:15,"King Dorephan;Reinhardt;Mila and her father",3,15,1,Win
+af25eac8-0e59-4a8d-8f9e-d6f83eee98e1,9caa58d7-a045-440e-b7cc-29bd1b01bf3e,2020-01-06T12:00,"Talo;Yiga Clan;Adam Pangratt;Ermion",13,6,6,Win
+e0fc424c-5379-4c53-8875-215e235681ae,aaa6b816-a98a-438e-b7d1-46bde41fb9b5,2019-04-11T12:15,"Sayge;Quinn",8,17,7,Win
+580b0c84-a212-437b-85d5-b79ff0f7733e,a6d1b4aa-5be2-4b97-b333-fc9ee9a8218b,2018-06-26T21:45,"Widowmaker;Bastion;Zed;Gnar",9,6,5,Win
+87451941-1907-4bfc-aa34-1b911b4fbdb3,86ba556f-9400-4e1c-b406-bfe4c0545ee5,2016-09-20T15:30,"Imlerith;Ekko;Emiel Regis Rohellec Terzieff-Godefroy;McCree;Galio",17,7,0,Win
+18a47456-6a41-4994-889d-2352c555e9ca,66084187-cb2d-498c-8f76-2648ea1e4a8b,2023-11-07T21:45,"Zoltan Chivay;Wrecking Ball;Syndra;Janna;Dethmold",4,12,17,Win
+34f59f2b-48a8-40b3-afcb-f488e718909a,d5afd081-738b-4502-be88-4730d1a5a949,2019-11-12T17:30,"Doomfist;Bastion;Liana;Yennefer of Vengerberg",3,17,18,Win
+f5e6d09f-23fc-4efa-b8de-69c2feff13ef,ef5ceb2f-695b-4b12-b456-1de458e956ec,2017-12-05T14:15,"Doomfist;Emhyr van Emreis;Vayne;Reinhardt",4,9,4,Draw
+24eb599c-053a-43ff-a5ef-85cccaa01dc1,81b4b875-d756-42f5-9185-45d357c3fcc1,2020-06-05T21:00,"Philippa Eilhart;Malphite;Nightmare",11,16,6,Win
+1b435902-dd9b-4b5e-887c-e9d1d37139cf,b77d2f20-4a64-4c21-8e71-f955f401d4e5,2020-04-19T18:30,"Zarya;Sigismund Dijkstra",18,17,8,Lose
+12d1343d-1d5d-47f6-bd9a-5f0bc54f12fa,13e5933e-d555-42cb-985a-80198caf8393,2017-12-23T16:15,"Tracer;Schirrú;Priscilla",12,9,19,Lose
+03acd52b-59b6-498b-87bc-6d8525fd0f4f,86ba556f-9400-4e1c-b406-bfe4c0545ee5,2023-05-19T13:45,"Sweers",19,8,13,Win
+99c09a80-7e8e-4369-998e-258a1e106a11,b77d2f20-4a64-4c21-8e71-f955f401d4e5,2022-06-29T17:15,"Zoltan Chivay;Sombra;Wukong;Shani;Reinhardt",5,10,3,Win
+4d72b354-b765-4fc3-892b-e15779c4c14d,e5c27a51-f883-4d27-87e8-7d221018a25f,2022-05-30T17:15,"Reaper;Ornn;Nasus;Quinn;Daphnes Nohansen Hyrule",14,10,0,Draw
+03c8647f-2bfd-4da1-8c9f-a95efefaab88,03089914-0582-4b95-af84-09996db5fd8b,2023-08-02T18:30,"Astrid",15,19,11,Win
+8297672f-62ef-4d67-a335-be4d2976e110,b77d2f20-4a64-4c21-8e71-f955f401d4e5,2024-08-13T21:45,"Sombra;Ornn;Junkrat",15,3,18,Win
+8e23eca8-e951-49de-abc2-1ce4a9e3e51e,09b11048-d0ad-4064-9e3c-24867f2caf29,2020-05-13T14:15,"Zarya;Great Moblin;Junkrat;Hanzo",4,1,4,Lose
+4a86c516-3996-4b92-bdae-db49eb294684,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2022-06-07T19:30,"Reaper;Imlerith;Nanna",4,19,18,Lose
+560a5268-7ddc-4a54-a065-8ef96b24f9f2,eeb36c45-0408-4c18-9781-59cc1d398a44,2022-01-21T16:30,"Orca;Genji;Nithral;Chaas Qeta",17,6,15,Win
+72b78088-1bee-4985-923a-0cd7820a3339,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2024-09-30T13:00,"Grog;Eithné",9,18,11,Lose
+6e93a037-74f7-44d1-b20a-a1b83076501c,6a38a193-f277-48ac-8ef8-87b6f43e682d,2017-05-26T17:30,"Mei;Tracer",6,18,5,Win
+0b4d0fd1-d662-4c54-9194-14ca23ee99b7,6a38a193-f277-48ac-8ef8-87b6f43e682d,2023-02-28T13:00,"Tasho",14,18,5,Win
+01b2e579-b22d-4e2e-b7b8-1bc35664d9c8,eeb36c45-0408-4c18-9781-59cc1d398a44,2025-07-18T12:30,"Soraka;Pavetta;Gruve;Dah Kaso;Renekton",4,15,4,Draw
+d6a9784f-dbe1-4558-b076-9f019e9c9716,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2025-12-10T17:15,"Doomfist;Deities;Albrich;Stefan Skellen",0,8,15,Draw
+deff2b49-35c9-4cad-a456-2cac6293917d,03089914-0582-4b95-af84-09996db5fd8b,2025-09-26T12:45,"Winston;Ana;Sigrdrifa;Trissa;Gibdo Man",11,12,12,Lose
+8c7b2d79-a7d9-4fe2-b45c-38846efdb522,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2023-08-01T19:00,"Aglaïs;Karthus",17,9,1,Lose
+dabfd223-4a49-4790-a4da-394165b54bae,0aa495a3-3b46-447e-b1ca-8ab04f693594,2024-01-14T13:45,"Malo;Milva;Tracer;D.va;Emiel Regis Rohellec Terzieff-Godefroy",2,3,9,Lose
+32845e5e-2730-472e-8e96-ca173dad2092,79ef3b2e-d436-412e-80f2-a212859fc42b,2021-03-25T18:45,"Orisa",6,7,5,Win
+dd26fc16-d77e-474e-80a1-07f0ac8dbc8f,a6d1b4aa-5be2-4b97-b333-fc9ee9a8218b,2017-08-30T21:00,"Plen;Winston;Bastion;Tracer",1,16,6,Draw
+4c1de26e-f0f8-4fa6-b944-0ce412c1bac2,b3d6baac-8141-4390-9858-654aa665284e,2016-07-18T19:15,"King Henselt;Torbjorn;Vernon Roche;Hanzo",3,4,17,Draw
+f59d3a1f-c334-4165-990f-6322e5e1ce9e,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2017-01-24T19:00,"Carthia van Canten;Bastion;Kass;Tracer;Mordekaiser",17,19,10,Draw
+276b90c6-1358-46e6-91ab-01d7e38c13c4,03089914-0582-4b95-af84-09996db5fd8b,2016-01-05T14:45,"Symmetra",3,4,8,Draw
+73777a27-d71f-4f0b-9738-1c09f9f36597,52cc4a6d-4731-4d70-b593-5d0cb541e598,2022-07-08T18:45,"Telma;Brouver Hoog;Rola;Bastion;Master Yi",7,18,11,Draw
+8df23a0f-e8c2-446d-8ccc-30844a76041a,6a38a193-f277-48ac-8ef8-87b6f43e682d,2023-03-03T20:15,"Brouver Hoog",16,17,7,Draw
+dbf98541-5c0a-4bd4-9cb1-9ff3f7a249db,8e1b80d7-5cb8-429d-b4b8-3ebcd096db76,2019-07-26T16:30,"Damia;Eredin;Whoreson Junior;Hanzo",3,16,10,Lose
+44e4e5f9-6f8b-42c3-865a-ff9d70bb4655,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2023-05-20T12:15,"Orisa;Emiel Regis Rohellec Terzieff-Godefroy",10,16,17,Win
+d580e016-64f2-403d-a2f6-5ab89f451702,a24c736a-e004-401e-91cd-eb14c95f6bea,2024-11-11T21:15,"Brand",3,18,17,Lose
+3142fea2-0758-43b4-a2fc-33854242654b,cadba9d3-7200-457e-af48-60e377bcca7e,2021-07-14T17:45,"Xayah;Karma",12,15,19,Lose
+c480ee38-d0e6-4be0-b186-3184873a3b0b,38be1605-e11e-4e9d-a209-421369c62024,2016-08-11T15:15,"Iorveth;Thaler;Hjalmar an Craite;Ermion",6,4,0,Draw
+73d9515e-c9ed-47c6-8f9c-e496abbf0a15,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2018-10-13T12:30,"Nidalee;Moira;Sigrdrifa;Aatrox",9,9,6,Win
+aa3c7283-3db2-4dc3-9f00-8138eeb0afb3,38be1605-e11e-4e9d-a209-421369c62024,2021-01-28T14:00,"Xin Zhao;Kayn;Hanzo",2,5,3,Draw
+ba2a1325-693b-403a-97d7-c13399689428,82087c79-fcae-4fc1-875d-605e81176d18,2020-08-22T13:30,"Dr. Mundo;Addario Bach;Ornn;Torbjorn",3,0,2,Lose
+91c6220d-740b-4390-a5d9-b9415546eb4a,ed872a2a-5a3e-48a4-855e-cb8d1986885a,2023-09-18T21:30,"Sophie",7,4,0,Win
+17ef24f1-7fb3-40c2-9ec7-86e04c7805d7,41cd39b3-b42e-4537-ad09-7259801e5f6c,2022-10-26T18:15,"Birna Bran",1,18,13,Lose
+d341e2a0-6a55-4b70-9851-8e277b233163,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2022-08-01T14:30,"Yaevinn;Kennen;Kam Urog",2,14,18,Draw
+c36c1fe2-ff27-4249-a86f-0ab69f493fcc,b2252a8b-1495-4361-b050-84a4d35ab695,2022-07-18T18:15,"Zephos;The Bloody Baron;Sorelia",18,19,14,Win
+9856f5cb-8946-4b43-93c5-6086f5b9f543,cadba9d3-7200-457e-af48-60e377bcca7e,2016-08-22T14:45,"Nayru;Vattier de Rideaux;Rosa",13,12,13,Lose
+fca976b2-36c9-4722-accb-30f86299b499,0a8f62ad-4ef8-42c1-a931-c1cc38510cd8,2021-03-05T18:30,"Triss Merigold;Nyave;Steen",8,12,0,Lose
+afb9506c-d30c-411d-ba77-be2934068830,41cd39b3-b42e-4537-ad09-7259801e5f6c,2016-09-14T21:00,"Ves;Muwo Jeem;VelKoz;Dethmold;Aelirenn",14,2,13,Win
+e9c8d020-0aae-44fc-ba82-1342594b6541,e5c27a51-f883-4d27-87e8-7d221018a25f,2020-10-04T20:00,"Hylia",7,4,11,Win
+1d98e974-03a2-4a2f-9a0b-3a24e17155da,d5afd081-738b-4502-be88-4730d1a5a949,2022-08-28T17:30,"Tracer;Aurelion Sol;Sweers;Deku Royalty;Eithné",13,15,7,Draw
+0137e93d-09e5-4088-9ab3-21ada818c34c,b77d2f20-4a64-4c21-8e71-f955f401d4e5,2018-05-29T19:45,"Shiro;Jayce;Zed",9,19,17,Lose
+0273615b-1d6b-4078-b967-398378d93833,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2021-02-07T14:45,"Oakif",16,0,8,Draw
+8b356d41-cd98-482f-a5d7-faa5458ca839,a24c736a-e004-401e-91cd-eb14c95f6bea,2017-06-10T12:00,"Dr. Mundo;Pavetta;Sages;Torbjorn",15,19,9,Draw
+3202a9a8-42e2-4e34-846f-a8570ac5e5e0,a24c736a-e004-401e-91cd-eb14c95f6bea,2024-07-17T18:00,"Lucio;Reaper;RekSai",10,4,9,Lose
+5b5072a1-54f3-4cac-a1ea-4c1e694d94f0,0a8f62ad-4ef8-42c1-a931-c1cc38510cd8,2019-06-05T17:30,"Carthia van Canten",2,3,9,Win
+757112d6-94ef-4a76-b665-3e0a70348268,a24c736a-e004-401e-91cd-eb14c95f6bea,2022-01-14T13:00,"Sombra;Xarthisius;Oshus",17,2,11,Draw
+f793c977-835c-47a2-912b-71a1b772af9e,82087c79-fcae-4fc1-875d-605e81176d18,2019-07-15T17:30,"Kaam Yatak",12,5,15,Win
+dadd79fe-7965-41e0-8343-1b6d2b7906fa,38be1605-e11e-4e9d-a209-421369c62024,2019-08-30T21:15,"Sylas;Sabrina Glevissig;Toh Yahsa;Zenyatta;Gragas",14,11,7,Lose
+af019424-1d94-4aef-b04f-ece71d6e262c,79ef3b2e-d436-412e-80f2-a212859fc42b,2019-04-05T18:30,"Muwo Jeem;King Foltest;Reinhardt",2,13,0,Lose
+9ff469fe-bd3e-46d1-a589-8cc54de0e373,01027715-f54e-49f8-9167-5b364bcd298c,2017-06-11T21:15,"Widowmaker;Tracer;Reinhardt;Margarita Laux-Antille",1,3,2,Lose
+81e71453-4b3e-4e5f-99a1-7e8f68137a1b,01027715-f54e-49f8-9167-5b364bcd298c,2024-10-12T21:00,"Doomfist;Birna Bran;Widowmaker;Tibor Eggebracht;Reinhardt",4,0,9,Win
+a6578d21-5729-44ba-860e-f2752a591907,641adc79-39cb-4ce3-a214-83464751fd30,2020-07-13T13:00,"Priscilla;Sona;VelKoz;Caitlyn",2,10,0,Draw
+af3f9dde-8f95-451b-bc65-91734c16e527,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2019-08-02T19:15,"Festari;Yennefer of Vengerberg;Roadhog",16,3,18,Draw
+b799c522-c38e-4187-a7a9-d850dc0a2b85,25934abb-ebc7-48d1-8540-71145788e564,2018-01-16T12:30,"Zyvik;Dimitri",18,16,14,Lose
+d4fda0c9-9f70-4346-b24f-198a0ee509a3,25934abb-ebc7-48d1-8540-71145788e564,2022-01-02T15:00,"Jan Calveit;Esterad Thyssen",2,7,0,Lose
+1c62afdb-134d-4df2-a26a-088ecd8f241a,f1ec3853-d4f0-4419-bf88-65d495a0086b,2017-06-03T19:45,"Princess Zelda;Magda;Noya Neha",16,17,3,Draw
+fd85177e-7c39-453f-9e14-9f93e42ec8b8,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2017-09-24T16:15,"Ves;Reinhardt;Veigar",16,13,10,Win
+31e63807-30d6-46a4-a649-8ac256af6247,6a38a193-f277-48ac-8ef8-87b6f43e682d,2025-08-13T16:00,"Roadhog",5,16,0,Draw
+fb4e6c74-dc53-4159-a321-18e3e0c56c01,9caa58d7-a045-440e-b7cc-29bd1b01bf3e,2020-10-08T16:15,"King Demavend;Gruve;Mousesack;Avallach",15,19,4,Win
+ec923ace-999c-4f49-ae6d-1b3618eb5260,641adc79-39cb-4ce3-a214-83464751fd30,2019-01-18T15:30,"Nyave;Amumu",14,4,17,Lose
+87064e09-911a-4377-aefc-e4c719d61a0f,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2018-02-01T16:30,"Wrecking Ball;Addario Bach;Taloh Naeg;Reinhardt;Eithné",15,18,1,Lose
+8a7d6673-154d-4602-b94b-a02e9ea23595,2b45e4db-da46-42d9-8db9-e7f09f5e8fa6,2020-06-28T18:00,"Jarvan IV;Noya Neha",2,1,16,Win
+9412bf1d-939f-4807-a8e3-23d256f2cd42,03089914-0582-4b95-af84-09996db5fd8b,2022-12-16T17:45,"Fairies;Padok;Belari",13,17,4,Lose
+e2bf2a90-c694-4651-a645-ec3f8b2e4f68,eeb36c45-0408-4c18-9781-59cc1d398a44,2020-11-26T17:45,"Taric;Wrecking Ball;Birna Bran;Fiddlesticks",7,12,3,Lose
+fc880380-7104-4b9d-97bd-4f936963b88c,176742ce-bf66-4728-89df-ea3533892830,2017-01-25T18:15,"King Foltest;Leaf;Mercy",19,16,19,Draw
+b5a1a265-23b5-40d1-98c1-85be6853d11e,66084187-cb2d-498c-8f76-2648ea1e4a8b,2022-10-30T14:15,"Talon;Amumu;Trundle;Irelia",3,1,6,Lose
+3a1a10cd-f9b7-4508-8a80-3dd131a0ddd0,13e5933e-d555-42cb-985a-80198caf8393,2020-12-22T21:30,"Schirrú;Stefan Skellen",16,2,3,Lose
+9e20a4a0-1ede-4aaa-b8e6-89416a6aa1d1,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2025-06-22T18:30,"Bran an Tuirseach;Emiel Regis Rohellec Terzieff-Godefroy;Fiddlesticks;Lux",8,14,14,Lose
+87014af6-a342-4d69-98a2-da69ab239076,6a38a193-f277-48ac-8ef8-87b6f43e682d,2023-02-17T14:45,"King Demavend;Deppi;Dalia",1,5,11,Draw
+9aaf8fad-656b-4309-854d-c46746800c31,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2022-05-26T21:15,"Xayah;Pharah;Roadhog",19,9,15,Draw
+110399b2-4447-4ad1-a7ec-2ac2ff07c28c,aaa6b816-a98a-438e-b7d1-46bde41fb9b5,2018-04-13T15:00,"Ves;Soldier 76",4,18,7,Win
+7ecacf7e-226c-4fd5-8e1d-b920c9285a62,8e1b80d7-5cb8-429d-b4b8-3ebcd096db76,2019-07-14T18:45,"Dekki;Milton de Peyrac-Peyran;King Radovid",11,0,6,Lose
+028937dc-4ce9-4cf1-acf2-12f2cf6bfe1a,d5afd081-738b-4502-be88-4730d1a5a949,2023-12-10T18:00,"Jayce;Gruve;Blade Brothers;D.va;Fortune Teller",1,5,9,Win
+332d427a-0383-4372-9117-31651ae06e9f,176742ce-bf66-4728-89df-ea3533892830,2019-06-14T18:45,"Marin",18,6,14,Lose
+df2b2842-9b2b-4055-a1b6-56c86d76ec8a,176742ce-bf66-4728-89df-ea3533892830,2019-07-15T17:15,"Shee Vaneer",19,7,16,Win
+8fb4e2ad-d268-446f-9e2e-1ae9771b5b11,cadba9d3-7200-457e-af48-60e377bcca7e,2017-04-02T21:30,"Yennefer of Vengerberg",18,14,1,Lose
+38964a1c-f63a-45a6-8963-59eb26fe175b,176742ce-bf66-4728-89df-ea3533892830,2016-10-03T12:15,"Mei;Torbjorn",5,3,2,Draw
+e7057775-6a8c-4f05-b744-77f4b33e6d34,41cd39b3-b42e-4537-ad09-7259801e5f6c,2017-03-13T21:45,"Greta;Doc Bandam;McCree",10,12,14,Draw
+2293f929-1e48-4391-99fb-7e4004e824cb,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2024-02-27T19:15,"Genji",2,7,5,Draw
+2a62fee0-8a9b-465e-90d8-98a4ad53667e,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2022-03-17T21:30,"Dr. Mundo;Akali;Ze Kasho;Aelirenn",10,15,3,Win
+25c368c3-c038-4e31-82ba-d24de8388459,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2016-08-21T15:30,"Isengrim;Milton de Peyrac-Peyran",10,3,13,Lose
+7a48cec2-0fcd-4506-8b62-5cc9900105a8,a6d1b4aa-5be2-4b97-b333-fc9ee9a8218b,2022-11-04T19:00,"Orisa;Pharah;McCree",2,18,6,Win
+10dd1cdf-09f2-4a4f-9b4b-344b3b6d71ed,9caa58d7-a045-440e-b7cc-29bd1b01bf3e,2017-09-17T13:30,"Owa Daim;Dudu Biberveldt",7,10,0,Draw
+3c29ee52-e3f8-4a4e-9a5b-fff7d454b553,79ef3b2e-d436-412e-80f2-a212859fc42b,2017-12-21T18:30,"Bran an Tuirseach;Damia;Birna Bran;Ana;Gnar",12,7,0,Draw
+b792319a-b767-4fd9-b06b-bad21c4b4d38,6ac6b618-69e1-4200-ab10-f16ef8461648,2024-08-25T19:30,"Zarya;Yuumi;Chio;Nocturne",1,6,10,Lose
+08b36d1d-c457-4c4a-83e5-6b21c0aff2d1,641adc79-39cb-4ce3-a214-83464751fd30,2019-12-11T18:00,"Gnar",9,17,18,Win
+3fe7f7fd-1817-44c5-ae95-1acd5ed2d9a8,9caa58d7-a045-440e-b7cc-29bd1b01bf3e,2024-10-13T20:30,"Rumble;Zoe;Winston;King Foltest;Lord Jabu-Jabu",11,14,12,Draw
+29bc3c82-4798-4f46-a350-7b555f9ff4c1,f6f11f4b-a022-4d33-b22d-3ec8ae188fb0,2018-01-30T18:45,"D.va;Yiga Clan;Zenyatta;Malzahar",2,11,3,Lose
+edb3e5c9-154b-45cb-9f38-41f708a3015b,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2023-03-15T18:15,"Mei;Annie;Doc Bandam;Roadhog;Assire var Anahid",11,6,5,Lose
+b547f146-7746-4299-bb08-196c39cf7c67,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2025-02-16T14:00,"Wrecking Ball;Sagessa;King Foltest;Akh Vaquot;Tokkey",10,17,15,Win
+34fe1703-f5a1-4b88-a237-f543f553f6ef,ef5ceb2f-695b-4b12-b456-1de458e956ec,2016-02-05T13:00,"Mrs. Marie;Genji",12,18,1,Lose
+d37cd0c4-7c9e-4140-b201-e8537c7be3c4,180c0099-f5f5-4883-9977-9280ded07c56,2019-03-03T21:45,"Zooki;Zarya;Eredin;Dudu Biberveldt;Karma",13,0,8,Win
+3ca716af-9cb5-4590-9b5d-227c95669dc1,66084187-cb2d-498c-8f76-2648ea1e4a8b,2016-05-12T16:00,"Hurdy Gurdy Man;Karthus",18,0,11,Win
+37f31027-58bb-43fb-8489-d0817f59ea7b,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2018-08-29T17:30,"Beedle",1,19,10,Lose
+ef62684a-79f3-41f5-ab43-03b074f61e54,aaa6b816-a98a-438e-b7d1-46bde41fb9b5,2021-07-17T14:30,"Hecarim;King Foltest;Teba;Zac",15,8,1,Draw
+5577cfe2-07d1-4666-9476-2721efc3c17d,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2017-12-27T12:30,"Jayce;Lulu;Vladimir;Kao Makagh;Professor Shikashi",9,5,5,Lose
+2c0c63b1-4498-4050-900f-f4b176c12509,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2016-09-20T15:30,"Carpenters;Zyra;Torbjorn;Kafei",5,19,18,Lose
+435720b3-8721-42bb-a826-2931a2c6159c,575ab297-43e9-4248-b98b-6dc3464fa9e7,2025-04-17T14:15,"Renado;Olgierd von Everec;Reinhardt;Zenyatta",11,15,2,Win
+e2406c19-e5f2-41ab-9fa1-4cec697115f9,b3d6baac-8141-4390-9858-654aa665284e,2023-06-05T16:00,"King Henselt;Volibear;Sweers;Doc Bandam;Bard",1,3,0,Draw
+c2878f13-4960-4dd3-b670-ab0029c991b9,03089914-0582-4b95-af84-09996db5fd8b,2017-06-30T12:45,"Lissandra;Sigrdrifa;Mercy",17,13,14,Win
+0b24ffd9-1e88-47ff-873d-4653d752c407,aaa6b816-a98a-438e-b7d1-46bde41fb9b5,2021-11-22T16:30,"Aglaïs;KogMaw;Albrich",19,10,4,Win
+19c8628e-c105-4590-a1cb-52eb63b44fe8,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2018-12-28T16:15,"Eithné",12,4,5,Lose
+cfa23aea-c130-4d8f-8bbb-8f25bfb8b1ad,8e1b80d7-5cb8-429d-b4b8-3ebcd096db76,2021-03-03T20:30,"Zoltan Chivay;Brouver Hoog;Junkrat;Tokkey;Fiddlesticks",16,15,15,Lose
+58af1393-c4b0-48e4-aeaa-39e7b954bb96,641adc79-39cb-4ce3-a214-83464751fd30,2022-12-08T15:45,"Isengrim;Yuumi",14,11,3,Draw
+5775cc93-39d8-4342-8d83-6b637f1645e3,cadba9d3-7200-457e-af48-60e377bcca7e,2025-10-22T16:15,"Soldier 76;Salvatore;Roach;KaiSa;Shee Vaneer",10,10,11,Draw
+569ac842-c29c-4e95-be02-d013ade1f445,180c0099-f5f5-4883-9977-9280ded07c56,2023-09-22T17:30,"Corki;Ryze;Dethmold",3,15,2,Win
+f16b64ce-8c51-4482-87c2-577598f60135,9caa58d7-a045-440e-b7cc-29bd1b01bf3e,2018-02-01T16:15,"King Henselt;Garen;Ezlo;D.va;Onox",14,16,3,Win
+d5bd7f39-e70a-4cab-b603-e2392bda6463,d5afd081-738b-4502-be88-4730d1a5a949,2020-06-09T17:30,"Doomfist;Widowmaker;Zenyatta",19,18,12,Draw
+feffec05-d3a4-4db4-b545-ae533fda3208,b77d2f20-4a64-4c21-8e71-f955f401d4e5,2024-09-30T13:45,"Nabooru;Calip;Nocturne",12,10,0,Lose
+d0eadd2a-6605-4f22-a218-bba89aac603c,e5c27a51-f883-4d27-87e8-7d221018a25f,2023-06-06T15:45,"Sylas;Malo;Trissa;Reinhardt;Ivern",7,8,3,Draw
+e92a746d-9177-4eef-80d6-a766333be309,60c94ef6-750a-41fb-886e-babe72a2cc4c,2023-07-09T12:15,"Hurdy Gurdy Man",11,12,10,Win
+077e89ad-2f8f-40ed-ad29-a11523734ab8,86ba556f-9400-4e1c-b406-bfe4c0545ee5,2017-11-27T12:30,"King Henselt;Toh Yahsa;Tracer;Genji;Prince of Hyrule",17,13,6,Win
+8a193e48-362f-46c7-ad63-31e6284eaae1,a24c736a-e004-401e-91cd-eb14c95f6bea,2021-06-15T16:30,"Zenyatta",15,2,11,Draw
+08cc5402-9a67-4ad6-91cd-465dbebaf271,6ac6b618-69e1-4200-ab10-f16ef8461648,2022-03-27T21:45,"Revali;Yuumi",18,7,14,Lose
+f7e77ee5-8abc-4c37-a680-07e2c6080787,41cd39b3-b42e-4537-ad09-7259801e5f6c,2020-04-17T20:15,"Rhoam Bosphoramus Hyrule",17,6,15,Win
+cdfe7932-076a-41d0-b282-c183d99bf1b8,cadba9d3-7200-457e-af48-60e377bcca7e,2017-11-21T18:00,"Corki;Udyr;Jayce;Imlerith;Elise",15,8,16,Lose
+e67737ea-8e14-405d-a6c9-5596c9c6dd4a,66084187-cb2d-498c-8f76-2648ea1e4a8b,2017-01-13T20:30,"Doomfist;Schirrú;D.va",0,9,16,Lose
+16828f86-2550-4e31-9141-4dbad8f7fd4a,6a38a193-f277-48ac-8ef8-87b6f43e682d,2022-03-12T16:45,"Ashe;Bastion;Junkrat;Marot;Manbo",0,17,19,Draw
+7b1f427d-f3be-4efe-a006-70b781ee4bc4,8e1b80d7-5cb8-429d-b4b8-3ebcd096db76,2019-08-13T18:45,"Winston;Yorick;Madam Aroma",18,8,4,Draw
+cfda63cf-50ad-457c-8f75-13ebdb8d3f75,68ba1c80-8c7b-4056-940c-f5eb6143f977,2021-04-25T17:00,"Goron Elder;Esterad Thyssen",2,10,6,Lose
+64c43d9f-aebe-4e29-88cb-021e453d66c7,13e5933e-d555-42cb-985a-80198caf8393,2024-05-29T17:00,"Ahri;Bagu;Volibear;Patch",2,16,6,Draw
+d9cd887d-c91a-400d-924d-5c49f687f60d,60c94ef6-750a-41fb-886e-babe72a2cc4c,2020-02-23T14:30,"Jan Calveit;Carduin;Kassadin",11,18,7,Lose
+3463bc6f-d18c-4fb6-a397-d61c8e09dd98,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2017-07-08T14:00,"Sorelia;King Henselt;Gnar",16,10,18,Win
+084346af-9b5d-44ac-a2d2-e4fc2be03d85,b77d2f20-4a64-4c21-8e71-f955f401d4e5,2020-07-06T20:15,"Zilean;Roadhog;Fiddlesticks",5,14,5,Draw
+5e284463-d67a-45ca-83dd-dbdb6632e62c,60c94ef6-750a-41fb-886e-babe72a2cc4c,2022-11-25T18:15,"Graves;Birna Bran;Imlerith;Daqa Koth;Roadhog",18,1,10,Win
+cbf268bb-2494-4379-98ff-0db668fa05b8,ed872a2a-5a3e-48a4-855e-cb8d1986885a,2018-12-24T20:45,"Rose;Kao Muakagh",8,17,4,Win
+ab6b0764-65d6-4442-ac37-7fd66a128862,b2252a8b-1495-4361-b050-84a4d35ab695,2019-09-10T20:15,"Ilia",10,13,2,Lose
+b9844be4-826c-4245-a31a-8f8db493f7e0,86ba556f-9400-4e1c-b406-bfe4c0545ee5,2022-08-17T18:15,"Eredin",8,7,17,Win
+38bae607-4181-41dd-b2f3-81bf6dfde2bf,68ba1c80-8c7b-4056-940c-f5eb6143f977,2018-10-07T18:15,"Neez Yohma",17,9,11,Lose
+12b94024-8961-480c-a095-2bba34e7db58,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2019-10-27T13:45,"Vilgefortz;Sue-Belle;Lucio;Roadhog",7,12,3,Draw
+af160417-4e3b-42e1-9fb6-1ee6f290d868,8e1b80d7-5cb8-429d-b4b8-3ebcd096db76,2021-04-13T19:30,"Torbjorn;Cho-Gath",9,19,9,Lose
+d7f620eb-342e-4230-88ab-f56c2bbac44d,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2020-12-01T12:00,"Moira;Maria Louisa La Valette;Grandma;Trundle",15,1,5,Win
+e7b3bce0-017d-417f-8f19-293084e85027,9caa58d7-a045-440e-b7cc-29bd1b01bf3e,2016-08-26T20:15,"Moira",14,11,14,Draw
+db7f52fb-c9d4-44b2-9c8b-a0f1071dc228,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2017-11-24T15:15,"Hecarim;Imlerith",5,14,4,Draw
+ed4d69e9-0aa2-493a-afaf-9e07ec0318b2,a6d1b4aa-5be2-4b97-b333-fc9ee9a8218b,2017-04-15T18:15,"Martha",3,14,19,Draw
+18eb8f45-f6ad-4d97-9f9c-90644a9915d1,86ba556f-9400-4e1c-b406-bfe4c0545ee5,2023-09-09T20:15,"Christine;Menno Coehoorn;Tibor Eggebracht",7,2,15,Lose
+28dac406-374a-429e-9055-79e55bace959,ef5ceb2f-695b-4b12-b456-1de458e956ec,2017-09-27T13:15,"Widowmaker;Tarin;Astrid",7,8,10,Lose
+12e45c12-16db-46b8-8164-13f68fa04715,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2020-04-30T17:45,"Mila and her father",0,19,14,Draw
+0669aa7c-4ff9-4148-810c-17d2616f78b3,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2019-01-29T14:30,"Gaunter ODimm",7,4,18,Lose
+b330c985-1380-47f1-8706-8537561ca6c9,176742ce-bf66-4728-89df-ea3533892830,2023-09-10T19:00,"Addario Bach;Imlerith",6,18,17,Draw
+79b160e7-b502-46d6-9ff8-67815070019a,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2017-01-11T12:30,"Carthia van Canten;Gibdo Man;Eithné",16,5,16,Lose
+c47d6302-bde4-4e24-9cbf-3bb1e235d5de,8e1b80d7-5cb8-429d-b4b8-3ebcd096db76,2023-06-01T20:00,"Genji",11,12,19,Lose
+7c72079b-1147-4943-abc9-18f687eea13b,66084187-cb2d-498c-8f76-2648ea1e4a8b,2023-04-30T12:45,"Tracer",14,6,3,Lose
+f5bf4c3b-7250-468d-9ecd-232e8840180c,8e1b80d7-5cb8-429d-b4b8-3ebcd096db76,2016-03-31T18:30,"Volibear",1,16,0,Draw
+6e2a3a7f-50da-48a1-a8c4-ed052bf1279a,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2017-01-10T13:15,"Mei;Winston;Tristana;Torbjorn;Crach an Craite",13,8,14,Win
+c24d9046-ae3d-47aa-b55d-7e3a06b0427f,e5c27a51-f883-4d27-87e8-7d221018a25f,2022-12-22T21:00,"Skjall",6,12,12,Lose
+b5033d53-ae3d-409f-ad18-d4438b3f5c26,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2020-10-05T19:45,"Ashe;Schirrú;Mercy",14,16,5,Lose
+b6d498c0-ee1a-4b03-ae88-1291ebf822e2,f6f11f4b-a022-4d33-b22d-3ec8ae188fb0,2021-05-20T12:45,"Sion;Widowmaker;Moira;Symmetra",8,15,1,Win
+a0ef7a9e-17f0-44fc-8bbf-6c4d59470823,6a38a193-f277-48ac-8ef8-87b6f43e682d,2017-08-25T16:15,"Toffa;Moira;Emiel Regis Rohellec Terzieff-Godefroy;Dandelion",19,12,7,Lose
+1147ab4b-5534-4b23-a305-2dc0d073f245,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2018-10-02T13:15,"Doomfist;Brouver Hoog;Anna Strenger;Nami;Assire var Anahid",15,1,16,Lose
+8bf74eda-d428-43a5-b376-677e0612f0a5,e5c27a51-f883-4d27-87e8-7d221018a25f,2017-10-18T12:15,"Miss Fortune;Aelirenn",4,4,4,Win
+54db3660-9e0c-4869-9f6a-4a732e02cb5d,a24c736a-e004-401e-91cd-eb14c95f6bea,2023-04-22T20:15,"Rosa Sisters",8,18,11,Draw
+16d88e80-17f1-4715-89e5-0dc5c808a552,60c94ef6-750a-41fb-886e-babe72a2cc4c,2020-12-24T19:00,"Ana",18,9,16,Lose
+cb64838e-50a0-42e4-83aa-2af264adf8e3,b3d6baac-8141-4390-9858-654aa665284e,2024-03-18T19:15,"Uma;McCree",16,9,3,Lose
+ed8529da-762f-44ca-96c3-3fa092094f21,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2020-11-06T17:45,"Trundle",6,9,19,Draw
+fc11e1c4-b7f8-48ee-a097-b2641db1186d,176742ce-bf66-4728-89df-ea3533892830,2018-05-05T13:45,"Doomfist",14,2,14,Draw
+f7aec284-5d23-40eb-b0e9-c398f6acdbdd,82087c79-fcae-4fc1-875d-605e81176d18,2021-01-02T20:45,"Birna Bran;Aurelion Sol;Caitlyn",6,2,6,Win
+fe418565-03c7-4698-9fe5-8e6260b1e3d7,66084187-cb2d-498c-8f76-2648ea1e4a8b,2025-11-09T18:15,"Neeko;Junkrat;Tokkey;Purah;Reinhardt",6,6,8,Lose
+27afe2ab-93e3-4b1e-b1ef-ce33524bf6a9,81b4b875-d756-42f5-9185-45d357c3fcc1,2020-05-16T21:00,"Lucio;Tracer;Symin",9,17,3,Lose
+3b71e5f7-4eb1-4368-b839-bfd2a00c191d,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2017-12-13T16:15,"Keira Metz;Farore",17,15,12,Draw
+30a83ee5-2559-4bf5-a21f-5048379d3972,d5afd081-738b-4502-be88-4730d1a5a949,2016-08-17T19:45,"Widowmaker;Priscilla",1,16,9,Draw
+0b211dae-a529-4442-b015-1173a09eeb68,68ba1c80-8c7b-4056-940c-f5eb6143f977,2019-05-06T17:30,"Yorick",14,16,16,Lose
+ccc843de-15ea-4ed3-931c-f33d42ef7f3b,25934abb-ebc7-48d1-8540-71145788e564,2025-11-27T20:30,"Sabrina Glevissig;Tracer;Yeto",15,4,9,Lose
+aaffd2cf-9877-441c-9618-4e1a86a4f925,d5afd081-738b-4502-be88-4730d1a5a949,2016-09-19T16:30,"Kayle;Winston;Malon;Mila and her father",3,19,2,Draw
+17c13fe9-58ed-4d74-b818-01b2665bfb2b,b2252a8b-1495-4361-b050-84a4d35ab695,2022-03-29T19:30,"Sombra;Caranthir;Reaper;Tetra",13,5,14,Draw
+82fb8c44-d33d-4245-949f-696a02a651a7,d5afd081-738b-4502-be88-4730d1a5a949,2017-06-19T13:00,"Vattier de Rideaux;Ember;Veran;Reinhardt",9,14,19,Draw
+4e0aea9a-100f-4a91-a8e3-a8527bb8c573,81b4b875-d756-42f5-9185-45d357c3fcc1,2024-04-14T12:30,"Swain",4,18,3,Win
+18fb4981-7496-49ce-be80-f84615fe1e8e,b77d2f20-4a64-4c21-8e71-f955f401d4e5,2025-06-13T17:00,"Sylas;Nunu & Willump;Roadhog;Great Deku Tree",17,19,18,Lose
+13b59168-9ef6-446a-8f84-565fce0492c4,b3d6baac-8141-4390-9858-654aa665284e,2022-09-12T12:15,"Vilgefortz;Simon;Twisted Fate;Hanzo",17,9,19,Draw
+f82fe1f0-9bfc-41c4-bf3c-81cbc3f72a62,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2025-08-17T12:30,"Sorelia;Zooki;Ana;Torbjorn",4,2,11,Win
+6fd5da55-bcc8-4144-baa3-beb426d9a223,6ac6b618-69e1-4200-ab10-f16ef8461648,2017-01-19T14:15,"King Demavend;Main Antagonist;Zenyatta",19,18,8,Win
+3a650037-b86f-4376-a0d0-2f612756e9a8,66084187-cb2d-498c-8f76-2648ea1e4a8b,2016-02-14T14:30,"Sheh Rata",14,0,16,Win
+3d9ad990-1222-4430-9864-06e999fa3819,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2020-09-14T20:45,"Fishman;Illaoi",16,1,5,Draw
+912bead6-4fe5-4bd1-a36d-8f0bb6e6361b,25934abb-ebc7-48d1-8540-71145788e564,2018-04-06T12:00,"Sigismund Dijkstra;Shibo;Pyke;Reinhardt;Sheldon Skaggs",16,18,5,Win
+dbafa904-d705-4cbf-af5b-b499837b69ac,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2017-07-27T15:15,"Symmetra",0,10,15,Lose
+7332e3e6-dfb5-435a-81be-838f59c29dec,575ab297-43e9-4248-b98b-6dc3464fa9e7,2022-05-02T15:30,"Telma;Johnny;Gnar;Orisa;Margarita Laux-Antille",7,16,8,Win
+cba15f2d-b333-4ea3-8db0-b6c42be43705,82087c79-fcae-4fc1-875d-605e81176d18,2022-11-14T19:15,"Keira Metz;Sigrdrifa;Sweers",3,3,12,Lose
+b6354fae-5a97-4b59-a31b-c1a32e192144,a6d1b4aa-5be2-4b97-b333-fc9ee9a8218b,2017-12-30T19:30,"Tibor Eggebracht",9,8,9,Lose
+02edffa3-1dee-45d3-b7ea-fe9d500fce7e,f1ec3853-d4f0-4419-bf88-65d495a0086b,2018-11-12T12:15,"Miss Fortune",6,5,19,Win
+2bf1e48c-5434-4b8d-8a77-7836fd3fdcff,03089914-0582-4b95-af84-09996db5fd8b,2023-02-25T16:15,"Doomfist;Vi;Lucio;Calip;Yunobo",11,7,10,Draw
+16da84ac-fb30-475a-a6e2-9c81f826673d,b77d2f20-4a64-4c21-8e71-f955f401d4e5,2016-03-18T21:00,"Symmetra",6,4,3,Draw
+5aa2b353-a2fd-493c-8de0-8ff2a0786842,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2016-04-17T21:15,"Addario Bach;Ghost;Hanzo",1,7,5,Lose
+0777c107-f8b3-43de-b49a-bc5455a37914,01027715-f54e-49f8-9167-5b364bcd298c,2025-03-22T20:15,"Anna Strenger;King of Red Lions;Nithral",17,2,3,Lose
+d92b352d-f5df-473b-b0a9-f1049e34e3b6,25934abb-ebc7-48d1-8540-71145788e564,2025-11-01T16:15,"Cotera",19,16,19,Lose
+34fd0850-2aa7-42c1-afa6-7f5d832bf705,b3d6baac-8141-4390-9858-654aa665284e,2017-09-08T12:45,"Moosh;Shai Utoh",10,11,11,Win
+502fc2ea-edaa-415e-9a79-f6f669d05e1d,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2017-09-26T14:45,"Grog;Iorveth;Symin;D.va;Katarina",8,0,16,Lose
+deff2b49-35c9-4cad-a456-2cac6293917d,ed872a2a-5a3e-48a4-855e-cb8d1986885a,2025-09-26T12:45,"Ahri;Ana;Donar an Hindar;Xerath",8,14,3,Draw
+73e59a07-dd01-4f0c-9b42-b0b70a95e051,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2022-07-05T21:00,"Olaf;Sona;Lux",1,14,17,Draw
+cfa23aea-c130-4d8f-8bbb-8f25bfb8b1ad,0a8f62ad-4ef8-42c1-a931-c1cc38510cd8,2021-03-03T20:30,"Vattier de Rideaux;LeBlanc;Eredin;Genji;Soldier 76",19,0,8,Lose
+9bbc3fd0-e87d-4783-aae4-f2929a9435d7,60c94ef6-750a-41fb-886e-babe72a2cc4c,2021-11-21T17:45,"Diana;Yaevinn;Symmetra;Joachim de Wett",16,15,11,Win
+cd790628-2abf-42ef-b213-a65c6d4d2b0a,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2020-10-17T17:00,"Pharah;Swain",6,2,15,Win
+d9cd887d-c91a-400d-924d-5c49f687f60d,03089914-0582-4b95-af84-09996db5fd8b,2020-02-23T14:30,"Singed;Soldier 76;Vernon Roche;Galio",16,15,17,Win
+d0582a0c-ba6e-4a66-bbaa-5dd189a6af2b,09b11048-d0ad-4064-9e3c-24867f2caf29,2017-10-29T21:45,"Fiora;McCree",13,19,1,Lose
+34f45c36-320d-4c4c-8169-a3476a29c389,ef5ceb2f-695b-4b12-b456-1de458e956ec,2025-05-08T13:45,"Master Yi",18,3,15,Lose
+f71b44ae-8f05-43e4-a1ba-9a83ce0aaee8,82087c79-fcae-4fc1-875d-605e81176d18,2024-07-10T15:30,"Cassiopeia",19,15,1,Lose
+582105c8-cef2-42fd-8ead-56d6abf70527,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2022-12-04T19:00,"Syndra",9,13,1,Win
+85256370-1c1e-436a-99cf-f4f0288cbd6d,f1ec3853-d4f0-4419-bf88-65d495a0086b,2025-06-18T12:00,"Poppy;Birna Bran;Jitan Sami;Tibor Eggebracht;RekSai",5,10,3,Lose
+90099cb9-f9d6-4d99-ab13-e9b7db5dcbc2,68ba1c80-8c7b-4056-940c-f5eb6143f977,2020-07-01T15:00,"Birna Bran;Tryndamere;Leona;Louise;Ulrira",9,10,15,Win
+4fe4197b-c763-4fd1-894e-e323d5ea75f1,13e5933e-d555-42cb-985a-80198caf8393,2020-06-25T21:30,"Orisa",4,1,18,Win
+38d5e019-5526-4e28-b74a-6842e64580df,8e1b80d7-5cb8-429d-b4b8-3ebcd096db76,2018-12-14T20:15,"Irelia",17,1,19,Draw
+d31d98d4-1d6d-4bb3-88e5-f8b96110fe11,575ab297-43e9-4248-b98b-6dc3464fa9e7,2025-02-01T19:00,"Torfeau;Shyvanna;Ganondorf;Yuumi;Zenyatta",8,3,1,Win
+f7e76389-4b06-401e-99a5-a19322e2e44b,0aa495a3-3b46-447e-b1ca-8ab04f693594,2019-06-23T19:30,"Fringilla Vigo",12,8,4,Lose
+8b44cfd1-77c9-49c8-89a2-a9f7412b0732,6ac6b618-69e1-4200-ab10-f16ef8461648,2025-07-30T20:00,"Galio",17,10,6,Win
+9e915062-739d-4fc6-9702-072bab9fdc08,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2016-03-30T19:45,"Dr.Troy;Thresh;Grandma Ulrira;Bipin;Eithné",4,11,7,Lose
+ae8ee3dc-ba5d-48f4-862a-09e92efed2f2,81b4b875-d756-42f5-9185-45d357c3fcc1,2024-02-12T14:30,"Daka Tuss;Nenneke;Skarner",1,16,12,Lose
+eb007f7d-2916-44e0-86d3-34c830cc1191,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2021-07-03T18:00,"Shaco",7,8,11,Win
+5ac71e26-534e-46cd-9fd0-11d26f80c1ee,0a8f62ad-4ef8-42c1-a931-c1cc38510cd8,2021-11-29T19:00,"Dr. Mundo;Genji;Joel",12,9,19,Lose
+3d8e11f2-d48b-406b-a999-65003c518412,d5afd081-738b-4502-be88-4730d1a5a949,2021-01-06T16:30,"Mad Batter;Bastion;Riju;Lasli",15,1,19,Lose
+b113cea9-7e1f-42eb-8c44-5850ca818494,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2021-02-01T20:30,"Fringilla Vigo",14,10,19,Win
+74fcf7ed-0eda-4cc4-aa28-02865a20af19,b2252a8b-1495-4361-b050-84a4d35ab695,2020-12-02T21:00,"Mei;Zarya;Hjalmar an Craite;Rito Chieftain",12,3,16,Draw
+50b510c0-8d09-4f8d-a46d-e29a387528a9,176742ce-bf66-4728-89df-ea3533892830,2022-07-16T20:00,"Birna Bran;Lucio;Pavetta;Blitzcrank;Tibor Eggebracht",4,19,9,Draw
+ce60bdd3-e7dd-4d6f-ba18-15b5bd347066,13e5933e-d555-42cb-985a-80198caf8393,2023-09-25T14:45,"Urgot;Tena Kosah;Roadhog",11,12,9,Win
+0d1dbfde-c32a-4fe0-97da-e0898105831f,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2019-10-27T13:45,"The Bloody Baron;Kled;Nithral;Zac;Link",10,12,2,Lose
+75201734-8d56-481c-a7ba-52496dda3b54,6a38a193-f277-48ac-8ef8-87b6f43e682d,2021-03-05T18:30,"Mei;Yennefer of Vengerberg;Traveling Merchants",18,9,8,Draw
+3085c527-2cb0-4e6b-ae87-5f43f2194f40,a6d1b4aa-5be2-4b97-b333-fc9ee9a8218b,2023-02-25T16:15,"Yeta;Draven;Widowmaker;Bastion;Veigar",8,10,10,Draw
+9e5ec023-51dd-4c6d-9535-be129681f7a0,cadba9d3-7200-457e-af48-60e377bcca7e,2025-07-09T21:00,"Addario Bach;Reaper;VelKoz",12,6,1,Win
+939a2852-4c7b-4cd6-b4b6-01bc3be11a39,03089914-0582-4b95-af84-09996db5fd8b,2017-05-04T19:15,"Genji;Maria Louisa La Valette",11,9,9,Win
+de52c4bb-f8d8-4da4-9983-1cc16f6bd642,86ba556f-9400-4e1c-b406-bfe4c0545ee5,2016-06-04T13:15,"Saskia;Ghost",16,9,14,Lose
+e90002b7-dbc1-4da5-a51f-c15a66d796ab,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2019-05-22T21:15,"Sakon;Ember;Nami",11,17,10,Draw
+83ad30f6-e841-4589-82db-fc466eaabbe3,ed872a2a-5a3e-48a4-855e-cb8d1986885a,2021-02-08T13:45,"Pantheon;Aryll;Xin Zhao;Gnar",14,19,10,Draw
+c4eea118-7483-40eb-aafb-cf152802f558,b3d6baac-8141-4390-9858-654aa665284e,2022-04-05T12:45,"Lucio;Simon;Dr.Troy;Kafei;Deku Tree Sprout",0,18,4,Draw
+40383ab7-0bfb-4745-9e0d-8113be00c175,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2019-04-05T18:45,"Skarner;Anjus Mother",18,18,0,Draw
+20557368-5025-4dbd-9b3f-9ce23b6c96f5,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2018-06-06T21:30,"Keira Metz;Addario Bach",2,14,11,Draw
+fc5e78df-33da-46bd-bc8f-77ca36e541d7,6ac6b618-69e1-4200-ab10-f16ef8461648,2023-11-03T15:45,"Agahnim",8,9,17,Lose
+b929be7f-abf3-44ff-939b-f4814bcdaa3b,68ba1c80-8c7b-4056-940c-f5eb6143f977,2017-09-12T18:45,"Kayle;Hjalmar an Craite;Tracer;Uma",14,2,7,Lose
+922097b1-7d83-4dbd-84b4-3809102b2c84,ef5ceb2f-695b-4b12-b456-1de458e956ec,2023-11-10T18:00,"Zarya;Decci;Orisa;McCree;Roach",8,18,9,Lose
+9e5d52fb-48c7-4831-b6e1-4b2990845322,79ef3b2e-d436-412e-80f2-a212859fc42b,2017-02-16T16:00,"Mei;Kayle;Rosa;Roach",11,1,16,Draw
+3643fa03-5150-44cb-8e4b-115e49e2151c,aaa6b816-a98a-438e-b7d1-46bde41fb9b5,2024-01-24T13:15,"Daka Tuss;Whoreson Junior;Junkrat;Ulrira",8,1,3,Win
+d6a76a2c-6997-41f4-9098-d93c970b0e1f,176742ce-bf66-4728-89df-ea3533892830,2021-04-21T21:45,"Moira;Mercy",14,8,19,Lose
+61078e4e-89ab-4c39-9d31-ad2e298c1d8c,ef5ceb2f-695b-4b12-b456-1de458e956ec,2016-08-14T12:00,"Taliyah;Winston;Keira Metz;Lenzo;Kass",1,18,0,Win
+d711b502-1085-44cf-b04a-9f9cda3cabdf,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2021-02-06T15:00,"Jarvan IV;Tye;Mipha;Tracer;Symmetra",10,3,13,Draw
+49fd2f8a-00f2-4590-9ed3-50f5e909296f,176742ce-bf66-4728-89df-ea3533892830,2017-12-02T17:15,"Emhyr van Emreis;Whoreson Junior;Chio;Aelirenn;Laruto",11,0,11,Draw
+68b75d87-276f-4a86-bd4c-256b8569e139,e5c27a51-f883-4d27-87e8-7d221018a25f,2024-05-13T13:30,"Sheikah Monk;Jayce;Whoreson Junior;VelKoz",11,1,5,Lose
+1ed8b133-a8a6-4a8b-9f36-5a7d69d3e893,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2025-03-18T14:30,"Cucco Keeper;Keira Metz;Margarita Laux-Antille;Veigar",0,5,10,Win
+964fabeb-1912-4833-b698-747480e47ea9,03089914-0582-4b95-af84-09996db5fd8b,2019-07-14T18:45,"Poppy;Vilgefortz;Soldier 76",18,0,11,Lose
+ec095ef4-3b2a-4ee0-ac4c-8b0454d068e1,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2025-05-26T15:30,"Iorveth;Hanzo",0,7,16,Draw
+a3f5ebf6-56f8-44a7-8d5d-ce522da78c82,ef5ceb2f-695b-4b12-b456-1de458e956ec,2018-09-01T14:30,"Dan Hesho;Fringilla Vigo;Baby Goron;Cho-Gath",3,12,5,Lose
+835825f5-e6a1-4e2c-b921-ffd19509e569,b2252a8b-1495-4361-b050-84a4d35ab695,2016-03-27T12:00,"Bran an Tuirseach;Hjalmar an Craite;Francesca Findabair;Yaevinn;Darton",7,9,14,Draw
+41d22b00-2c7f-470a-9195-9b1c28037312,86ba556f-9400-4e1c-b406-bfe4c0545ee5,2023-03-09T14:15,"Thaler;Roadhog;King Radovid;Eithné;Tahm Kench",19,9,7,Lose
+da75b5da-99f0-4a48-a37a-9213f8826f17,60c94ef6-750a-41fb-886e-babe72a2cc4c,2016-06-22T15:15,"Reaper;Ana;Priscilla",4,11,9,Lose
+35abd1e9-8ee2-4cd7-9176-774a93281be0,6ac6b618-69e1-4200-ab10-f16ef8461648,2025-05-23T18:00,"Emhyr van Emreis;Genji",6,13,7,Win
+179bfeed-ee96-462a-9afc-0f476d75633f,60c94ef6-750a-41fb-886e-babe72a2cc4c,2017-12-04T15:30,"Crazy Tracy;Cado;Yaevinn;Yuumi;Reinhardt",3,9,3,Win
+13f26b3e-d7c2-48e9-8500-8876e4a14fec,180c0099-f5f5-4883-9977-9280ded07c56,2020-01-13T15:00,"Hecarim;Roadhog;Eithné;Ermion",5,4,15,Win
+908cbd63-2003-43b3-8321-36e72cfab31b,176742ce-bf66-4728-89df-ea3533892830,2018-09-14T21:45,"Wrecking Ball;Nyave;Genji;Torbjorn;Prince Sidon",1,14,14,Lose
+7ccf120c-3d84-4d9b-a9fa-7e2723732383,b2252a8b-1495-4361-b050-84a4d35ab695,2016-02-08T20:00,"Heimerdinger",3,11,14,Lose
+25d64004-1eb9-430f-b7ef-168255a3a46e,f6f11f4b-a022-4d33-b22d-3ec8ae188fb0,2023-02-17T14:15,"Hanzo",8,13,3,Win
+9037b0eb-fd2e-4c25-bbce-8c926a066b0a,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2017-01-22T21:45,"Winston;Sabrina Glevissig;Schirrú;Link (Goron)",18,4,9,Lose
+8745f454-eb90-4d03-b2f2-99a029bf6c7a,180c0099-f5f5-4883-9977-9280ded07c56,2021-12-17T21:00,"Mountain Minish;Brouver Hoog;Uma;Nocturne",14,10,11,Win
+e8cb2612-9e49-48f8-939d-ac0883e9a83d,f6f11f4b-a022-4d33-b22d-3ec8ae188fb0,2019-06-30T12:00,"Warwick;Dr. Mundo;Fizz;Skarner;Aelirenn",1,3,16,Draw
+bef7159f-27d1-456e-a058-ed136adb6151,0aa495a3-3b46-447e-b1ca-8ab04f693594,2023-05-30T12:45,"Priscilla;Steen;Pharah",12,10,0,Draw
+4a740375-4a4a-4e1f-91c6-1781b682d773,0aa495a3-3b46-447e-b1ca-8ab04f693594,2025-01-15T16:30,"Corki;Jan Calveit;Fizz;Oshus;Prince of Hyrule",14,11,5,Draw
+24a2669d-3f0c-43b4-b765-d412fa92c400,eeb36c45-0408-4c18-9781-59cc1d398a44,2023-11-09T19:30,"Syndra;Uma;Milton de Peyrac-Peyran;Grandma Ulrira;Hanzo",5,14,7,Lose
+ef08d09d-f170-4918-af78-3900cedd4e0b,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2023-10-16T13:15,"Doomfist;Sweers",2,19,14,Win
+8c7b2d79-a7d9-4fe2-b45c-38846efdb522,d5afd081-738b-4502-be88-4730d1a5a949,2023-08-01T19:00,"Widowmaker;Zilean;Zenyatta;Adam Pangratt",11,8,9,Win
+5a9f2a13-6ed8-4828-9cc9-3ad80626e1d3,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2019-09-14T16:30,"Taric;Wind Fish;Skjall;Yarpen Zigrin;Postman",1,12,2,Win
+ad663b56-e4ed-48b1-8f6e-b71dc60a4c62,0a8f62ad-4ef8-42c1-a931-c1cc38510cd8,2017-11-17T12:15,"Triss Merigold;Widowmaker;McCree;Trundle",10,8,12,Win
+f649d4c0-13ac-4470-8d6e-d52833310acf,ef5ceb2f-695b-4b12-b456-1de458e956ec,2025-05-16T15:15,"Sue-Belle;Bastion;Reaper;Twitch;Albrich",8,13,3,Draw
+0cb1f8b0-8ab0-4e19-9b92-299b71b3a164,0a8f62ad-4ef8-42c1-a931-c1cc38510cd8,2024-08-07T17:00,"Owa Daim",15,19,17,Draw
+b753c2f6-d8d9-4dab-a5cb-b0b8dfd89d38,2b45e4db-da46-42d9-8db9-e7f09f5e8fa6,2023-01-09T13:45,"Orianna",5,1,12,Lose
+22e432d9-1a4c-4406-872c-42eeedd63ba0,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2024-12-13T19:15,"Pavetta",17,9,4,Lose
+40bef447-4500-45a9-bd57-9e50f850c3cd,f6f11f4b-a022-4d33-b22d-3ec8ae188fb0,2021-01-07T15:45,"Anna Strenger",15,10,19,Win
+92e18e62-71a6-4aaa-bbc0-84812ae50ce2,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2022-01-30T17:45,"Beedle;Maokai;Ekko;Donar an Hindar;Sheldon Skaggs",12,4,5,Draw
+b34d8aff-c3e3-455d-9eb3-2d664e8a0fe9,ed872a2a-5a3e-48a4-855e-cb8d1986885a,2017-05-30T13:30,"Olgierd von Everec;Caranthir;Moira",3,18,19,Lose
+f7ac2cc7-95d2-4840-aca8-95f128f5d293,f6f11f4b-a022-4d33-b22d-3ec8ae188fb0,2020-07-01T15:30,"Darius;Olaf;Xarthisius",14,12,13,Lose
+22de5429-2cbd-4978-bdbf-5d48ec2ae1ec,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2023-10-31T18:30,"Master Yi;Hanzo",11,11,15,Win
+e8dea014-9b28-46ce-81cf-230a3d6d48cf,86ba556f-9400-4e1c-b406-bfe4c0545ee5,2025-11-16T21:45,"Brand;Town Minish;Sombra;Keh Namut",15,13,8,Lose
+f4dedfdd-ee57-4aa4-98ab-fc40b42c181f,f1ec3853-d4f0-4419-bf88-65d495a0086b,2023-12-17T21:00,"Sprinn;Reaper;Mr. Barten",2,12,8,Win
+18c5df22-0a1f-49a9-9b3a-b71c42b6f4d6,41cd39b3-b42e-4537-ad09-7259801e5f6c,2022-10-30T14:15,"Sheikah Monk;D.va;Sivir;Aelirenn",9,4,3,Lose
+1efa9d76-ed03-489f-ab05-330a61853cd2,38be1605-e11e-4e9d-a209-421369c62024,2018-06-04T13:00,"Widowmaker;Pavetta;Soldier 76;Zed;Roadhog",9,8,3,Lose
+1b4f4de6-899f-4c33-8256-7828c9930c2e,641adc79-39cb-4ce3-a214-83464751fd30,2025-02-23T17:30,"Sale;Sombra;Marin",6,5,5,Win
+65ca5697-a5d3-4768-98af-e194e65834d2,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2017-07-06T16:00,"Maokai",5,12,2,Win
+b75e193c-0b75-483a-a8f9-dd1465d2e96f,575ab297-43e9-4248-b98b-6dc3464fa9e7,2017-11-24T15:45,"Nautilus;Sigrdrifa;Padok;Roadhog",10,11,17,Draw
+35abd1e9-8ee2-4cd7-9176-774a93281be0,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2025-05-23T18:00,"Zephos;Dethmold;Crach an Craite",6,0,5,Win
+2d8f5974-dab9-45a1-8399-98a36e700c8f,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2024-10-26T17:45,"Lucio;King Foltest;Soldier 76",5,10,3,Draw
+65befbf6-d91e-4197-b8f2-e0beb16bb2e4,66084187-cb2d-498c-8f76-2648ea1e4a8b,2019-02-10T12:45,"Abe;Junkrat;Mordekaiser",0,7,3,Draw
+414091a6-d722-4890-aa79-046207f16a93,575ab297-43e9-4248-b98b-6dc3464fa9e7,2019-12-06T13:30,"Kalista;Moira;Medigoron",1,2,2,Win
+98680e90-2dbf-4eff-bc2b-9a2ba7a43bf8,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2023-01-07T15:30,"Mei;Doomfist;Zarya;Hanzo",17,7,3,Draw
+d3c44528-6bbd-4da4-b2c6-09f208652f97,60c94ef6-750a-41fb-886e-babe72a2cc4c,2016-12-29T15:30,"McCree",5,1,6,Win
+59f62f9f-1840-4859-9da7-c0bb92a031a2,79ef3b2e-d436-412e-80f2-a212859fc42b,2024-02-25T21:30,"Zoltan Chivay;Kayn",14,4,11,Draw
+97174ba5-b250-4975-b972-6a72d8a32c40,a6d1b4aa-5be2-4b97-b333-fc9ee9a8218b,2020-01-27T21:30,"Soraka;Volibear;Deppi;Kayn;Blitzcrank",10,14,18,Draw
+2ece5986-2ec2-4ce3-a50d-34b6ee2a0959,cadba9d3-7200-457e-af48-60e377bcca7e,2023-03-08T15:00,"Saskia;Winston;Yennefer of Vengerberg;Padok",3,9,4,Draw
+584fbcad-5b0a-4b76-a5e5-0c1ef7aaf610,a24c736a-e004-401e-91cd-eb14c95f6bea,2016-02-05T13:30,"Rumble;Emhyr van Emreis;Wukong;Mordekaiser",11,10,11,Win
+ab5e6e3d-683f-4ad7-be34-d0206b5230fa,f1ec3853-d4f0-4419-bf88-65d495a0086b,2025-04-18T13:15,"Doomfist;Sombra;Milton de Peyrac-Peyran",7,18,0,Win
+1c361e31-049a-4c23-ba8b-9f185dc2f30c,b2252a8b-1495-4361-b050-84a4d35ab695,2016-10-25T20:30,"Ha Dahamar;Kaya Wan;Old Man;Malzahar",9,9,13,Lose
+d9237455-799f-4f64-aab3-974d402db7cf,6ac6b618-69e1-4200-ab10-f16ef8461648,2020-02-18T19:15,"Palmerin de Launfal;Tye;Joute;Lux;Roadhog",17,5,5,Draw
+5756e49d-2600-424b-909a-ec8a340c3c5d,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2022-03-12T16:30,"Camille;Roadhog",8,14,15,Draw
+1d4430fa-29b5-4cf6-8850-1fdd627f22da,d5afd081-738b-4502-be88-4730d1a5a949,2025-08-03T16:45,"Triss Merigold;Jan Calveit;Yorick;Tarin;Zenyatta",14,7,1,Lose
+63b7a28e-bca9-4d2d-b5f6-0cf016385482,6a38a193-f277-48ac-8ef8-87b6f43e682d,2016-07-13T14:00,"Olkin;Dudu Biberveldt;Nenneke;Dandelion",5,0,2,Lose
+db8c877d-9288-4332-9954-5896c6803018,f1ec3853-d4f0-4419-bf88-65d495a0086b,2025-01-17T14:30,"Twitch;Annie;Zenyatta;Roach;Maple",19,0,4,Draw
+5dc09eb3-f2c2-4581-b76c-1f59e8d8e07c,a6d1b4aa-5be2-4b97-b333-fc9ee9a8218b,2022-08-12T13:30,"Papahl and family;Shaco",17,16,5,Win
+f0f50428-0c0c-4310-ba0c-0dba6b6f07d5,f1ec3853-d4f0-4419-bf88-65d495a0086b,2021-07-07T14:45,"Isha;Junkrat;Killer Bees;Malzahar",10,11,14,Draw
+8af7988f-3b1d-4470-8102-610e73605320,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2020-02-22T15:00,"Zarya;Keira Metz;Lucio;Fado;Reinhardt",19,15,16,Lose
+2981c866-9bdc-41bd-a939-c285043a432c,81b4b875-d756-42f5-9185-45d357c3fcc1,2018-10-17T18:45,"Janna",4,16,6,Lose
+2a658334-ce05-4357-9ffa-f6c1ac314f52,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2020-01-21T17:30,"Nautilus;Pharah",19,9,19,Lose
+adc133f6-27f6-4b22-a228-0f68346c18f7,b3d6baac-8141-4390-9858-654aa665284e,2019-10-03T17:30,"Mutoh;Lakna Rokee;Widowmaker",3,19,13,Win
+660f4064-0ce9-4b03-8af2-35238a8561da,09b11048-d0ad-4064-9e3c-24867f2caf29,2022-04-05T12:15,"Hino;Alister;Romani and Cremia;Barta",7,13,14,Lose
+a58b3c9f-a06d-4396-8886-0b0d9f45b0f6,641adc79-39cb-4ce3-a214-83464751fd30,2025-11-03T14:00,"Schirrú;Milton de Peyrac-Peyran",0,1,11,Draw
+5c7f1bbc-9e61-461f-8fef-bc16a55b97de,641adc79-39cb-4ce3-a214-83464751fd30,2022-04-27T20:45,"Brand;Maria Louisa La Valette",14,17,8,Draw
+7fe755fd-5045-4ab6-8806-663162c318ec,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2019-02-09T13:15,"Doomfist;Iorveth;Zyvik;Lee Sin;Gaunter ODimm",0,3,5,Lose
+0a4b2b5c-3ddc-451c-b274-ba8554d8d51d,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2018-04-24T14:00,"Thaler;Graves;Nithral;Dandelion",12,6,5,Win
+4a94b19b-e4a1-4cb6-ac05-d9254f2f505b,68ba1c80-8c7b-4056-940c-f5eb6143f977,2018-12-17T17:00,"Winston",16,12,15,Win
+b7bd9f2c-8798-4c5e-a6ba-145f5e64c9f6,180c0099-f5f5-4883-9977-9280ded07c56,2024-12-04T18:00,"Uma;Captain;Caitlyn",9,12,9,Draw
+d3acd1fa-d358-461a-980c-e730f5dbc61b,b2252a8b-1495-4361-b050-84a4d35ab695,2019-10-19T21:45,"Draven;Olgierd von Everec;Kalm Yuogh;Orianna",18,17,9,Draw
+03b7d7ce-46dd-426c-aaa9-226b4a38db8c,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2024-06-04T21:15,"Winston;Wrecking Ball;Imlerith;Uma;RekSai",3,15,15,Win
+11f23b98-f30e-4202-8038-86214fd29cfb,8e1b80d7-5cb8-429d-b4b8-3ebcd096db76,2016-09-11T14:30,"Iorveth;Brouver Hoog;Soraka;Mousesack;Kalm Yuogh",6,19,5,Draw
+5d220204-4437-44fa-9c87-dcb368f2a26e,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2025-05-10T21:45,"Shop Keeper;Orisa",11,2,19,Draw
+8a321295-97ae-4def-8c2d-ef7ee7b0c2f8,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2021-09-26T13:45,"Sigrdrifa;Reinhardt;McCree;Esterad Thyssen",18,4,4,Draw
+a11d40c5-400c-4747-90a8-c00148a62a6b,e5c27a51-f883-4d27-87e8-7d221018a25f,2019-09-18T12:30,"Ezreal",14,14,17,Draw
+431649c8-4c9e-4c43-92cc-1d9b2a9ae790,b77d2f20-4a64-4c21-8e71-f955f401d4e5,2020-07-06T20:30,"Rakan;Swain;Milton de Peyrac-Peyran;Mercy",11,3,15,Win
+61078e4e-89ab-4c39-9d31-ad2e298c1d8c,b77d2f20-4a64-4c21-8e71-f955f401d4e5,2016-08-14T12:00,"Doomfist;Jayce;Ivern",17,16,6,Draw
+1f9549e5-8a92-4bbe-b9e3-20edefe21c85,aaa6b816-a98a-438e-b7d1-46bde41fb9b5,2017-05-13T20:45,"Owa Daim;Xarthisius;Crach an Craite;Sheldon Skaggs",9,15,13,Win
+ead88af5-a406-47a7-80d1-4b75b3a92335,8e1b80d7-5cb8-429d-b4b8-3ebcd096db76,2016-01-02T17:00,"King Demavend;Lissandra;Pharah;Roadhog;Laruto",16,0,13,Lose
+2d5813f6-d048-4bd7-a70b-25d1fdb00f3f,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2023-03-08T15:00,"Hino;Moira;Morvran Voorhis",6,12,18,Win
+c8ebe911-1bac-4ee7-bf5e-eec96fc507c0,641adc79-39cb-4ce3-a214-83464751fd30,2018-01-12T16:15,"Singed;Anju;Nithral",10,5,10,Lose
+98ff22b5-d2cf-4723-93f5-0b6890b4e5db,6a38a193-f277-48ac-8ef8-87b6f43e682d,2016-03-22T17:15,"The Bloody Baron;Karthus;Soh Kofi;Fiddlesticks",10,7,7,Lose
+38d6ab18-06aa-4ef3-b124-a61dda4e8efd,180c0099-f5f5-4883-9977-9280ded07c56,2023-11-15T13:45,"Soldier 76;Nithral;Yuumi;Yarpen Zigrin;Zilean",18,2,7,Lose
+31b31b13-5168-4310-b98d-72b5fbadf999,03089914-0582-4b95-af84-09996db5fd8b,2021-02-12T19:15,"Thaler;Keira Metz;Ruul",4,11,5,Lose
+d5935d68-ec71-469b-83ae-b95f389df120,82087c79-fcae-4fc1-875d-605e81176d18,2016-09-30T15:45,"Cho-Gath",4,11,1,Lose
+74ec6549-2724-4c27-93b8-294474f79ec9,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2016-07-18T19:45,"Philippa Eilhart;Sion;Kassadin;Grandma Ulrira",1,9,16,Draw
+1039a804-447b-4889-8117-8efc478bbfb0,0aa495a3-3b46-447e-b1ca-8ab04f693594,2019-11-19T20:30,"Caranthir;Albrich;Sivir;Donar an Hindar;Hanzo",2,5,2,Draw
+17234274-1071-4510-b49c-af94818a7c21,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2023-09-03T16:45,"Ermion",10,19,6,Draw
+14fe1741-89c3-4713-9910-67b203043dce,66084187-cb2d-498c-8f76-2648ea1e4a8b,2018-07-02T15:15,"Pumaag Nitae;Shani;Pina",19,16,1,Lose
+dcadc1a0-1759-45c6-93bd-27e143195e3a,f6f11f4b-a022-4d33-b22d-3ec8ae188fb0,2021-06-22T19:45,"Mei;Widowmaker;Soldier 76;Roadhog;Gragas",9,19,1,Win
+32756836-44c5-400c-a43b-5cba324281e8,52cc4a6d-4731-4d70-b593-5d0cb541e598,2017-02-09T13:15,"Mad Batter;Yennefer of Vengerberg;Varus;Ivern",3,14,14,Win
+22392e57-6716-4866-ba84-2c58d22e9de1,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2022-05-07T20:15,"Whoreson Junior;Greta;Trundle",19,14,14,Win
+5346ea36-fced-4878-a77d-facca5150515,575ab297-43e9-4248-b98b-6dc3464fa9e7,2025-05-20T21:00,"Orisa;Mercy;Roadhog;Carlov",1,18,17,Win
+d31d98d4-1d6d-4bb3-88e5-f8b96110fe11,f6f11f4b-a022-4d33-b22d-3ec8ae188fb0,2025-02-01T19:00,"Sombra;Emhyr van Emreis;Kao Muakagh",5,7,3,Win
+dd8ee9d9-07d3-4475-9685-6d7f6ced0624,176742ce-bf66-4728-89df-ea3533892830,2024-10-04T19:30,"Wrecking Ball;Nanna",1,8,10,Draw
+0334bdcb-eaaf-474a-8b3a-4d7202525ba1,01027715-f54e-49f8-9167-5b364bcd298c,2024-04-23T13:30,"Poe salesman;Olgierd von Everec;NoEz Yohma;Moira;Varus",13,8,16,Draw
+198b15e2-366d-4763-9880-08534c3fd34d,8e1b80d7-5cb8-429d-b4b8-3ebcd096db76,2021-10-09T20:45,"Diana;Sivir;Martha",1,15,7,Lose
+af4c2139-f719-414f-855c-19af71e5632d,ed872a2a-5a3e-48a4-855e-cb8d1986885a,2025-01-11T20:45,"Main Antagonist",17,7,17,Win
+162c6f2f-e571-4326-be3b-5e690441cc24,82087c79-fcae-4fc1-875d-605e81176d18,2020-01-31T17:30,"Caranthir;Ornn;Junkrat;Kennen",8,17,6,Draw
+72e3f951-acc1-4d84-89a3-fa1c9d878b1d,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2017-11-18T21:30,"Subrosian Queen",8,0,16,Draw
+886271ad-853a-4152-9919-654100ab8bec,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2022-07-17T19:30,"Urgot",19,14,2,Lose
+9c13c75d-e942-43bc-b110-1ce954b96bf2,f1ec3853-d4f0-4419-bf88-65d495a0086b,2019-11-26T13:30,"Calanthe",17,16,19,Lose
+7fbfee30-6315-485d-9853-487fd6ca513e,cadba9d3-7200-457e-af48-60e377bcca7e,2024-12-02T20:15,"Christine;Symmetra;Blitzcrank;Kah Mael;Tahm Kench",17,13,13,Win
+5ac9cb12-40b2-4ccf-92e9-bb79c2e054e3,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2019-06-04T18:45,"Lucian;Mamamu Yan;Malphite;Zenyatta",16,3,7,Win
+c095ad0f-9de2-4050-8231-1266e17fca0c,81b4b875-d756-42f5-9185-45d357c3fcc1,2025-03-04T18:30,"Roach",16,1,12,Win
+858c186a-2544-4d18-8351-fec4f6f65ea1,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2019-07-19T13:45,"Moa Keet;Blitzcrank;Torbjorn;Mercy",10,7,12,Draw
+1bca804b-c408-4681-a9aa-c21a82396f26,e5c27a51-f883-4d27-87e8-7d221018a25f,2025-06-20T20:45,"Singed",1,0,11,Lose
+0a4b2b5c-3ddc-451c-b274-ba8554d8d51d,38be1605-e11e-4e9d-a209-421369c62024,2018-04-24T14:00,"Widowmaker;Tracer;Trundle;Xerath",17,19,0,Win
+2fafbab0-0d5a-43a3-9077-b6035b724e1c,0a8f62ad-4ef8-42c1-a931-c1cc38510cd8,2021-05-22T20:45,"Widowmaker;Janna",17,14,19,Draw
+fbdb8d5b-24bf-4e84-8228-0ff8c007d5c1,41cd39b3-b42e-4537-ad09-7259801e5f6c,2024-06-10T15:15,"Addario Bach;Calip",19,19,10,Lose
+3968fd01-eda1-4328-8d13-e60181cb701a,8e1b80d7-5cb8-429d-b4b8-3ebcd096db76,2025-11-15T12:45,"Eithné",15,11,14,Lose
+566a2e20-65a9-4bf4-ad44-8b6453b411b3,ef5ceb2f-695b-4b12-b456-1de458e956ec,2020-05-21T16:30,"Zarya;Tristana;Reinhardt;King Radovid",13,14,6,Lose
+4d9c03fb-8bf7-4f83-b76d-0f797b183e33,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2023-02-25T16:00,"Doomfist;King Henselt;Genji;Varus;Kam Urog",8,11,19,Draw
+6e41c322-a7d6-4fad-a1a7-6a71229fdc52,6ac6b618-69e1-4200-ab10-f16ef8461648,2016-05-31T17:30,"Shani;McCree;Stefan Skellen",8,7,17,Win
+8b67bf79-19c2-4f9d-8bfe-a98a1dc91ccc,180c0099-f5f5-4883-9977-9280ded07c56,2020-01-24T14:00,"Urbosa;Maple",6,16,3,Win
+24e2d41b-6152-4d8e-9860-1b5a5adbcd5c,641adc79-39cb-4ce3-a214-83464751fd30,2022-08-31T14:30,"Diana;KhaZix;Mercy",4,5,16,Draw
+b771e335-f22f-4fde-b7ee-78a689814dd4,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2018-01-19T19:45,"Triss Merigold;Illaoi;Junkrat;Ekko;Esterad Thyssen",16,3,0,Win
+19c0a936-27d2-4998-bd1b-beb6a677ca48,79ef3b2e-d436-412e-80f2-a212859fc42b,2017-04-27T16:00,"Ves;King of Red Lions;D.va",4,2,2,Draw
+56b93d42-b775-479c-8e83-f2cacba8d161,60c94ef6-750a-41fb-886e-babe72a2cc4c,2020-11-14T19:00,"Diana;Jan Calveit;Ciri;Cho-Gath",13,11,8,Win
+f3c67273-9965-482b-a494-efe0356fbb74,68ba1c80-8c7b-4056-940c-f5eb6143f977,2019-09-13T17:15,"Annie",13,11,18,Lose
+e8f3198f-3809-46ae-aba9-398ba85001b6,ef5ceb2f-695b-4b12-b456-1de458e956ec,2017-01-11T12:30,"Corki;Shyvanna;Rauru;Junkrat;Tahm Kench",8,3,15,Lose
+32e7f606-482f-46af-9bc7-0e4f35e20ce1,641adc79-39cb-4ce3-a214-83464751fd30,2019-07-30T12:15,"Shop Keeper;Zenyatta",3,5,11,Win
+c7ed9d18-2100-450b-bf4e-e6fdd14cab57,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2023-02-07T14:00,"Sombra;Jan Natalis;Miss Fortune;Mila and her father",5,2,3,Win
+7a9cf98b-ec03-4c13-a185-d1b73d7d2e16,180c0099-f5f5-4883-9977-9280ded07c56,2022-10-28T16:00,"Dudu Biberveldt",6,12,4,Win
+b273102d-17e0-40b2-820f-0ecb8414e250,6ac6b618-69e1-4200-ab10-f16ef8461648,2019-05-06T17:00,"Zarya;Sylas;Aelirenn",11,5,4,Win
+ec3a102a-d057-4bab-8a52-3ac1fc33f13f,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2017-11-03T16:00,"Jarvan IV;Sombra;Genji",18,0,0,Draw
+77d7b0b6-b35b-4d1d-a4c1-5dd83e6f3a9f,0aa495a3-3b46-447e-b1ca-8ab04f693594,2017-07-03T19:00,"Menno Coehoorn;Tryndamere;Kayn;Tahm Kench",2,19,16,Win
+71c593eb-dd54-43a4-965e-1fd3eb56f247,a6d1b4aa-5be2-4b97-b333-fc9ee9a8218b,2021-09-05T14:00,"Twitch;Emiel Regis Rohellec Terzieff-Godefroy;Ricky",7,18,2,Win
+7ffb01b5-718e-4a7c-8ef2-ea77383e2494,176742ce-bf66-4728-89df-ea3533892830,2024-05-24T12:00,"Roadhog;Morvran Voorhis",3,17,12,Win
+554ab87a-8be3-4178-b92c-ae0e13c9a8df,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2019-02-01T21:15,"Reinhardt;Mercy",5,2,13,Draw
+47df5b0d-b5b9-4780-a3c5-54f8f4ec681e,86ba556f-9400-4e1c-b406-bfe4c0545ee5,2017-12-25T14:00,"Sabrina Glevissig",6,9,9,Win
+d2c1f2b8-25ea-41fc-9b1b-8dfe4803a2c8,b77d2f20-4a64-4c21-8e71-f955f401d4e5,2025-11-16T21:45,"Johnny;Soldier 76;Orisa;Ciri;Adam Pangratt",12,16,11,Lose
+560f085c-97fd-40eb-acd1-277878818895,aaa6b816-a98a-438e-b7d1-46bde41fb9b5,2017-06-05T17:15,"Bastion;Maca;Nithral",1,12,19,Lose
+3d620242-b324-4d46-9a60-7f31e960a4f8,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2024-09-15T18:30,"Vasu;Tott;Romani and Cremia",2,9,14,Draw
+6d8b23e9-587a-499c-a7df-8dddd8b5e30d,eeb36c45-0408-4c18-9781-59cc1d398a44,2025-04-25T16:00,"D.va",8,16,1,Draw
+5137d340-069a-477b-9fc4-daba089e9399,82087c79-fcae-4fc1-875d-605e81176d18,2019-10-17T13:00,"Ana;Bard",14,14,14,Lose
+2d3039ec-e78d-4268-b7bc-80061d5792f2,01027715-f54e-49f8-9167-5b364bcd298c,2021-01-29T13:45,"Moa Keet;Taliyah",9,16,10,Win
+32178464-c6ac-4342-ae0b-7d8648849717,6a38a193-f277-48ac-8ef8-87b6f43e682d,2016-07-03T14:45,"Akali;Wrecking Ball;Ghost;Yennefer of Vengerberg;Reinhardt",6,0,0,Draw
+11131385-4f50-40df-aaec-028892f3a07c,575ab297-43e9-4248-b98b-6dc3464fa9e7,2022-09-29T15:45,"King Henselt;Abe;Genji;Ekko;Adam Pangratt",2,10,19,Lose
+2c845dd3-d5b1-4cd7-bed1-471442024b74,13e5933e-d555-42cb-985a-80198caf8393,2019-05-11T12:15,"Carthia van Canten;Poppy;Xarthisius",13,8,2,Draw
+71278ebe-aa06-4d47-b516-e7c121d1a5a3,38be1605-e11e-4e9d-a209-421369c62024,2017-04-09T14:30,"Shibo;Comedians",13,19,0,Win
+6b8bc11a-b291-45e5-8162-8c9db87e1678,e5c27a51-f883-4d27-87e8-7d221018a25f,2020-07-22T14:45,"Doomfist;Torbjorn",7,6,7,Draw
+73163808-e64e-41bf-a150-b3d49dc4f0a0,25934abb-ebc7-48d1-8540-71145788e564,2025-12-15T12:00,"Eithné",8,3,1,Draw
+67022dba-5db7-4d40-a28d-12ec0ffe9992,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2017-02-02T20:30,"Poe salesman;Quinn;Noya Neha",10,12,0,Lose
+9f8ea169-e5d2-48b3-b73d-363d81427192,eeb36c45-0408-4c18-9781-59cc1d398a44,2019-07-08T14:15,"Roadhog",6,5,15,Draw
+a5f67e53-befa-4308-b54f-818bb684e721,01027715-f54e-49f8-9167-5b364bcd298c,2016-04-22T16:30,"Ana;Tracer;Roadhog",13,5,7,Draw
+2effc11b-2ccf-48cb-b4f1-5b3414a489da,01027715-f54e-49f8-9167-5b364bcd298c,2024-05-18T18:00,"Gongoron;Zed;Pharah;Riven",15,3,14,Draw
+8d419201-cd83-4723-8d31-6e734469588c,b77d2f20-4a64-4c21-8e71-f955f401d4e5,2022-07-21T15:15,"Rumble;Simon;Nidalee;KhaZix;Beth",8,16,8,Lose
+c19deba4-61af-43ab-9ab2-277fbd34a0c8,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2018-07-13T14:15,"Garen",12,2,0,Draw
+560a5268-7ddc-4a54-a065-8ef96b24f9f2,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2022-01-21T16:30,"Xayah;Fairy Queen;Happy Mask Salesman",9,12,12,Lose
+09994968-801c-4945-b94b-ab7ff2c3ff38,ef5ceb2f-695b-4b12-b456-1de458e956ec,2021-04-04T18:15,"Jhin;Birna Bran;NoEz Yohma;King Daltus;Orisa",6,11,6,Draw
+cdab5c99-75f3-4c6e-8461-cfe1f341fd8c,2b45e4db-da46-42d9-8db9-e7f09f5e8fa6,2022-02-20T16:45,"Lissandra;Orisa;Ja Baij;Zenyatta",6,18,12,Lose
+4b5b3cfe-989b-4c90-b070-587bf7431c8c,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2016-02-18T20:30,"Mei;Widowmaker;Yaevinn;Cotera;Twisted Fate",5,1,9,Win
+8898f691-ea80-4472-95c3-353f90ebdd0d,52cc4a6d-4731-4d70-b593-5d0cb541e598,2016-07-18T19:00,"Dr. Mundo;Tatl;Eredin;Orisa;Morvran Voorhis",7,1,4,Win
+05fdd8e1-9c02-4a87-8934-3ad78bcc92a9,b3d6baac-8141-4390-9858-654aa665284e,2017-07-25T17:00,"Hanzo",16,12,2,Lose
+76143346-4fdc-4803-86d7-4ef01d46c9d3,e5c27a51-f883-4d27-87e8-7d221018a25f,2018-02-09T18:00,"Ha Dahamar;Imlerith;Eddo;Karma;Katarina",13,6,19,Lose
+16e63475-9895-4626-888d-7e005fb5d25b,09b11048-d0ad-4064-9e3c-24867f2caf29,2021-02-28T13:00,"Vasu",9,8,8,Draw
+525f9d1b-7bdb-4c98-80f2-b6d3aa7625ad,6a38a193-f277-48ac-8ef8-87b6f43e682d,2022-08-02T13:15,"Thaler;Soldier 76",18,16,1,Win
+4b724f7e-7ea3-4f04-943c-ef22305f8282,68ba1c80-8c7b-4056-940c-f5eb6143f977,2019-03-31T13:00,"Johnny",7,4,13,Lose
+7fe939d3-dc7f-417a-a39d-fe45ba098049,0aa495a3-3b46-447e-b1ca-8ab04f693594,2024-07-16T19:00,"Maag Halan",5,1,7,Lose
+4ab98574-68c7-4b78-9906-3a2d3c4113e8,6a38a193-f277-48ac-8ef8-87b6f43e682d,2017-10-29T21:30,"Janna",17,18,9,Lose
+191756df-7d81-47ed-8c58-5ae5b56416fb,6a38a193-f277-48ac-8ef8-87b6f43e682d,2025-08-22T17:00,"Albrich",3,7,17,Draw
+86f30b57-e6dd-48ea-b24a-ade8f84ff2e9,2b45e4db-da46-42d9-8db9-e7f09f5e8fa6,2017-04-28T15:00,"Udyr",6,7,4,Lose
+5489a280-a79c-45f5-93e0-d804d594d15a,e5c27a51-f883-4d27-87e8-7d221018a25f,2023-11-19T19:00,"Bipin and Blossoms son;Alister;Wrecking Ball;Darius;Nami",17,0,4,Draw
+e3a83186-3476-4fa8-98c5-7ef667eb279f,8e1b80d7-5cb8-429d-b4b8-3ebcd096db76,2017-01-12T21:45,"Torbjorn",6,8,5,Win
+8b74619e-4290-4470-b7e3-ba6813d7eaa9,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2024-08-05T19:00,"Mrs. Ruul;Mercy",7,1,11,Draw
+96863b8a-4026-4cf4-9812-726af59ad982,01027715-f54e-49f8-9167-5b364bcd298c,2017-01-09T14:15,"Shyvanna;Crach an Craite;Irelia",1,8,11,Win
+560f085c-97fd-40eb-acd1-277878818895,e5c27a51-f883-4d27-87e8-7d221018a25f,2017-06-05T17:15,"Bastion",8,18,18,Draw
+fe34cc49-6b86-4cd0-8369-92647d55e599,b2252a8b-1495-4361-b050-84a4d35ab695,2020-07-18T18:45,"Mei;Marathon Man;Mipha",18,2,4,Lose
+f700e77b-0268-4c41-91dd-f1c113b3f5da,68ba1c80-8c7b-4056-940c-f5eb6143f977,2016-03-21T18:00,"Pharah;Bow-Wow;Mercy;Lux",15,16,12,Win
+1bfe12ba-5e43-4f09-8b3d-ec845cb38b19,0aa495a3-3b46-447e-b1ca-8ab04f693594,2016-10-19T16:00,"Wrecking Ball;Louise;Garadon",16,2,5,Draw
+4d72b354-b765-4fc3-892b-e15779c4c14d,52cc4a6d-4731-4d70-b593-5d0cb541e598,2022-05-30T17:15,"Thresh;Reinhardt;King Radovid;Subrosian Queen",13,16,10,Draw
+3b191a8a-f9e4-4d44-850b-0df7edae3860,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2017-05-23T20:45,"Mei;Hjalmar an Craite;Deku Tree Sprout",5,0,15,Draw
+a8d4925c-5366-49ef-a3dc-48e337fce680,eeb36c45-0408-4c18-9781-59cc1d398a44,2017-04-28T15:30,"Hecarim;Olgierd von Everec;Vattier de Rideaux;Reaper;Kayn",6,3,12,Win
+47dfb399-25b1-4ed5-aee4-f8e297d92e0c,b2252a8b-1495-4361-b050-84a4d35ab695,2019-10-01T19:30,"Bran an Tuirseach;Neeko;Aelirenn",19,12,8,Lose
+103f3fd3-33d6-4d7e-bb86-905f8abf13e0,cadba9d3-7200-457e-af48-60e377bcca7e,2024-06-15T20:30,"Triss Merigold;LeBlanc",14,19,15,Draw
+c5e19594-a8a9-455d-bbcb-ea273a084aef,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2017-09-20T20:30,"Triss Merigold;Yuumi;Junkrat;Zac;Roach",12,13,1,Draw
+85f166a6-97cd-4047-bc1a-7eb4101e7ff7,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2025-04-20T21:00,"Twinrova;Akh Vaquot",17,13,8,Lose
+fd05256c-ddf3-43fc-a017-51ad301aa4e1,575ab297-43e9-4248-b98b-6dc3464fa9e7,2018-04-06T12:00,"Palmerin de Launfal;Menno Coehoorn;Malphite;Sharp;Orisa",1,19,7,Draw
+d580e016-64f2-403d-a2f6-5ab89f451702,f1ec3853-d4f0-4419-bf88-65d495a0086b,2024-11-11T21:15,"Blitzcrank",17,10,17,Lose
+ce19234c-da9e-4349-be84-9772db76a18d,575ab297-43e9-4248-b98b-6dc3464fa9e7,2023-11-06T12:00,"Sombra;Poppy;Widowmaker;Joachim de Wett;Junkrat",11,12,16,Draw
+eb4a05a0-bb07-43c0-b4c2-48bdb825e3b9,2b45e4db-da46-42d9-8db9-e7f09f5e8fa6,2021-03-19T14:30,"Ree Dahee;Widowmaker;RekSai",12,16,2,Win
+f7c376bc-5031-41b6-af50-6d888311d806,9caa58d7-a045-440e-b7cc-29bd1b01bf3e,2025-08-03T16:00,"Alder;Simon",8,3,6,Win
+8a14f3e7-415b-4758-b832-d92b96854c02,b3d6baac-8141-4390-9858-654aa665284e,2022-09-16T18:30,"The Bloody Baron;Agahnim;Ezlo;Nenneke;Swain",2,10,8,Lose
+0738a4ba-b2b3-44dc-b214-d1e47619fd1d,0a8f62ad-4ef8-42c1-a931-c1cc38510cd8,2025-02-03T17:00,"Jarvan IV;Gorman;Mercy",17,2,7,Draw
+4a0a1a35-5486-4e57-9dba-4fda774f23d5,f6f11f4b-a022-4d33-b22d-3ec8ae188fb0,2020-08-30T15:45,"Dandelion",14,11,18,Win
+f771038d-739d-49f2-a88a-dd1973a73703,eeb36c45-0408-4c18-9781-59cc1d398a44,2017-10-17T13:30,"Diana;Nasus;Belari",1,14,12,Win
+eee8e523-720d-484b-bb61-e6bc783bc988,01027715-f54e-49f8-9167-5b364bcd298c,2025-05-17T14:15,"Soraka;Wukong;Darius",2,13,16,Win
+e74c3ba4-4f0d-499d-a186-55074244967d,68ba1c80-8c7b-4056-940c-f5eb6143f977,2018-02-19T18:00,"Xin Zhao;Sheldon Skaggs",14,2,0,Win
+fac1835e-1069-4a4a-84d9-575fc8e2bc0b,8e1b80d7-5cb8-429d-b4b8-3ebcd096db76,2022-12-20T13:15,"Johnny;Dah Kaso;Assire var Anahid",12,10,1,Draw
+d0c37314-8831-44ca-934d-505b3cfddeb4,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2025-01-23T18:30,"Albrich;Librari",15,9,5,Draw
+6e4986d6-efe2-4f7b-a711-fbc5bede0f34,2b45e4db-da46-42d9-8db9-e7f09f5e8fa6,2024-02-02T14:30,"Ruul;Azir",16,3,1,Lose
+6bacca8a-d763-4e3d-85f3-22f880d007a6,01027715-f54e-49f8-9167-5b364bcd298c,2025-09-07T21:45,"Gentari",18,18,19,Draw
+1cc8d5df-a179-467e-aa2a-85fa15e7afab,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2021-12-17T21:30,"Thaler;Olaf;Uma;Avallach",12,14,16,Lose
+1391ddd5-76b2-4693-abc0-49ef97ada437,b2252a8b-1495-4361-b050-84a4d35ab695,2018-08-30T16:30,"Jan Calveit;Deku Tree Sprout;Sheldon Skaggs",16,10,12,Draw
+5e284463-d67a-45ca-83dd-dbdb6632e62c,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2022-11-25T18:15,"Doomfist;Alister;Sabrina Glevissig;Ana;Brocco",6,9,14,Win
+a23f966c-ccc1-4973-b861-665e3f0fb683,aaa6b816-a98a-438e-b7d1-46bde41fb9b5,2023-09-15T14:45,"Mils;Junkrat",7,12,8,Lose
+3c3f315c-6d51-4d96-8f01-139e78faab4d,f1ec3853-d4f0-4419-bf88-65d495a0086b,2025-01-27T14:30,"Wrecking Ball;Yorick;Moira;Zenyatta;Roach",1,2,13,Lose
+cfccfae0-8286-4972-882d-954c85322f42,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2023-08-18T12:00,"Great Fairies;Sombra;Indigo-Gos;Hjalmar an Craite;McCree",12,17,1,Lose
+b442d0fa-b126-416a-88a0-a644c4625a41,68ba1c80-8c7b-4056-940c-f5eb6143f977,2023-01-16T16:30,"Telma;Bagu",8,6,5,Draw
+241c300b-d7ba-44f1-af93-98c68f026b57,aaa6b816-a98a-438e-b7d1-46bde41fb9b5,2025-04-04T17:45,"Sombra;Akali;Torbjorn",15,6,11,Win
+1f124708-2263-4cf4-a869-29897713f4bb,03089914-0582-4b95-af84-09996db5fd8b,2025-07-23T17:30,"Pamela;Bastion;Kafei",16,13,15,Draw
+ad78ff50-dff5-41d4-bbb5-4bbf34394fb6,b3d6baac-8141-4390-9858-654aa665284e,2020-11-04T19:15,"Ana",0,3,3,Win
+5ec9ebc5-c903-4269-8e31-115fbc1f5f7d,176742ce-bf66-4728-89df-ea3533892830,2018-01-17T21:00,"Sabrina Glevissig;Sturgeon;D.va;Bow-Wow",1,8,12,Lose
+16aaf7b2-edd9-48ea-9d10-7bc1b0f27166,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2016-05-07T21:15,"Viktor",12,11,9,Lose
+8f200ea9-a5f2-41f0-acaa-420f4e6f5e40,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2023-04-21T21:00,"KogMaw",8,6,0,Draw
+4fe14176-def2-4809-8d1f-daf58e554b61,176742ce-bf66-4728-89df-ea3533892830,2023-05-29T13:30,"Kalista;Twitch;Dalia",11,3,13,Draw
+140ae206-a34b-4f2d-81a5-8389d566d650,0a8f62ad-4ef8-42c1-a931-c1cc38510cd8,2017-02-18T14:45,"King Henselt;Sahasrahla;Pharah;Riven",16,14,16,Lose
+3f315c0f-1a76-48aa-9eac-27a8672b760b,6ac6b618-69e1-4200-ab10-f16ef8461648,2023-02-07T14:30,"Wrecking Ball;Veigar",9,17,3,Win
+7b19f8f6-fa66-467b-a3d1-c328ea1bfa85,eeb36c45-0408-4c18-9781-59cc1d398a44,2020-06-01T15:15,"Doomfist;Draven;Ana;Bard",11,19,17,Win
+94e6b309-7e37-4cbd-a717-9295d2697aac,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2018-04-27T21:30,"Viscen;Vi;Sabrina Glevissig;Donar an Hindar;Roadhog",13,8,15,Lose
+f415562a-68d7-4541-8231-ddae5c3b1e3a,82087c79-fcae-4fc1-875d-605e81176d18,2017-11-09T20:45,"Toffa",19,13,16,Draw
+c56452b2-496c-493a-9bd5-6a30ca500da7,81b4b875-d756-42f5-9185-45d357c3fcc1,2019-11-16T13:45,"Dorian;Junkrat;Roach",6,5,17,Win
+d711b502-1085-44cf-b04a-9f9cda3cabdf,13e5933e-d555-42cb-985a-80198caf8393,2021-02-06T15:00,"Kled;Widowmaker;Mils;Aatrox",14,19,19,Lose
+af4c2139-f719-414f-855c-19af71e5632d,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2025-01-11T20:45,"Link (Goron)",19,17,8,Draw
+98b62841-fb8b-4f2c-b648-129e104d81bd,25934abb-ebc7-48d1-8540-71145788e564,2019-03-26T18:30,"Joachim de Wett",8,6,9,Lose
+b6513310-bb7e-4102-a1c1-6bd85dd9dac6,e5c27a51-f883-4d27-87e8-7d221018a25f,2022-09-06T18:30,"Doomfist;Sheh Rata;Maria Louisa La Valette;Pharah",2,11,2,Draw
+9b8fd41d-39e9-489d-aca8-f0b80f84ea35,f1ec3853-d4f0-4419-bf88-65d495a0086b,2018-03-21T18:30,"Tracer;Mercy",16,16,3,Lose
+4006ef45-ea26-477b-b7de-d93b87d79e68,e5c27a51-f883-4d27-87e8-7d221018a25f,2022-12-11T12:00,"Shibo;Talon;D.va",16,2,17,Lose
+088647be-0cb8-4628-b16b-d2680ce63fab,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2024-01-31T16:30,"Ves;Katarina",3,3,7,Win
+701d0377-a299-4957-b3d5-0816cd12aed1,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2023-10-26T13:15,"Dr. Mundo;Reaper;Skjall",11,19,1,Draw
+1ba94be1-e8b0-415b-81f7-440c3f26fcb8,e5c27a51-f883-4d27-87e8-7d221018a25f,2018-04-21T17:15,"Mutoh;Anna Strenger;Milton de Peyrac-Peyran;Ciri;Hanzo",5,2,9,Draw
+793d0eb1-7515-4e8b-bfa9-ac97c7d4ba91,60c94ef6-750a-41fb-886e-babe72a2cc4c,2016-06-20T17:30,"Bagu",8,4,19,Win
+fd8bf93a-082a-434c-924a-26ae4ebba1b3,641adc79-39cb-4ce3-a214-83464751fd30,2019-04-23T20:30,"Hjalmar an Craite;Ves;Shae Loya;Rakan;Trundle",16,18,4,Lose
+8e579095-ebf2-4235-95cc-5e0a3b095ae6,b2252a8b-1495-4361-b050-84a4d35ab695,2016-09-24T21:30,"Roadhog",12,5,17,Lose
+aa7d7eae-af0a-4ecc-9cd4-f10edb5d393f,81b4b875-d756-42f5-9185-45d357c3fcc1,2024-12-18T14:00,"Lee Sin",3,19,7,Win
+9a0c1aac-a742-4ac8-ae97-392d6bd2ff92,180c0099-f5f5-4883-9977-9280ded07c56,2024-01-13T14:15,"Pyke;Caranthir;Viktor;Ekko;King Radovid",7,9,11,Win
+33a2b886-4c79-418b-83f3-cd6fd8d24a5e,13e5933e-d555-42cb-985a-80198caf8393,2018-04-15T13:30,"Lucio;King Foltest",0,10,2,Win
+74e2d07b-45d6-4ae3-bc27-771672e738dc,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2017-08-12T19:00,"Damia;Twitch;Nenneke",8,11,19,Draw
+a9c78b88-d0da-4c32-b178-23089fa5b4d4,03089914-0582-4b95-af84-09996db5fd8b,2018-05-03T15:45,"Mei;Camille;Milva;Carduin;Deku Royalty",7,10,6,Lose
+0098b83c-000e-465e-b226-48e66ef9807a,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2018-10-28T17:30,"Triss Merigold;Turtle;Mad Batter;Uma;Pharah",5,19,12,Win
+24464a85-100d-47a5-99e9-c4b8eeaf591f,41cd39b3-b42e-4537-ad09-7259801e5f6c,2023-05-25T17:45,"Sabrina Glevissig;Reaper;Orisa;Pharah;Mercy",16,6,5,Draw
+078dfe32-401e-454a-9e33-1d5f88447605,52cc4a6d-4731-4d70-b593-5d0cb541e598,2020-10-25T19:30,"Impa",7,2,2,Win
+3906f3d0-9fae-4f26-848e-2cb58a660038,0a8f62ad-4ef8-42c1-a931-c1cc38510cd8,2023-07-24T17:00,"Nyave;Heimerdinger",19,1,13,Draw
+e92c5096-0e4e-4d63-9a0d-c4ff2fe768c4,ef5ceb2f-695b-4b12-b456-1de458e956ec,2019-07-18T14:00,"Rola;Talo;Lissandra;Dandelion;Irelia",5,13,19,Lose
+59e91ee2-b9f4-4376-b277-c1b2a0b5138b,79ef3b2e-d436-412e-80f2-a212859fc42b,2016-05-20T18:00,"Assire var Anahid",10,1,15,Lose
+fb5522a6-3fae-406f-beb5-92206d449c4f,ef5ceb2f-695b-4b12-b456-1de458e956ec,2019-01-14T19:15,"Percy;Gangplank;Joachim de Wett",10,18,16,Lose
+b24276dd-bfb9-45f8-aeb3-588b046e8dca,03089914-0582-4b95-af84-09996db5fd8b,2023-10-11T18:30,"Zyvik;Tracer;Orisa;Roadhog",0,7,4,Draw
+af1ea23c-4bcb-4d0b-b3ad-3802929d1801,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2019-06-02T20:45,"Kalista",1,2,0,Draw
+f6eac216-f2c3-4ede-9d94-1b9ef7b40fa2,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2022-11-18T15:30,"Brouver Hoog;Master Yi;Morgana",10,9,18,Lose
+4098c54a-514a-4a2e-b1fb-b37b529a3f0d,a6d1b4aa-5be2-4b97-b333-fc9ee9a8218b,2021-09-15T14:30,"The Bloody Baron;Revali;Twisted Fate;Patch",18,8,13,Lose
+6aab5fb1-6934-419e-978f-e3a96a62fec2,575ab297-43e9-4248-b98b-6dc3464fa9e7,2024-06-15T20:00,"Ana;Symin;Moira",8,3,14,Lose
+a5c42cc2-c43b-49aa-ae71-349e674afb37,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2017-05-22T21:00,"Plen;Volibear;Prince of Hyrule",11,10,2,Win
+4ce74568-ebc0-4340-81ec-4c585e262694,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2024-02-25T21:15,"Fringilla Vigo;Akh Vaquot",17,15,13,Lose
+2fcfa309-5dad-4d42-9dbf-66089876f709,60c94ef6-750a-41fb-886e-babe72a2cc4c,2024-07-04T21:00,"Sheikah Monk;Warwick;Ziggs;Reaper;Moira",9,5,6,Win
+3f2a6aef-92bd-4bfc-ad19-ef599039008b,0aa495a3-3b46-447e-b1ca-8ab04f693594,2024-09-10T13:00,"Colin;Toh Yahsa",11,15,16,Draw
+11d8ce60-6d2c-46e5-b7d1-a744bee0d9f2,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2018-06-07T20:15,"Zilean",4,15,9,Win
+51c0e53b-d238-4138-8ce3-abf919e6a50f,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2017-11-22T17:45,"Main Antagonist;Jan Natalis;Syndra;Calanthe;Mordekaiser",14,10,4,Draw
+c9eaa50b-87f6-42d9-9c73-18f58b65bf17,09b11048-d0ad-4064-9e3c-24867f2caf29,2018-11-03T21:45,"Brand;Kled;Bastion;Shai Utoh;Trissa",17,2,6,Win
+7891f351-2702-4834-88dc-2f02441d66df,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2023-07-31T20:30,"Sombra;Philippa Eilhart",1,19,3,Win
+0e11acac-421a-45a5-aa5f-8c59c1c6f742,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2023-06-07T14:30,"Triss Merigold;Johnny;Orianna;KaiSa",0,14,8,Win
+432bafa0-a4c7-4905-8e5c-762e60d3fce7,aaa6b816-a98a-438e-b7d1-46bde41fb9b5,2025-06-11T19:30,"Genji;Leona;Zac",4,2,19,Lose
+094ce3fc-f89c-408c-8c09-7a1235e8b59c,66084187-cb2d-498c-8f76-2648ea1e4a8b,2025-06-15T15:45,"Epona;Karthus",11,3,15,Win
+0303c9a6-3493-407c-898e-f59111a74ef0,6ac6b618-69e1-4200-ab10-f16ef8461648,2024-08-04T20:00,"Yorick;KhaZix;Kayn;Bosh Kala",0,8,9,Win
+75878522-274c-4b7d-ba42-7229c33ed0e8,b2252a8b-1495-4361-b050-84a4d35ab695,2023-02-06T15:30,"Majoras Mask (Boss);Olgierd von Everec;Rik;Dethmold;Pharah",15,4,8,Draw
+132d86f7-1575-4686-9e72-367d08af4901,b3d6baac-8141-4390-9858-654aa665284e,2018-10-28T17:00,"Eredin;Soldier 76;Akh Vaquot;Junkrat",4,9,9,Win
+ce6accba-73e3-4e02-8915-845d6aff34bd,01027715-f54e-49f8-9167-5b364bcd298c,2016-04-27T21:00,"Keaton;Kaya Wan;Master Yi;Zilean;Queen Rutela",16,0,8,Lose
+7acb9478-cf78-499d-abd8-5a02f19c4552,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2020-01-09T19:30,"Sivir;McCree",9,6,1,Win
+8fb13278-4069-46b4-a0a9-03137c237866,b020e00c-7898-4daa-abb6-7fcfd8bc3503,2016-08-12T14:30,"Sabrina Glevissig;Ryze;Shaco;Jinx;Sheldon Skaggs",19,2,13,Lose
+e7bb3524-b224-479a-983e-aae58ba20504,cadba9d3-7200-457e-af48-60e377bcca7e,2024-12-08T14:30,"Cassiopeia;Orisa",3,18,4,Win
+9362ac63-d3b5-4410-8e1d-bf519e5e8b17,aaa6b816-a98a-438e-b7d1-46bde41fb9b5,2024-06-19T16:45,"Fringilla Vigo;Lissandra;Cho-Gath;Braum",9,17,15,Draw
+660f4064-0ce9-4b03-8af2-35238a8561da,86ba556f-9400-4e1c-b406-bfe4c0545ee5,2022-04-05T12:15,"Mr. Barten;Urgot",19,3,10,Draw
+fbdb8d5b-24bf-4e84-8228-0ff8c007d5c1,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2024-06-10T15:15,"Yarpen Zigrin",3,18,3,Win
+176f72eb-570f-4369-80df-6dde1108258d,01027715-f54e-49f8-9167-5b364bcd298c,2022-05-21T16:00,"Kayn",0,10,14,Win
+ab3016ce-5bbd-4415-9ae2-04c1d792a3b7,86ba556f-9400-4e1c-b406-bfe4c0545ee5,2019-05-01T12:15,"King Henselt;Uma",10,9,6,Lose
+06bad7a3-9863-4ffb-9a5c-901d0f4f17a7,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2024-02-12T14:15,"Jax;Brouver Hoog;Mils;Salvatore;King Radovid",13,6,0,Lose
+a25752a8-3e1a-4df7-83e8-00f3ba7e1e51,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2016-01-19T20:45,"Revali;Swain",0,12,13,Draw
+c89e1877-1c5f-4112-bcc6-16664db958d5,0aa495a3-3b46-447e-b1ca-8ab04f693594,2022-01-06T21:00,"Ziggs;Reaper;Pavetta;Moira;Roadhog",4,18,0,Draw
+ea6433c6-5446-4044-b7db-db8e0e5abffd,38be1605-e11e-4e9d-a209-421369c62024,2019-08-30T21:30,"Diana;Yeta;Philippa Eilhart;Anivia;Great Fairy",1,15,16,Draw
+5ac71e26-534e-46cd-9fd0-11d26f80c1ee,81b4b875-d756-42f5-9185-45d357c3fcc1,2021-11-29T19:00,"Dalia",3,14,8,Draw
+a74d94e0-60ba-4f3f-9450-3e1ec0302ff3,82087c79-fcae-4fc1-875d-605e81176d18,2018-08-09T17:00,"McCree;Belari",16,19,10,Draw
+ce52df06-ac42-40c4-a665-707df447e6ff,0aa495a3-3b46-447e-b1ca-8ab04f693594,2023-04-14T18:15,"Varus",0,16,10,Win
+f4dedfdd-ee57-4aa4-98ab-fc40b42c181f,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2023-12-17T21:00,"Priscilla",14,17,1,Lose
+b0c3b2e2-8098-4231-938f-2ffa23b20bb0,aaa6b816-a98a-438e-b7d1-46bde41fb9b5,2023-09-25T14:45,"Cado;Yuumi;Hanzo",19,5,14,Draw
+c4eefb2a-aa4d-4408-b529-a5560a8feeb7,01027715-f54e-49f8-9167-5b364bcd298c,2023-07-22T19:30,"Maku Tree;Pharah",7,18,15,Win
+3456aba6-6f03-46b1-800e-7f2657d2adf5,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2024-03-19T18:30,"Emhyr van Emreis;Addario Bach;Gragas",4,18,15,Win
+90a09c3c-e494-4080-b2dc-ac108d7d3a18,ef5ceb2f-695b-4b12-b456-1de458e956ec,2022-02-08T18:30,"Alister;KhaZix;Carduin;Ember;Hanzo",3,1,4,Lose
+ee2abec8-5cad-4fae-83a5-bb832ec00206,180c0099-f5f5-4883-9977-9280ded07c56,2019-02-12T20:00,"Mipha;KogMaw;Sweers;Swain",19,10,13,Win
+5c5ce978-61e5-4dcf-9e13-786827d593bb,a24c736a-e004-401e-91cd-eb14c95f6bea,2022-02-08T18:30,"Hecarim;Plen;Xarthisius;Margarita Laux-Antille",15,11,1,Lose
+5c9984fe-8bd5-4f43-b5fe-e9a0ef482a81,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2023-02-08T13:15,"Wind Fish;Gaunter ODimm;Galio",17,6,12,Win
+33d9e1ba-f3e8-4116-ae54-2e2bb22da90f,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2023-01-26T16:45,"Zill",1,5,14,Win
+90845a13-9c84-46d1-9533-0cce63b5f6ca,13e5933e-d555-42cb-985a-80198caf8393,2018-09-02T13:45,"Triss Merigold;Cassiopeia;Urbosa;Karma",8,11,15,Win
+736e9065-f11e-4ba0-92e8-1e806fd22b15,a24c736a-e004-401e-91cd-eb14c95f6bea,2022-08-16T19:15,"Bipin and Blossoms son;Lee Sin;Vladimir;Nightmare;Roach",6,16,14,Lose
+ada7ce10-60ee-417b-b35e-2a606d368c1f,54ee0b52-d193-4cdb-804d-3b4abdd2ffbf,2020-06-19T17:30,"Caranthir;Leona;Calanthe;Renekton",2,5,17,Win
+f917ae0d-5ca1-43ef-988b-a0b1921945e2,03089914-0582-4b95-af84-09996db5fd8b,2024-10-20T13:00,"King Henselt",15,6,9,Draw
+d808a4f9-e0b8-42b8-8f4f-5c2af9dbc074,25934abb-ebc7-48d1-8540-71145788e564,2021-09-20T19:30,"Hanzo",14,5,12,Draw
+e33f53fc-7f7d-473a-b20e-13a157271aa2,9caa58d7-a045-440e-b7cc-29bd1b01bf3e,2021-10-25T14:30,"McCree",7,17,19,Draw
+ecd53fd7-27b2-4629-9f21-73afd39cf6cc,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2020-03-19T19:15,"Winston;Lucio;McCree;Ruul",9,0,12,Lose
+5802fc2a-8bac-40fd-a30f-9667743ca029,b2252a8b-1495-4361-b050-84a4d35ab695,2016-09-13T12:00,"Aglaïs",13,17,15,Lose
+a828b23a-62e7-4156-8f07-bff694cf2047,cadba9d3-7200-457e-af48-60e377bcca7e,2023-10-28T21:00,"Wrecking Ball;Sona;King of Hyrule;McCree;KaiSa",10,19,15,Draw
+22cce067-5aee-419f-914d-6bf782732262,81b4b875-d756-42f5-9185-45d357c3fcc1,2018-03-14T15:30,"Lucio;Ekko;Mercy;Crach an Craite",17,0,6,Lose
+8d7f8de1-1cb4-4b2d-b3c3-e92d91191ae5,01027715-f54e-49f8-9167-5b364bcd298c,2025-05-11T20:30,"Jenge Frett",2,3,7,Lose
+db5aa8cb-635f-4bb1-8a74-11d5fa6a4b4f,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2019-10-12T18:15,"Reinhardt;Crach an Craite",13,6,7,Lose
+47360412-f26c-4fd8-8714-7cb655fa0998,f6f11f4b-a022-4d33-b22d-3ec8ae188fb0,2022-08-04T21:45,"Ana;Symmetra;Gnar;Braum",6,3,15,Win
+f993124e-d308-4f6a-9bb5-90b5f25e06fe,8d2447a2-9040-4f46-bd66-3726cd92b3e0,2020-12-17T16:00,"Zephos",2,3,8,Lose
+a33a304c-ea75-4826-bd45-e424e6ea169c,641adc79-39cb-4ce3-a214-83464751fd30,2018-05-18T20:30,"Hecarim;Sue-Belle;Soldier 76;Mayor Dotour;Gaunter ODimm",17,6,13,Lose
+5142dc5d-36ec-4f59-b2cd-49d91b4dab35,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2017-01-13T20:15,"Udyr;Lucio;Whoreson Junior;Dudu Biberveldt",17,4,19,Lose
+1c62afdb-134d-4df2-a26a-088ecd8f241a,cadba9d3-7200-457e-af48-60e377bcca7e,2017-06-03T19:45,"Rosa Sisters;Dekki",1,6,2,Lose
+c4c5d6a6-cf61-4f45-9548-5cb49db7a603,52cc4a6d-4731-4d70-b593-5d0cb541e598,2020-07-21T15:45,"Taliyah;Jan Natalis;Prince Sidon",13,17,10,Lose
+61078e4e-89ab-4c39-9d31-ad2e298c1d8c,eeb36c45-0408-4c18-9781-59cc1d398a44,2016-08-14T12:00,"Mesa;Xayah;Genji;Zenyatta;Yeto",7,11,19,Win
+ba346b7d-3049-4cc6-b608-66cb06396249,f6f11f4b-a022-4d33-b22d-3ec8ae188fb0,2023-09-20T19:00,"Ahri;The Pirates;Ves;Caranthir;Emiel Regis Rohellec Terzieff-Godefroy",7,4,1,Lose
+b38900bd-5a44-4e19-8ae4-1ff5d8111820,54814a7c-f1f2-4d33-b3f8-dafa63d98d84,2025-04-09T12:15,"Mousesack;Prince of Hyrule",12,19,3,Win
+f385c55b-7a12-4f75-b8d3-b2524730d2b5,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2022-08-08T17:30,"Poe salesman;Vilgefortz;Eredin;Potho;Orisa",18,0,15,Win
+0ae64e33-569e-489c-96d9-84f98fa6b335,01027715-f54e-49f8-9167-5b364bcd298c,2016-03-20T19:15,"Damia;Bipin;Rengar",12,7,15,Lose
+4d05acd1-45ce-4eb8-a1d3-e43a76e766a7,82087c79-fcae-4fc1-875d-605e81176d18,2018-05-11T17:45,"Keira Metz;Reaper;Milton de Peyrac-Peyran",11,10,4,Lose
+24657ddc-e0c0-443c-aa38-f4f924f54130,a6d1b4aa-5be2-4b97-b333-fc9ee9a8218b,2023-04-30T12:30,"Tryndamere;Lux",1,17,6,Draw
+8c9ec498-66db-45c0-b669-f80a5c545412,ef5ceb2f-695b-4b12-b456-1de458e956ec,2020-05-31T16:30,"Nautilus",16,6,7,Draw
+5fa5a730-17bb-49d1-a803-53105553a5ac,ed872a2a-5a3e-48a4-855e-cb8d1986885a,2021-12-21T17:00,"Birna Bran",12,5,15,Draw
+8d0f4be3-e603-4139-89e7-6de2f6bd44b7,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2019-11-11T18:45,"Roadhog",1,7,3,Win
+489adcd1-65b7-486b-8ede-1919c8d98655,622fb3ef-ccd5-4ba2-89c5-7d89ad464734,2022-12-03T20:45,"Orisa",9,7,5,Draw
+c6f7de3e-572e-4006-9223-dd53c5b76241,b3d6baac-8141-4390-9858-654aa665284e,2018-10-03T12:00,"Draven;Soldier 76;Donar an Hindar;Malzahar;Margarita Laux-Antille",4,12,8,Draw
+6db488d1-7dfc-4920-b741-2e0b2f580ff0,cadba9d3-7200-457e-af48-60e377bcca7e,2024-07-03T12:00,"Pyke;Epona;Thresh",8,14,2,Draw
+f3c0d330-016b-4e0f-aa86-cd1125a80f3b,25934abb-ebc7-48d1-8540-71145788e564,2018-12-18T16:15,"Triss Merigold;Illaoi;Sweers",0,6,16,Draw
+92550539-2118-4fce-9144-8bbf7c0f98de,82087c79-fcae-4fc1-875d-605e81176d18,2022-11-21T12:15,"Ana;Tracer;Vernon Roche;Tott;Kiki",1,10,7,Lose
+276d8350-1016-438b-a82b-e92814651108,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2020-01-19T19:45,"The Bloody Baron;Soldier 76;Zed;Mayor Dotour;Quinn",17,3,10,Win
+4f22848d-e4cf-4d43-a2c3-22f12e8f16d2,b3d6baac-8141-4390-9858-654aa665284e,2022-06-27T19:45,"Udyr;Sagessa;Malzahar;Renekton",13,4,16,Win
+63b7a28e-bca9-4d2d-b5f6-0cf016385482,6a38a193-f277-48ac-8ef8-87b6f43e682d,2016-07-13T14:00,"Zarya;Soldier 76;Nenneke",11,9,0,Win
+8aec093d-d33d-439e-8e51-e932dd7f070a,e6bf00e5-3ff4-4c59-a1c5-706f914b081a,2019-10-27T13:30,"Christine;Joachim de Wett;Reinhardt;Gragas",7,7,7,Win
+972f8c31-7df2-45a2-85ad-905a3055ffc9,fce5dec8-2a3f-4a2a-b5f5-d56470460af1,2020-05-21T16:15,"Yennefer of Vengerberg;King Radovid;Aelirenn",5,8,17,Lose
+cff8ff42-a246-4adc-801a-b20ba24e4b6e,cadba9d3-7200-457e-af48-60e377bcca7e,2020-09-29T15:15,"Zarya;Palmerin de Launfal;King Henselt;Reaper",15,8,12,Lose
+54db3660-9e0c-4869-9f6a-4a732e02cb5d,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2023-04-22T20:15,"Singed;Jenge Frett;Cho-Gath",17,9,12,Win
+973cd5ba-319d-4146-a6ef-0faad315da61,eeb36c45-0408-4c18-9781-59cc1d398a44,2017-08-04T17:15,"Fizz;Kled",13,15,5,Win
+01a23de2-4175-4520-a6a0-c246c64a1c9e,0aa495a3-3b46-447e-b1ca-8ab04f693594,2018-07-28T19:00,"Hino;Dr. Mundo;Viktor;RekSai;Deku Royalty",5,11,1,Win
+f56f9bdf-1db8-4239-ac20-d955788770eb,01027715-f54e-49f8-9167-5b364bcd298c,2021-02-07T14:45,"Ganon;Daz",10,0,0,Lose
+74fcb702-7d64-4be4-ba82-efdba1720f6f,82087c79-fcae-4fc1-875d-605e81176d18,2025-03-18T14:30,"Swain;Nami;Zenyatta;King Radovid",0,18,16,Draw
+241c300b-d7ba-44f1-af93-98c68f026b57,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2025-04-04T17:45,"Mei;Shop Keeper;Wrecking Ball;Ze Kasho;Junkrat",15,1,6,Win
+b29a414e-44f8-4c57-a490-2b2990c2e9f8,ed872a2a-5a3e-48a4-855e-cb8d1986885a,2025-08-09T20:15,"Calanthe;Thresh;Steen;Orianna;Cyclos",16,16,16,Lose
+c9074d48-d197-42fd-b9fb-75c0123335b0,641adc79-39cb-4ce3-a214-83464751fd30,2023-12-13T15:15,"Isengrim;Gaunter ODimm",15,2,18,Draw
+a2f4e9cc-b3a2-4fe0-8133-bf79f767abc0,8e1b80d7-5cb8-429d-b4b8-3ebcd096db76,2021-01-07T15:00,"Doomfist;Torbjorn",16,5,4,Draw
+23d1cd7a-e90b-406a-bce2-6a46a9d11f4f,81b4b875-d756-42f5-9185-45d357c3fcc1,2023-01-15T17:45,"Hecarim;Widowmaker",0,12,3,Lose
+0669bc18-231b-421a-aa6e-91dc507225c6,b48933fe-d7c2-4192-b9f9-dd5452ab8cb1,2017-06-17T15:30,"Camille;Bastion;Neez Yohma;Shopkeeper;Tokkey",7,2,6,Lose
+3463bc6f-d18c-4fb6-a397-d61c8e09dd98,eeb36c45-0408-4c18-9781-59cc1d398a44,2017-07-08T14:00,"Sabrina Glevissig;Albrich;Mercy",6,4,7,Win
+80bf63a8-7b1b-460d-af10-ccd0b2e669b8,09b11048-d0ad-4064-9e3c-24867f2caf29,2016-07-31T16:00,"Emhyr van Emreis;Miss Fortune;Kass;King Foltest;Milton de Peyrac-Peyran",4,4,18,Lose
+51bb9792-59d0-4fc5-b71d-208ed2d5578e,ed872a2a-5a3e-48a4-855e-cb8d1986885a,2020-06-04T12:00,"Rauru;Crach an Craite;Irelia;Hetsu",12,11,6,Win
+47df5b0d-b5b9-4780-a3c5-54f8f4ec681e,d5afd081-738b-4502-be88-4730d1a5a949,2017-12-25T14:00,"Wrecking Ball;Ana;Carduin;Sivir",16,11,14,Lose
+a11804c7-915e-48d6-baa2-03573b9c0d83,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2024-06-05T20:45,"Teemo;Hanzo",7,2,11,Lose
+8da51127-cc7a-422d-9c5a-410067dffe89,e3ae26b9-46cd-44bd-84b5-8e83207cbaf0,2022-11-20T13:15,"Yennefer of Vengerberg;Zilean",6,10,17,Draw
+3d8e11f2-d48b-406b-a999-65003c518412,78fa0e2c-9fba-411b-a64d-7a39f6cd7f4c,2021-01-06T16:30,"Olgierd von Everec;McCree",2,4,9,Lose
