@@ -23,7 +23,7 @@ End-to-end batch processing pipeline built with **Hadoop MapReduce (Java)**, **A
 ```json
 {"player_name":"shroud","team":"Vermont sheep","hero_name":"Aelirenn","wins":41,"draws":47,"losses":37,"dominant_wins":17}
 {"player_name":"shroud","team":"Vermont sheep","hero_name":"Doomfist","wins":144,"draws":145,"losses":138,"dominant_wins":82}
-
+```
 Quick Start (Docker Hadoop Cluster)
 Copy the repository into the Hadoop master container:
 
